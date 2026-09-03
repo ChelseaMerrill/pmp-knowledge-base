@@ -1,0 +1,42 @@
+# Quiz question bank. Claude appends to this when processing sources — see CLAUDE.md for the schema
+# and workflow. Seeded with a handful of examples so the format is clear from the start.
+
+- id: q-0001
+  domain: formula
+  topic: earned value management
+  question: "A project has PV = $50,000, EV = $45,000, and AC = $52,000. Is the project ahead or behind schedule, and over or under budget?"
+  answer: "Behind schedule and over budget."
+  explanation: "SV = EV - PV = 45,000 - 50,000 = -5,000 (behind schedule). CV = EV - AC = 45,000 - 52,000 = -7,000 (over budget). Negative SV/CV is unfavorable."
+  source: seed
+
+- id: q-0002
+  domain: agile
+  topic: scrum roles
+  question: "Who is accountable for maximizing the value of the product resulting from the work of the Scrum Team?"
+  answer: "The Product Owner."
+  explanation: "The Scrum Master coaches the team and removes impediments; the Product Owner owns the backlog and value."
+  source: seed
+
+- id: q-0003
+  domain: people
+  topic: conflict resolution
+  question: "A team member insists on their preferred technical approach even after being shown data favoring an alternative. Which conflict-resolution technique are they using, and what is generally the strongest long-term approach instead?"
+  answer: "They are using force/direct. Collaborate/problem-solve is generally the strongest long-term technique."
+  explanation: "Force/direct pushes one view through regardless of input; collaborate/problem-solve looks for a solution that actually addresses the underlying concern, so it holds up better over time."
+  source: seed
+
+- id: q-0004
+  domain: business-environment
+  topic: risk response
+  question: "A risk owner decides to purchase insurance to cover the financial impact of a risk if it occurs. Which risk response strategy is this?"
+  answer: "Transfer."
+  explanation: "Transfer shifts the impact of a threat to a third party (like an insurer) without eliminating it, distinct from mitigate (reduce probability/impact) or avoid (eliminate the risk entirely)."
+  source: seed
+
+- id: q-0005
+  domain: process
+  topic: critical path method
+  question: "On a network diagram, an activity has a total float of 3 days and a free float of 0 days. What does that tell you?"
+  answer: "The activity can slip up to 3 days without delaying the project end date, but any slip at all will delay the very next activity."
+  explanation: "Total float measures slack against the project finish date; free float measures slack against the next activity's early start. Zero free float with nonzero total float is common when several paths share downstream activities."
+  source: seed

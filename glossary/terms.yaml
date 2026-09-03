@@ -1,0 +1,415 @@
+# Seed glossary for the PMP knowledge base.
+# domain: people | process | business-environment (the 3 official ECO domains)
+#         agile | formula (cross-cutting tags, not official ECO domains)
+# source: 'seed' = came from the original roadmap; otherwise a path under sources/
+
+- term: Project
+  definition: A temporary endeavor undertaken to create a unique product, service, or result.
+  domain: process
+  source: seed
+- term: Program
+  definition: A group of related projects, subsidiary programs, and activities managed in a coordinated
+    way to obtain benefits not available from managing them individually.
+  domain: process
+  source: seed
+- term: Portfolio
+  definition: Projects, programs, and operations managed as a group to achieve strategic objectives.
+  domain: process
+  source: seed
+- term: PMO (Project Management Office)
+  definition: An organizational structure that standardizes governance and shares resources, methodologies,
+    and tools across projects.
+  domain: business-environment
+  source: seed
+- term: Project Charter
+  definition: The document that formally authorizes a project and gives the project manager authority
+    to apply resources to it.
+  domain: process
+  source: seed
+- term: Project Management Plan
+  definition: The document describing how the project will be executed, monitored, controlled, and closed
+    — the sum of all subsidiary plans.
+  domain: process
+  source: seed
+- term: Performance Domain
+  definition: PMBOK® Guide 8's term for the seven interrelated areas of focus (Governance, Scope, Schedule,
+    Finance, Stakeholders, Resources, Risk) that work together to deliver outcomes.
+  domain: process
+  source: seed
+- term: Focus Area
+  definition: PMBOK® Guide 8's five-stage flow — Initiating, Planning, Executing, Monitoring & Controlling,
+    Closing — successor to the old Process Groups.
+  domain: process
+  source: seed
+- term: Tailoring
+  definition: Deliberately adjusting the degree and type of project management processes, tools, and techniques
+    used, based on the project's context.
+  domain: process
+  source: seed
+- term: Predictive Approach
+  definition: A development approach where scope, schedule, and cost are determined early and changes
+    are carefully managed (traditional/waterfall).
+  domain: process
+  source: seed
+- term: Adaptive Approach
+  definition: A development approach where requirements and solutions evolve through iterative work and
+    continuous feedback (agile).
+  domain: agile
+  source: seed
+- term: Hybrid Approach
+  definition: A blend of predictive and adaptive elements tailored to a project's specific needs.
+  domain: agile
+  source: seed
+- term: Enterprise Environmental Factors (EEF)
+  definition: Conditions not under the project team's control — culture, infrastructure, market conditions
+    — that influence, constrain, or direct the project.
+  domain: business-environment
+  source: seed
+- term: Organizational Process Assets (OPA)
+  definition: Plans, processes, policies, procedures, and knowledge bases specific to and used by the
+    performing organization.
+  domain: business-environment
+  source: seed
+- term: Benefits Management Plan
+  definition: Describes how and when the strategic benefits of the project will be realized and measured.
+  domain: business-environment
+  source: seed
+- term: Business Case
+  definition: A documented economic feasibility study used to establish the validity of a project's benefits.
+  domain: business-environment
+  source: seed
+- term: Scope Baseline
+  definition: The approved version of the scope statement, WBS, and WBS dictionary, used as a basis for
+    comparison.
+  domain: process
+  source: seed
+- term: Work Breakdown Structure (WBS)
+  definition: A hierarchical decomposition of the total scope of work into smaller, more manageable components.
+  domain: process
+  source: seed
+- term: WBS Dictionary
+  definition: A document that provides detailed deliverable, activity, and scheduling information for
+    each WBS component.
+  domain: process
+  source: seed
+- term: Requirements Traceability Matrix
+  definition: A grid linking product requirements to their origin and tracking them through the project
+    lifecycle.
+  domain: process
+  source: seed
+- term: Scope Creep
+  definition: Uncontrolled expansion of project scope without adjustments to time, cost, or resources.
+  domain: process
+  source: seed
+- term: Gold Plating
+  definition: Giving the customer more than what was asked for, without approval — considered a risk,
+    not a bonus.
+  domain: process
+  source: seed
+- term: Critical Path Method (CPM)
+  definition: A technique to estimate the minimum project duration by identifying the longest sequence
+    of dependent activities.
+  domain: formula
+  source: seed
+- term: Float / Slack
+  definition: The amount of time an activity can be delayed without delaying the project end date (total
+    float) or the next activity (free float).
+  domain: formula
+  source: seed
+- term: Precedence Diagramming Method (PDM)
+  definition: A technique for constructing a schedule model where activities are represented by nodes
+    and linked by dependencies.
+  domain: formula
+  source: seed
+- term: Crashing
+  definition: A schedule compression technique that adds resources to shorten duration, usually increasing
+    cost.
+  domain: formula
+  source: seed
+- term: Fast Tracking
+  definition: A schedule compression technique that performs activities in parallel that were originally
+    planned in sequence.
+  domain: formula
+  source: seed
+- term: Rolling Wave Planning
+  definition: Iterative planning where near-term work is planned in detail and future work is planned
+    at a higher level.
+  domain: process
+  source: seed
+- term: Milestone
+  definition: A significant point or event in a project with zero duration.
+  domain: process
+  source: seed
+- term: Earned Value Management (EVM)
+  definition: A methodology that integrates scope, schedule, and cost to objectively measure project performance.
+  domain: formula
+  source: seed
+- term: Planned Value (PV)
+  definition: The authorized budget assigned to scheduled work as of a given date.
+  domain: formula
+  source: seed
+- term: Earned Value (EV)
+  definition: The value of work actually completed, expressed in terms of the approved budget.
+  domain: formula
+  source: seed
+- term: Actual Cost (AC)
+  definition: The realized cost incurred for the work performed on an activity.
+  domain: formula
+  source: seed
+- term: Cost Variance (CV) / Schedule Variance (SV)
+  definition: CV = EV − AC (are we over/under budget); SV = EV − PV (are we ahead/behind schedule).
+  domain: formula
+  source: seed
+- term: Cost Performance Index (CPI) / Schedule Performance Index (SPI)
+  definition: CPI = EV / AC (cost efficiency); SPI = EV / PV (schedule efficiency). Above 1.0 is favorable.
+  domain: formula
+  source: seed
+- term: Estimate at Completion (EAC)
+  definition: The expected total cost of completing all work, given current performance.
+  domain: formula
+  source: seed
+- term: Estimate to Complete (ETC)
+  definition: The expected cost needed to finish all remaining project work.
+  domain: formula
+  source: seed
+- term: To-Complete Performance Index (TCPI)
+  definition: The efficiency required on remaining work to meet a specified cost or budget goal.
+  domain: formula
+  source: seed
+- term: Contingency Reserve / Management Reserve
+  definition: Budget for identified risks within scope (contingency) vs. unforeseen work within scope
+    (management).
+  domain: process
+  source: seed
+- term: Three-Point Estimating (PERT)
+  definition: An estimating technique using optimistic, pessimistic, and most-likely values to calculate
+    an expected duration or cost.
+  domain: formula
+  source: seed
+- term: Cost of Quality (COQ)
+  definition: The total cost of conformance (prevention + appraisal) and nonconformance (internal + external
+    failure) work.
+  domain: process
+  source: seed
+- term: Quality Assurance vs. Quality Control
+  definition: QA is proactive, process-focused (are we following the right process?); QC is reactive,
+    product-focused (is the deliverable correct?).
+  domain: process
+  source: seed
+- term: Risk Register
+  definition: A document listing identified risks, their owners, and planned responses.
+  domain: business-environment
+  source: seed
+- term: Risk Appetite / Tolerance / Threshold
+  definition: 'Appetite: general willingness to take on risk. Tolerance: acceptable variation in outcome.
+    Threshold: the risk exposure level that triggers action.'
+  domain: business-environment
+  source: seed
+- term: Qualitative vs. Quantitative Risk Analysis
+  definition: Qualitative prioritizes risks by probability and impact; quantitative numerically analyzes
+    the effect of risks on overall objectives.
+  domain: business-environment
+  source: seed
+- term: Risk Response Strategies
+  definition: 'Threats: avoid, mitigate, transfer, accept, escalate. Opportunities: exploit, enhance,
+    share, accept.'
+  domain: business-environment
+  source: seed
+- term: Risk Owner
+  definition: The person responsible for monitoring a risk and executing the chosen response.
+  domain: business-environment
+  source: seed
+- term: Issue Log
+  definition: A document used to record and track information on issues occurring during the project.
+  domain: business-environment
+  source: seed
+- term: Fixed-Price Contract
+  definition: A contract that sets a total price for a defined scope of work, placing cost-overrun risk
+    on the seller.
+  domain: process
+  source: seed
+- term: Cost-Reimbursable Contract
+  definition: A contract that pays the seller's actual costs plus a fee, placing more cost risk on the
+    buyer.
+  domain: process
+  source: seed
+- term: Time and Materials (T&M) Contract
+  definition: A hybrid contract type paying for labor hours and materials used; open-ended, used for smaller
+    or undefined-scope work.
+  domain: process
+  source: seed
+- term: Procurement Statement of Work
+  definition: Describes the portion of scope to be included in the related contract with a seller.
+  domain: process
+  source: seed
+- term: Make-or-Buy Analysis
+  definition: Determining whether work can be done by the project team or should be purchased from an
+    outside source.
+  domain: process
+  source: seed
+- term: Source Selection Criteria
+  definition: Criteria used to rate or score seller proposals during procurement.
+  domain: process
+  source: seed
+- term: Servant Leadership
+  definition: A leadership style focused on the growth and well-being of the team, putting others' needs
+    first.
+  domain: people
+  source: seed
+- term: Emotional Intelligence (EI)
+  definition: The ability to identify and manage one's own emotions and those of others.
+  domain: people
+  source: seed
+- term: RACI Matrix
+  definition: 'A responsibility-assignment chart: Responsible, Accountable, Consulted, Informed.'
+  domain: people
+  source: seed
+- term: Stakeholder Register
+  definition: A document identifying stakeholders and their assessment and classification information.
+  domain: people
+  source: seed
+- term: Power/Interest Grid
+  definition: A stakeholder-analysis tool that groups stakeholders by their level of authority and level
+    of concern.
+  domain: people
+  source: seed
+- term: Conflict Resolution Techniques
+  definition: Collaborate/problem-solve, compromise, smooth/accommodate, force/direct, withdraw/avoid
+    — ranked roughly best to weakest for long-term resolution.
+  domain: people
+  source: seed
+- term: Tuckman's Ladder
+  definition: 'Team development stages: forming, storming, norming, performing, adjourning.'
+  domain: people
+  source: seed
+- term: Virtual / Distributed Team
+  definition: A team whose members are not colocated and collaborate primarily through technology.
+  domain: people
+  source: seed
+- term: Ground Rules
+  definition: Expectations for acceptable team behavior, often set collaboratively in a team charter.
+  domain: people
+  source: seed
+- term: Colocation
+  definition: Placing project team members in the same physical location to enhance communication and
+    performance.
+  domain: people
+  source: seed
+- term: Agile Manifesto
+  definition: The foundational 2001 statement of four values and twelve principles behind adaptive software
+    development.
+  domain: agile
+  source: seed
+- term: Scrum
+  definition: An agile framework using fixed-length sprints, defined roles, and regular inspection/adaptation
+    events.
+  domain: agile
+  source: seed
+- term: Sprint / Iteration
+  definition: A fixed, short time period (commonly 1–4 weeks) in which a usable increment of product is
+    created.
+  domain: agile
+  source: seed
+- term: Sprint Backlog / Product Backlog
+  definition: 'Product backlog: the full, prioritized list of work. Sprint backlog: the subset of items
+    selected for the current sprint.'
+  domain: agile
+  source: seed
+- term: Product Owner
+  definition: The Scrum role accountable for maximizing product value and managing the product backlog.
+  domain: agile
+  source: seed
+- term: Scrum Master
+  definition: The Scrum role that coaches the team and removes impediments, acting as a servant leader
+    to the process.
+  domain: agile
+  source: seed
+- term: Daily Standup
+  definition: A short, timeboxed daily event where the team synchronizes activities and plans the next
+    24 hours.
+  domain: agile
+  source: seed
+- term: Sprint Retrospective
+  definition: An event at the end of a sprint where the team reflects on process and identifies improvements.
+  domain: agile
+  source: seed
+- term: Sprint Review
+  definition: An event at the end of a sprint where the increment is inspected with stakeholders and the
+    backlog is adapted.
+  domain: agile
+  source: seed
+- term: Velocity
+  definition: A measure of the amount of work a team completes in a sprint, used to forecast future capacity.
+  domain: agile
+  source: seed
+- term: Story Points
+  definition: A relative, unit-less measure of the effort/complexity required to implement a user story.
+  domain: agile
+  source: seed
+- term: User Story
+  definition: A short, plain-language description of a feature from the end user's perspective.
+  domain: agile
+  source: seed
+- term: Definition of Done (DoD)
+  definition: A shared, explicit checklist of criteria a work item must meet to be considered complete.
+  domain: agile
+  source: seed
+- term: Kanban Board
+  definition: A visual workflow tool using columns to represent stages of work, used to manage flow and
+    limit WIP.
+  domain: agile
+  source: seed
+- term: WIP Limit
+  definition: A cap on the number of work items allowed in a given workflow stage at one time, used to
+    expose bottlenecks.
+  domain: agile
+  source: seed
+- term: Burndown / Burnup Chart
+  definition: Charts tracking remaining work (burndown) or completed work (burnup) against time within
+    an iteration or release.
+  domain: agile
+  source: seed
+- term: Minimum Viable Product (MVP)
+  definition: The smallest version of a product that delivers enough value to be usable and gather feedback.
+  domain: agile
+  source: seed
+- term: Timeboxing
+  definition: Allocating a fixed, maximum unit of time to an activity, after which it stops regardless
+    of completion.
+  domain: agile
+  source: seed
+- term: Spike
+  definition: A short, timeboxed investigation used to answer a question or reduce uncertainty before
+    committing to work.
+  domain: agile
+  source: seed
+- term: Change Control Board (CCB)
+  definition: A formally chartered group responsible for reviewing, evaluating, and approving or rejecting
+    project changes.
+  domain: process
+  source: seed
+- term: Configuration Management
+  definition: A subsystem of the project management plan used to manage changes to a product's or system's
+    baseline.
+  domain: process
+  source: seed
+- term: Progressive Elaboration
+  definition: Continuously improving and detailing a plan as more information and more accurate estimates
+    become available.
+  domain: process
+  source: seed
+- term: Lessons Learned Register
+  definition: A project document used to record knowledge gained so it can be used by the current and
+    future projects.
+  domain: business-environment
+  source: seed
+- term: Organizational Change Management (ADKAR)
+  definition: 'A structured approach to transitioning people through change: Awareness, Desire, Knowledge,
+    Ability, Reinforcement.'
+  domain: business-environment
+  source: seed
+- term: Value Delivery / Benefits Realization
+  definition: Ensuring project outputs are converted into outcomes that produce the intended business
+    benefits.
+  domain: business-environment
+  source: seed

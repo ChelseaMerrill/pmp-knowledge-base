@@ -1,0 +1,168 @@
+# The 12-week study plan this knowledge base was seeded from.
+# domains here use the same values as glossary/terms.yaml and practice/questions.yaml.
+start_week_of: 2026-09-07
+exam_format:
+  questions_total: 180
+  questions_scored: 170
+  minutes: 240
+  breaks: "two 10-minute breaks"
+  domain_weights:
+    people: 33
+    process: 41
+    business-environment: 26
+  approach_mix: "~40% predictive, ~60% agile/hybrid"
+
+months:
+  - number: 1
+    title: Predictive foundations
+    range: "Sep 7 – Oct 4"
+    weeks:
+      - number: 1
+        dates: "Sep 7–13"
+        title: "Get oriented: exam blueprint & PM foundations"
+        domains: [process, business-environment]
+        hours: "8-10"
+        tasks:
+          - Read the official 2026 PMP Examination Content Outline; note the 3 domains & weights
+          - "Skim PMBOK Guide 8: the 6 principles, 7 performance domains, 5 focus areas"
+          - Learn project vs. operations, project life cycle, and org structures (functional/matrix/projectized)
+          - Create your PMI.org account; confirm which eligibility pathway you qualify for
+          - Start a free 35-contact-hour course and begin logging hours
+          - Take a 60-question diagnostic practice test to find your weak spots
+      - number: 2
+        dates: "Sep 14–20"
+        title: "Integration: getting projects started"
+        domains: [process]
+        hours: "9"
+        tasks:
+          - Study the project charter, business case, and benefits management plan
+          - Learn the project management plan and its subsidiary plans
+          - Understand integrated change control and the change control board (CCB)
+          - Learn tailoring — how predictive, agile, and hybrid adapt the same processes
+          - Drill 10-15 integration-term flashcards
+          - 30-question practice set on integration & charter topics
+      - number: 3
+        dates: "Sep 21–27"
+        title: "Scope & early value delivery"
+        domains: [process]
+        hours: "9"
+        tasks:
+          - Study the scope management plan, requirements-gathering techniques, WBS & WBS dictionary
+          - Learn scope creep vs. gold plating and how scope is controlled
+          - "Study value-based delivery: MVP, incremental delivery, value-stream basics"
+          - Practice building a WBS from a sample project
+          - 30-question practice set on scope
+      - number: 4
+        dates: "Sep 28–Oct 4"
+        title: "Schedule, resources & Month 1 checkpoint"
+        domains: [process, formula]
+        hours: "10-12"
+        tasks:
+          - Learn network diagrams, critical path method, float/slack, crashing vs. fast-tracking
+          - "Study resource planning: RAM, resource leveling/smoothing, team charter"
+          - Work 3 critical-path problems by hand until it's automatic
+          - Review your Month 1 flashcards end to end
+          - Take a 75-question cumulative test on Weeks 1-4; log your domain-level score
+
+  - number: 2
+    title: Agile, people & the rest of process
+    range: "Oct 5 – Nov 1"
+    weeks:
+      - number: 5
+        dates: "Oct 5–11"
+        title: "Cost, procurement & quality"
+        domains: [process, formula]
+        hours: "10"
+        tasks:
+          - "Learn budgeting and the EVM formulas: PV, EV, AC, CV, SV, CPI, SPI, EAC, ETC, TCPI"
+          - Work 15 EVM problems until the formulas are automatic
+          - "Study contract types (fixed-price, cost-reimbursable, T&M) and procurement documents"
+          - Learn cost of quality and core quality tools (checklist, Pareto, cause-and-effect)
+          - 30-question practice set on cost/procurement/quality
+      - number: 6
+        dates: "Oct 12–18"
+        title: "Agile & hybrid foundations"
+        domains: [agile]
+        hours: "10-12"
+        tasks:
+          - Read the Agile Manifesto and its 12 principles start to finish
+          - Learn Scrum roles, events & artifacts; compare to Kanban and XP
+          - Learn story points, velocity, burndown/burnup charts, agile estimation
+          - Study how to select and tailor an approach (predictive vs. agile vs. hybrid) for a given project
+          - "30-question practice set: agile/hybrid only — this is 60% of the real exam"
+      - number: 7
+        dates: "Oct 19–25"
+        title: "Leading the team (People I)"
+        domains: [people]
+        hours: "8-10"
+        tasks:
+          - Study servant leadership, emotional intelligence, and motivation theory
+          - "Learn Tuckman's stages: forming, storming, norming, performing, adjourning"
+          - Study conflict-resolution techniques (collaborate, compromise, smooth, force, withdraw) with scenarios
+          - Learn ground rules, team charters, and virtual/distributed team practices
+          - 30-question practice set on team leadership & conflict
+      - number: 8
+        dates: "Oct 26–Nov 1"
+        title: "Stakeholders & comms + Month 2 checkpoint"
+        domains: [people]
+        hours: "10-12"
+        tasks:
+          - Study stakeholder identification, the power/interest grid, and the stakeholder register
+          - Learn the communications management plan and the channels formula n(n-1)/2
+          - Study knowledge-transfer techniques and RACI matrices
+          - Review Month 2 flashcards (agile + people terms)
+          - Take a 100-120 question cumulative test on Weeks 1-8; log domain scores
+
+  - number: 3
+    title: Business environment & test-readiness
+    range: "Nov 2 – Nov 29"
+    weeks:
+      - number: 9
+        dates: "Nov 2–8"
+        title: "Risk & governance"
+        domains: [business-environment]
+        hours: "9"
+        tasks:
+          - Study the risk register, risk appetite/tolerance/threshold, and qualitative vs. quantitative analysis
+          - Learn risk responses — threats (avoid/mitigate/transfer/accept/escalate) & opportunities (exploit/enhance/share/accept)
+          - Study project governance structures and compliance planning
+          - Work 20 risk-scenario questions
+          - Add risk & governance terms to your flashcards
+      - number: 10
+        dates: "Nov 9–15"
+        title: "Change, issues & continuous improvement"
+        domains: [business-environment]
+        hours: "9"
+        tasks:
+          - Study issue logs, impediment removal, and escalation paths
+          - "Learn continuous improvement: retrospectives, lessons learned, Kaizen basics"
+          - Study organizational change models (e.g. ADKAR) and the PM's role in supporting change
+          - Learn how external factors — market, regulatory, sustainability, AI adoption — affect projects (new 2026 emphasis)
+          - 30-question practice set on business environment topics
+      - number: 11
+        dates: "Nov 16–22"
+        title: "Closing out + first full mock exam"
+        domains: [process, people, business-environment]
+        hours: "12"
+        tasks:
+          - Study evaluating project status (variance analysis, status reports) and formal project/phase closure
+          - Take a full 180-question timed mock exam under real conditions — no notes, no pausing
+          - Score it by domain; build a remediation list of your 3 weakest topics
+          - Re-read glossary entries tied to those weak areas
+      - number: 12
+        dates: "Nov 23–29"
+        title: "Remediation + second mock exam"
+        domains: [process, people, business-environment]
+        hours: "10-12"
+        tasks:
+          - Spend 4-5 hours drilling only your weak-area topics from Week 11
+          - Take a second full-length timed mock exam; compare to your Week 11 score
+          - Redo EVM & critical-path problems until they're fast and error-free
+          - Schedule your exam via Pearson VUE; confirm ID requirements and test-center vs. online-proctored
+
+final_stretch:
+  title: "Final stretch (the days before your exam)"
+  note: >
+    Taper, don't cram: skim your glossary and formula sheet only, no new material. Take the day
+    before off entirely. Arrive or log in early, bring the required ID, and trust the 12 weeks of
+    work behind you.
