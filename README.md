@@ -27,6 +27,7 @@ behind them.
 | `glossary/terms.yaml` | Canonical term list, tagged by domain and originating source |
 | `practice/` | Question bank, your attempt history, and a running mistakes list |
 | `reports/` | Dated weak-area snapshots |
+| `study-guide/guide.md` | Chelsea's own running study guide, added to directly (not source-generated) |
 
 ## Exam reference
 
