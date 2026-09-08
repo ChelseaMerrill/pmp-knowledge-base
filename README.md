@@ -28,6 +28,7 @@ behind them.
 | `practice/` | Question bank, your attempt history, and a running mistakes list |
 | `reports/` | Dated weak-area snapshots |
 | `study-guide/guide.md` | Chelsea's own running study guide, added to directly (not source-generated) |
+| `notes/notes.md` | One running notes page — Claude appends to it on request as Chelsea learns things |
 
 ## Exam reference
 
