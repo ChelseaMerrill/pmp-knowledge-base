@@ -1,4 +1,5 @@
 ---
+name: notes
 description: Append a quick note to notes/notes.md, the dashboard's single running notes page
 argument-hint: [what you want to remember]
 ---
