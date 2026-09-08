@@ -50,11 +50,12 @@ rather than guessing at its content.
 ## Notes page
 
 `notes/notes.md` is a single, running capture file for things Chelsea tells you to note as she learns
-them — e.g. "add to notes: ..." or "note that ...". Append the new point under the relevant domain
-heading (create the heading if it doesn't exist yet), lightly deduplicating against what's already
-there. Don't confuse this with `domains/` (canonical, deduplicated notes built from processing sources)
-or `study-guide/guide.md` (her own writing, hers alone to edit) — and don't create a second notes file;
-there is only ever one.
+them — e.g. "add to notes: ..." or "note that ...", or the `/notes <text>` slash command
+(`.claude/commands/notes.md`), which does the same thing. Append the new point under the relevant
+domain heading (create the heading if it doesn't exist yet), lightly deduplicating against what's
+already there. Don't confuse this with `domains/` (canonical, deduplicated notes built from processing
+sources) or `study-guide/guide.md` (her own writing, hers alone to edit) — and don't create a second
+notes file; there is only ever one.
 
 ## File schemas
 
