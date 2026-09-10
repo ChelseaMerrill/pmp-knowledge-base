@@ -55,3 +55,24 @@ These are two distinct ECO tasks and the exam draws a real line between them:
 Effective communication with stakeholders throughout is what actually minimizes risk and avoids delay
 — identification alone isn't enough. See [communication-management.md](communication-management.md)
 for the Communication Management Plan and the channel-count formula.
+
+## The Sponsor, specifically
+
+The Sponsor assigns the PM, provides authority, supports the team, and is the first escalation point
+when a matter is beyond the PM's own authority. The sponsor sits on the **Steering Committee (SteeCo)**
+— an advisory body that provides direction and makes decisions outside the project team's authority
+(see the glossary's Steering Committee entry). The customer is a key stakeholder but a distinct role
+from the sponsor.
+
+## Measuring engagement, and which plan to check
+
+- **NPS (Net Promoter Score)** and **mood charts** are the tools used to measure stakeholder
+  satisfaction over time.
+- If a stakeholder isn't committed or keeps skipping meetings → review the **stakeholder engagement
+  plan** (are they even correctly categorized/targeted for engagement?).
+- If information isn't reaching the people who need it → review the **Communications Management Plan**
+  instead (this is a delivery-mechanism problem, not an engagement-strategy problem).
+- When there are too many stakeholders with very different update needs (some need only a high-level
+  summary, others need frequent detail), the tool to build is the **stakeholder engagement plan** —
+  not just the power/interest grid, which classifies stakeholders but doesn't itself define the
+  communication cadence.

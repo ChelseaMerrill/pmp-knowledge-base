@@ -27,9 +27,9 @@ sound like traditional PM content.
   organizational structures and PM authority (functional/matrix/projectized), business value,
   product/project/program/portfolio hierarchy, sustainability (triple bottom line), value framing.
 - **Governance & compliance:** project governance structures, compliance planning, PMO's role.
-- **Risk:** risk register, risk appetite/tolerance/threshold, qualitative vs. quantitative analysis,
-  the four threat responses (avoid/mitigate/transfer/accept/escalate) and four opportunity responses
-  (exploit/enhance/share/accept), risk owners.
+- **Risk:** see [risk-management.md](risk-management.md) — the risk management process, risk vs.
+  issue, VUCA factors, contingency vs. management reserve, threat/opportunity response strategies,
+  risk audit vs. review. Also: risk register, risk appetite/tolerance/threshold, risk owners.
 - **Change & issues:** integrated change control lives in Process, but the organizational-change side
   — issue logs, impediment removal, escalation paths, ADKAR — lives here.
 - **Continuous improvement:** retrospectives, lessons learned register, Kaizen-style incremental

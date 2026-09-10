@@ -30,16 +30,24 @@ lives. As you process sources, split this into topic files (e.g. `evm-formulas.m
   the charter, not before. Change requests only apply once a baseline exists (post-authorization); a
   gap found during charter development is a finding to escalate to the sponsor, not yet a change
   request. Agile projects don't route changes through a CCB the way predictive projects do.
-- **Scope:** scope baseline, WBS and WBS dictionary, requirements traceability matrix, scope creep vs.
-  gold plating.
-- **Schedule:** critical path method, float/slack, precedence diagramming, crashing vs. fast-tracking,
-  rolling wave planning, milestones.
+- **Scope & schedule control:** see
+  [schedule-and-change-control.md](schedule-and-change-control.md) — scope control vs. validation,
+  lead/lag, resource leveling vs. smoothing, the 8-step Integrated Change Control process, and the
+  predictive/adaptive/hybrid practice split. Also: scope baseline, WBS and WBS dictionary, requirements
+  traceability matrix, scope creep vs. gold plating, critical path method, float/slack, precedence
+  diagramming, rolling wave planning, milestones.
 - **Cost / EVM:** PV, EV, AC, CV, SV, CPI, SPI, EAC, ETC, TCPI, contingency vs. management reserve,
   three-point (PERT) estimating. This is the single highest-value formula set on the exam — drill it
-  until it's automatic, not just memorized.
-- **Quality:** cost of quality (conformance vs. nonconformance), QA vs. QC.
-- **Procurement:** fixed-price / cost-reimbursable / T&M contracts, procurement statement of work,
-  make-or-buy analysis, source selection criteria.
+  until it's automatic, not just memorized. See
+  [assessing-performance.md](assessing-performance.md) for BAC/VAC and reading CV/SV together.
+- **Estimation:** see [estimation-techniques.md](estimation-techniques.md) — ROM/budgetary/definitive
+  ranges, analogous/parametric/bottom-up, the two three-point formulas, and agile velocity-based
+  estimating.
+- **Quality:** see [quality-management.md](quality-management.md) — QA vs. QC vs. audit, cost of
+  conformance/nonconformance, root cause tools, regulations vs. standards.
+- **Procurement:** see [procurement.md](procurement.md) — RFQ/RFP/RFI, bidder conferences, vendor
+  selection, contract subfamilies, dispute resolution. Also: fixed-price / cost-reimbursable / T&M
+  contracts, procurement statement of work, make-or-buy analysis, source selection criteria.
 - **Value delivery:** MVP, incremental delivery, value-stream basics — this task is new/expanded in
   the 2026 outline and blends process mechanics with agile thinking.
 - **Financial selection:** see [financial-selection-techniques.md](financial-selection-techniques.md)

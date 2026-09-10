@@ -23,12 +23,14 @@ per concept, not one per source it came from.
 
 ## Seeded starting points (see glossary/terms.yaml for full definitions)
 
-- **Leading the team:** servant leadership, emotional intelligence, motivation theory, Tuckman's
-  ladder (forming/storming/norming/performing/adjourning), ground rules, team charters, virtual and
-  distributed teams, colocation.
-- **Conflict:** the five conflict-resolution techniques (collaborate/problem-solve, compromise,
-  smooth/accommodate, force/direct, withdraw/avoid) and when each is actually appropriate versus a
-  fallback.
+- **Leading the team:** see [leadership-and-team.md](leadership-and-team.md) — leadership styles,
+  power types, motivation theories (Theory X/Y/Z, Expectancy, Herzberg), Tuckman's ladder paired with
+  when team-building and the team charter actually happen, empowerment, virtual/distributed teams.
+- **Conflict:** see [conflict-resolution.md](conflict-resolution.md) — the five techniques ranked
+  best-to-weakest, how to actually run a conflict conversation, and the disagree-with-a-stakeholder
+  procedure.
+- **Agile roles & events:** see [agile-roles-and-events.md](agile-roles-and-events.md) — PO/Scrum
+  Master/Dev Team, DoR vs. DoD, sprint structure, burn-down vs. burn-up, iterative vs. incremental.
 - **Stakeholders:** see [stakeholder-engagement.md](stakeholder-engagement.md) — stakeholder register,
   the power/interest grid, and the distinction between aligning expectations up front vs. managing
   them as the project runs.

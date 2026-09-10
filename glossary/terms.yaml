@@ -225,12 +225,14 @@
   source: seed
 - term: Fixed-Price Contract
   definition: A contract that sets a total price for a defined scope of work, placing cost-overrun risk
-    on the seller.
+    on the seller. Subfamilies: FFP (Firm Fixed Price), FPIF (Fixed Price Incentive Fee), FPEPA (Fixed
+    Price with Economic Price Adjustment).
   domain: process
   source: seed
 - term: Cost-Reimbursable Contract
   definition: A contract that pays the seller's actual costs plus a fee, placing more cost risk on the
-    buyer.
+    buyer. Subfamilies: CPFF (Cost Plus Fixed Fee), CPAF (Cost Plus Award Fee), CPIF (Cost Plus
+    Incentive Fee).
   domain: process
   source: seed
 - term: Time and Materials (T&M) Contract
@@ -936,3 +938,181 @@
     overlapping titles for the same function, not distinct roles.
   domain: agile
   source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+- term: PMI Talent Triangle
+  definition: The three key PM skill areas PMI expects — business acumen, ways of working (technical
+    PM skills), and power skills (interpersonal/leadership skills).
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: PMI Code of Ethics and Professional Conduct
+  definition: PMI's four core values for professional conduct — Honesty, Respect, Fairness,
+    Responsibility. Requires PMs to report accurate information promptly, comply with laws/regulations,
+    and not conceal errors or omissions they discover.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: PMO Structures by Control Level
+  definition: 'Three levels of PMO control, low to high: Supportive (consultative, provides
+    templates/best practices on request), Controlling (requires compliance with frameworks/templates),
+    Directive (directly manages the projects).'
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Leadership Styles
+  definition: 'Situational (most common — matches style to the situation), Servant, Democratic,
+    Transformational, Laissez-faire, Transactional, Charismatic, Authentic, Autocratic, and
+    Interactional (a mix of Charismatic, Transactional, Transformational).'
+  domain: people
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Power Types
+  definition: 'Sources of a PM''s influence: Legitimate (formal position), Reward, Punish, Referent
+    (personal respect/charisma), Expert (knowledge/skill), and Situational.'
+  domain: people
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Motivation Theory (Theory X/Y/Z)
+  definition: 'Theory X assumes people dislike work and need control; Theory Y assumes people are
+    self-motivated and seek responsibility; Theory Z (Ouchi) emphasizes long-term employment,
+    collective decision-making, and employee well-being.'
+  domain: people
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Expectancy Theory
+  definition: A motivation theory holding that motivation depends on believing effort leads to
+    performance, and performance leads to a valued reward.
+  domain: people
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Herzberg's Two-Factor Theory
+  definition: Distinguishes intrinsic motivators (achievement, recognition, growth) from extrinsic
+    hygiene factors (salary, conditions, policies) — hygiene factors prevent dissatisfaction but don't
+    themselves motivate.
+  domain: people
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Team Charter
+  definition: A document, established during the Norming stage of team development, that captures how
+    a team agrees to work together — including its ground rules.
+  domain: people
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Lean
+  definition: A management approach focused on continuous improvement of existing processes by
+    eliminating waste.
+  domain: agile
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Scrum of Scrums
+  definition: A coordination mechanism for synchronizing work across multiple Scrum teams and Scrum
+    Masters working on the same larger initiative.
+  domain: agile
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Definition of Ready (DoR)
+  definition: A checklist of criteria a backlog item must meet before it can be pulled into sprint
+    planning — applied at Planning, as distinct from the Definition of Done, applied at Review.
+  domain: agile
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Minimum Marketable Product (MMP)
+  definition: The smallest product release with enough features to be sellable, prioritizing speed to
+    market over the feedback/risk-reduction goal an MVP emphasizes.
+  domain: agile
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Resource Leveling
+  definition: A technique for resolving over-allocated resources by expanding the schedule.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Resource Smoothing
+  definition: A technique for resolving resource conflicts using existing schedule slack, without
+    expanding the schedule.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Lead (Schedule)
+  definition: A planning parameter allowing a successor activity to start before its predecessor
+    finishes (overlap). Set during the Planning phase.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Lag (Schedule)
+  definition: A planning parameter enforcing a delay between a predecessor activity finishing and a
+    successor starting. Set during the Planning phase.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Request For Quotation (RFQ) / Proposal (RFP) / Information (RFI)
+  definition: 'Procurement request types: RFQ asks for pricing on a well-defined item; RFP asks for a
+    full proposed approach on less-defined, complex work; RFI asks for general information before
+    deciding what to formally request.'
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Bidder Conference
+  definition: A meeting where the buyer answers seller questions and clarifies bid terms/conditions to
+    all bidders at once, ensuring a level playing field.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Exit Criteria
+  definition: The conditions a contract or project must meet to be considered complete.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Procurement Audit
+  definition: A formal review of procurement processes, procedures, and activities across a project or
+    organization.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Dispute Resolution Steps
+  definition: 'The order procurement disputes should escalate through: (1) direct negotiation, (2)
+    indirect negotiation (mediation/arbitration), (3) litigation, as a last resort.'
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Grading
+  definition: Ranking between products or categories of differing scope/features — distinct from
+    quality, which measures whether a deliverable meets its own requirements and fitness for use.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Regulations vs. Standards
+  definition: Regulations are legally mandatory and must be complied with. Standards are guidelines —
+    best practice, not a requirement, unless a contract or regulation specifically mandates them.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Kaizen
+  definition: A continuous-improvement philosophy applied to processes, including quality processes.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Technical Debt
+  definition: Delayed error-correction in a product or codebase — the longer it's deferred, the
+    costlier it becomes to fix.
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Root Cause Analysis Tools
+  definition: 'Techniques for tracing a defect or non-conformance back to its actual cause: the
+    Fishbone (Ishikawa) diagram, the 5 Whys, and Why-Why diagrams.'
+  domain: process
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Estimate Precision Ranges (ROM/Budgetary/Definitive)
+  definition: 'Expected accuracy by estimate type: Rough Order of Magnitude (ROM) −25%/+75%,
+    Conceptual/Budgetary −10%/+25%, Definitive −5%/+10%. Precision tightens as planning matures.'
+  domain: formula
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Risk Breakdown Structure (RBS)
+  definition: A hierarchical categorization of risk sources — Technical, External, Organizational,
+    Managerial.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: VUCA (Volatility, Uncertainty, Complexity, Ambiguity)
+  definition: 'Four factors used to characterize a risk environment: Volatility (unpredictable,
+    fast-changing), Uncertainty (unclear present/future), Complexity (many interconnected factors),
+    Ambiguity (lack of clarity about the event itself).'
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Active Acceptance / Passive Acceptance
+  definition: Active acceptance takes some preparatory action (e.g. setting aside contingency) for an
+    accepted risk; passive acceptance just monitors and responds only if/when the risk occurs.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Risk Audit / Risk Review
+  definition: A risk audit checks the effectiveness of the risk management process itself; a risk
+    review re-checks the effectiveness of the response plans already in place.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Trigger Condition
+  definition: An event or condition that indicates a risk is about to occur or has occurred, prompting
+    the planned response.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Budget at Completion (BAC)
+  definition: The total planned/approved budget for the project.
+  domain: formula
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Variance at Completion (VAC)
+  definition: 'BAC minus EAC — the expected budget over/under at project completion, given current
+    performance.'
+  domain: formula
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md

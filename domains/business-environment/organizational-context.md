@@ -67,3 +67,32 @@ approvals within a project.
 A set of rules or promises — usually via confidentiality agreements — that limit access to or
 distribution of certain information. Relevant to compliance and governance (ECO Business Environment
 task 2).
+
+## PMO structures, by level of control
+
+**Supportive** (low control — consultative, provides templates/best practices on request) →
+**Controlling** (moderate — requires compliance with frameworks/templates) → **Directive** (high —
+directly manages the projects). Higher control generally means less project-level autonomy for
+individual PMs.
+
+## PMI's Code of Ethics and key skills
+
+- **Code of ethics values:** Honesty, Respect, Fairness, Responsibility.
+- **Key skill areas:** Business acumen, Ways of working, Power skills.
+- Most exam questions are best answered according to PMI's best practices and recommended
+  tools/templates — not purely from personal experience, though some genuinely rely on judgment.
+
+## Business case timing and project success
+
+- The **Business Case** represents the study phase *before* the project exists — it justifies the
+  project's existence. The PM isn't necessarily involved in writing it, but must consult it if
+  stakeholders aren't aligned on objectives/deliverables once the project starts. A project should
+  never harm the company relative to what the business case promised.
+- **Project success criteria** must be defined at the very start of the project; success means the
+  project aligns with company strategy, meets its constraints, and creates/delivers value — not just
+  hitting scope/schedule/cost.
+- **SWOT Analysis** (Strengths/Weaknesses = internal; Opportunities/Threats = external, positive or
+  negative) is the go-to tool specifically when a company is considering a new technology or strategic
+  option.
+- For an organizational transition project specifically, assess company culture and change acceptance
+  before proceeding — resistance to change is natural and expected, not a reason to dismiss concerns.

@@ -52,6 +52,23 @@ the documentation for this). See the full table in
 1-year wait before reapplying (no wait if the window just expires). Once certified, maintain the PMP
 with 60 PDUs every 3 years (CCR).
 
+**Pacing:** 180 questions in three 60-question blocks (10-minute break after each of the first two) —
+roughly 1 min 17 sec/question. Budget up to 3 translation-feature uses and up to 3 flagged-for-review
+questions per block; review flagged questions before each break. If still stuck on a question past
+~50 seconds, that's the cue to pick an answer and move on.
+
+**Elimination heuristics** — rule out an answer that: does nothing / ignores the issue, escalates to
+a higher authority (unless escalation is genuinely correct for that scenario), fires/replaces/releases
+a team member, asks the team to work overtime, delegates the solution away, or describes a process
+irrelevant to the situation. When a question asks what to do *first*, prefer the option that comes
+first chronologically — usually assess/evaluate/analyze/review. Prefer the more specific answer over
+the general one when both seem to apply. Face the issue directly rather than delegating it away, and
+treat escalation as a last resort, not a first move.
+
+**Scenario approach:** (1) identify the context/situation, (2) is it Waterfall, Hybrid, or Agile?,
+(3) is it a risk, change, conflict, or sprint-mechanics question?, (4) apply the next step in that
+specific process/mindset — don't answer a Waterfall question with Agile instincts or vice versa.
+
 ---
 PMP® and PMBOK® are registered marks of the Project Management Institute, Inc. This repo is an
 independent personal study aid and is not affiliated with or endorsed by PMI.

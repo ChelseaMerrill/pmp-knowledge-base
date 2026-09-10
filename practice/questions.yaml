@@ -336,3 +336,147 @@
   answer: "Operations are ongoing endeavors that generate repetitive outputs — the continuous execution of activities per an organization's procedures to produce the same result or a recurring service. There's no such thing as an 'ongoing project.'"
   explanation: "A project is temporary with a unique result; an operation is permanent/ongoing with a repetitive result. Production, manufacturing, and accounting are examples of operations, not projects."
   source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0043
+  domain: business-environment
+  topic: organizational structures
+  question: "In a weak matrix organization, who's in charge of hiring when additional team members are needed?"
+  answer: "The functional manager."
+  explanation: "In a weak matrix, authority leans functional — the functional manager controls staffing decisions, not the PM."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0044
+  domain: business-environment
+  topic: organizational structures
+  question: "In which organizational structure does the project manager have the most control?"
+  answer: "Projectized."
+  explanation: "Projectized gives the PM full authority over the project — more than strong matrix, balanced matrix, or weak matrix, in that order."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0045
+  domain: process
+  topic: project success
+  question: "A senior engineer is newly assigned to manage an Agile project. What should they do first to set the project up for success?"
+  answer: "Define the project success criteria."
+  explanation: "Before identifying risks, planning sprint activities, or defining quality metrics, the project needs an agreed definition of what success actually looks like — everything else should trace back to that."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0046
+  domain: process
+  topic: business value
+  question: "All requirements have been gathered for a new software build. What should the team focus on next?"
+  answer: "Delivering value to the customer."
+  explanation: "Cost reduction, teamwork, and hitting the schedule are all secondary to the actual point of the project — delivering value that satisfies the gathered requirements."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0047
+  domain: business-environment
+  topic: organizational change
+  question: "A large organization adopted Agile based on industry trends, invested heavily, but the implementation failed within months. What should the PM have done differently?"
+  answer: "Assessed the organization's culture, performed a suitability analysis, and determined the future state before implementing."
+  explanation: "Training everyone, running a postmortem, or hiring a third-party team are all downstream fixes — the actual gap was skipping the upfront culture/suitability assessment that determines whether and how Agile should be adopted at all."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0048
+  domain: process
+  topic: development approach
+  question: "A component was being built predictively per the scope management plan, but changing regulations lead the team to request switching to Agile. What should the PM do first?"
+  answer: "Analyze the requirements that would need to be addressed under the requested (Agile) method."
+  explanation: "Before escalating for money, routing to the PMO, or seeking sponsor approval, the PM needs to understand what the change in approach actually requires — that analysis is what any of those next steps would be based on."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0049
+  domain: process
+  topic: project closure
+  question: "During closing, the PM learns a deliverable isn't meeting customer expectations. How should they proceed?"
+  answer: "Review the deliverable requirements, check the customer's approval criteria, and proceed accordingly."
+  explanation: "This grounds the next step in what was actually agreed to, rather than jumping to a new change request, an ad hoc scope negotiation, or looping in the sponsor before even confirming what the criteria said."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0050
+  domain: business-environment
+  topic: organizational process assets
+  question: "During sprint zero, a team member recalls a similar past project that went over budget and behind schedule. Where should the PM look for that project's performance details?"
+  answer: "In the Organizational Process Assets (OPAs)."
+  explanation: "Historical project performance data is exactly what OPAs are for — not EEFs (external conditions), the issue log (current project's own issues), and it's not irrelevant just because the past project used a different development approach."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0051
+  domain: people
+  topic: stakeholder engagement
+  question: "Two weeks after charter approval on a global project, the PM realizes it was approved based on a different understanding among international stakeholders than what was actually presented. What should the PM have done to prevent this?"
+  answer: "Validated each stakeholder's understanding during the kickoff meeting."
+  explanation: "Sending minutes afterward or reviewing approvals later are both after-the-fact fixes; actively validating understanding in the room (across cultures/time zones) is what prevents the misalignment in the first place."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0052
+  domain: process
+  topic: requirements
+  question: "A PM receives a requirements document from the customer but finds several requirements, outputs, and the project's ultimate goal hard to understand. What should the PM do next?"
+  answer: "Ask the customer for clarification."
+  explanation: "Don't reject the project, start planning around assumptions, or acquire a separate team to reverse-engineer intent — go to the source and ask."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0053
+  domain: people
+  topic: stakeholder engagement
+  question: "A project has dozens of stakeholders — most need only high-level updates, a few need detailed, frequent updates. What should the PM create to address this?"
+  answer: "A stakeholder engagement plan."
+  explanation: "The power/interest grid classifies stakeholders but doesn't itself define communication cadence and depth; the salience model and engagement assessment matrix are related but the engagement plan is the actual deliverable that operationalizes differentiated engagement."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0054
+  domain: people
+  topic: stakeholder engagement
+  question: "Mid-project, stakeholder engagement seems to be fading and the PM wants to measure satisfaction. Which two tools/techniques help most directly?"
+  answer: "Net Promoter Score (NPS) and mood charts."
+  explanation: "The power/interest grid and engagement assessment matrix are classification/planning tools, not satisfaction-measurement tools — NPS and mood charts are the ones that actually gauge how stakeholders currently feel."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0055
+  domain: business-environment
+  topic: project closure
+  question: "Halfway through a 3D modeling project, the sponsor requests termination because an unrelated external change (a nearby dam) will make the deliverable's location unappealing. What should the PM do?"
+  answer: "Terminate the project as per the sponsor's request."
+  explanation: "The sponsor has the authority to end the project, and the stated reason is legitimate (external change affecting value) — negotiating to continue or insisting the dam is irrelevant both override a decision that's the sponsor's to make."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0056
+  domain: process
+  topic: integrated change control
+  question: "The PM proposed a plan to the CCB for a scope deviation; the CCB approved a different implementation method than the PM's own proposal. The PM disagrees with the approved method. What should they do?"
+  answer: "Implement the change using the approved method."
+  explanation: "Once the CCB decides, the PM implements the approved decision exactly as approved — not their own preferred alternative, and not by refusing, resigning, or trying to relitigate the decision with a new prototype."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0057
+  domain: people
+  topic: communication planning
+  question: "A PM leads a project for a client; a representative verbally agreed by phone to an extra $8,000 in added scope, then later refused to pay when invoiced. What could the PM have done differently?"
+  answer: "Chosen a more appropriate communication channel — i.e., gotten the agreement in writing rather than relying on a verbal phone agreement."
+  explanation: "Cutting scope or negotiating a lower price after the fact don't address the actual root cause: an informal, undocumented commitment for a cost-impacting change."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0058
+  domain: people
+  topic: stakeholder engagement
+  question: "A legal stakeholder skips meetings and shows no interest in the product design during planning. How should the PM handle this?"
+  answer: "Review the stakeholder engagement plan and communication strategy."
+  explanation: "Escalating immediately, chasing the stakeholder down personally, or just updating the register without a strategy change all skip the actual diagnostic step — check whether the current engagement approach even fits this stakeholder before doing anything else."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0059
+  domain: process
+  topic: earned value management
+  question: "A project has BAC = $500,000 and a current EAC of $540,000. What's the Variance at Completion (VAC), and what does it mean?"
+  answer: "VAC = BAC − EAC = 500,000 − 540,000 = −$40,000, meaning the project is forecast to finish $40,000 over its original budget."
+  explanation: "VAC extends the EVM formula set: a negative VAC signals an unfavorable budget outcome at completion, the same direction convention as CV and SV."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0060
+  domain: process
+  topic: schedule control
+  question: "A resource is over-allocated across two activities. The PM has schedule slack available and doesn't want to push out the project end date. Should they use resource leveling or resource smoothing?"
+  answer: "Resource smoothing — it resolves the conflict using existing slack without expanding the schedule."
+  explanation: "Resource leveling would also fix the over-allocation but does so by expanding the schedule, which isn't what the PM wants here."
+  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
