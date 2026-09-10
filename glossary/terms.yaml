@@ -413,3 +413,9 @@
     benefits.
   domain: business-environment
   source: seed
+- term: Murder Board
+  definition: A committee of experts (senior managers and subject matter experts) that critically and
+    aggressively evaluates a project proposal, asking tough questions to look for reasons the project
+    should not be considered. It is a project selection technique used before a project is approved.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md

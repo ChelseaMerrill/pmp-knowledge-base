@@ -25,6 +25,7 @@ and `study-guide/guide.md` for my own writing.
 - The triangle of constraints is cost, scope, and schedule. The predictive approach has a fixed
   scope and variable cost and schedule. For an agile approach, the scope is variable and the cost
   and schedule are fixed.
+- Types of delivery: single, multiple, periodic, and continuous.
 
 ## Business Environment
 
