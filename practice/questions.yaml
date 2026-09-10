@@ -480,3 +480,27 @@
   answer: "Resource smoothing — it resolves the conflict using existing slack without expanding the schedule."
   explanation: "Resource leveling would also fix the over-allocation but does so by expanding the schedule, which isn't what the PM wants here."
   source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+
+- id: q-0061
+  domain: people
+  topic: active listening
+  question: "A stakeholder is explaining a concern. Before responding with a solution, what should the PM do to confirm they actually understood the concern correctly?"
+  answer: "Paraphrase — reword what the stakeholder said back to them, giving them a chance to correct any misunderstanding."
+  explanation: "Paraphrasing closes the loop on understanding before acting; jumping straight to a solution risks solving the wrong problem."
+  source: sources/guides/2026-09-10-active-listening-skills.md
+
+- id: q-0062
+  domain: people
+  topic: active listening
+  question: "During a heated conversation with a team member, the PM catches themselves already forming a rebuttal while the team member is still talking. Which active listening principle are they violating?"
+  answer: "Allowing time to speak (and, relatedly, avoiding judgment) — rushing to reply before fully listening hinders actual understanding."
+  explanation: "The first active listening principle is patience: let the other person finish before responding, rather than half-listening while preparing a reply."
+  source: sources/guides/2026-09-10-active-listening-skills.md
+
+- id: q-0063
+  domain: people
+  topic: active listening
+  question: "A productive conversation with a stakeholder just ended without anyone stating what happens next. What active listening step was skipped, and why does it matter?"
+  answer: "Summarizing and moving forward — without it, there's no confirmed alignment on key points or agreed next steps, so the discussion doesn't reliably lead to a tangible outcome."
+  explanation: "Summarizing is the closing step that converts a conversation into action — skipping it is a common way agreements quietly fail to happen."
+  source: sources/guides/2026-09-10-active-listening-skills.md

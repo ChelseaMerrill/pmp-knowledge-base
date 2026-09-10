@@ -39,6 +39,31 @@ Used to illustrate why communication complexity grows fast as a team scales — 
 channel count quadratically, not linearly. A classic exam formula question: given a team size (before
 and after adding members), compute the channel count or the increase in channels.
 
+## Active listening
+
+The receiving half of communication — not just how a message is sent (Communication Management Plan),
+but how a PM actually takes one in. Seven principles:
+
+1. **Allow time to speak.** Don't rush to reply before the other person finishes — patience shows
+   respect and ensures you actually grasp their point before responding.
+2. **Body language and eye contact.** Non-verbal cues (eye contact, nodding, brief acknowledgments)
+   signal engagement and create an attentive environment.
+3. **Ask questions.** Clarify and deepen understanding rather than assuming — keeps the conversation
+   constructive and confirms both parties agree on what was said.
+4. **Paraphrase and clarify.** Reword what the speaker said back to them — confirms your understanding
+   and gives them a chance to correct any misconception before it compounds.
+5. **Avoid distractions.** Phone-checking or mental preoccupation blocks real understanding — remove
+   distractions to create space for meaningful communication.
+6. **Avoid judgment.** Preconceived notions and biases distort the message — focus on understanding
+   the speaker's perspective before evaluating it.
+7. **Summarize and move forward.** Close a conversation by summarizing key points and agreeing on next
+   steps — this is what turns a discussion into a tangible outcome, not just a chat.
+
+On the exam, active listening shows up in scenario questions about handling disagreement, resolving
+conflict (see [conflict-resolution.md](conflict-resolution.md)), and stakeholder conversations — the
+"right" answer is often whichever option reflects genuinely listening and confirming understanding
+before acting, rather than jumping straight to a decision or an escalation.
+
 ## Knowledge transfer
 
 - **Explicit knowledge:** easily codified and shared via documentation (procedures, guides, wikis).

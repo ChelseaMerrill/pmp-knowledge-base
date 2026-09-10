@@ -1116,3 +1116,14 @@
     performance.'
   domain: formula
   source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+- term: Active Listening
+  definition: 'The practice of fully engaging with a speaker to accurately understand their message:
+    allowing time to speak, using body language/eye contact, asking questions, paraphrasing to
+    confirm understanding, avoiding distractions and judgment, and summarizing to close the loop.'
+  domain: people
+  source: sources/guides/2026-09-10-active-listening-skills.md
+- term: Paraphrasing
+  definition: Rewording what a speaker said back to them, to confirm understanding and give them a
+    chance to correct any misconception before it compounds.
+  domain: people
+  source: sources/guides/2026-09-10-active-listening-skills.md
