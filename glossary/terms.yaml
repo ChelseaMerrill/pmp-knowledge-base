@@ -1137,3 +1137,9 @@
     Performance Monitoring and Control (Oversight), and Stakeholder Engagement & Transparency.'
   domain: business-environment
   source: sources/guides/2026-09-10-project-governance.md
+- term: Project Management Information System (PMIS)
+  definition: A set of software tools/systems that centralizes access to project-related information
+    and resources, facilitating communication, planning, and monitoring. A tool/technique, not a plan
+    — distinct from the Communication Management Plan it supports.
+  domain: process
+  source: sources/guides/2026-09-10-pmis.md

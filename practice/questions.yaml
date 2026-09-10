@@ -528,3 +528,11 @@
   answer: "The general governance pattern of an oversight/decision-making layer structurally above the delivery layer, with clear accountability running between them."
   explanation: "This is the standard shape of project governance: a board that holds decision-making authority and approves direction, distinct from the teams executing the work."
   source: sources/guides/2026-09-10-project-governance.md
+
+- id: q-0067
+  domain: process
+  topic: PMIS
+  question: "A stakeholder asks whether the Communication Management Plan and the PMIS are the same thing. How would you explain the difference?"
+  answer: "No — the Communication Management Plan defines who needs what information, in what format, and how often; the PMIS is the software/tooling that actually stores, moves, and gives centralized access to that information."
+  explanation: "PMIS is a tool/technique, not a plan. The plan drives what should happen; the PMIS is (one of) the means by which it happens."
+  source: sources/guides/2026-09-10-pmis.md

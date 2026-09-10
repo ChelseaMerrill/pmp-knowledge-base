@@ -55,6 +55,8 @@ lives. As you process sources, split this into topic files (e.g. `evm-formulas.m
 - **Requirements & decisions:** see
   [requirements-and-decision-techniques.md](requirements-and-decision-techniques.md) — brainstorming,
   Delphi, nominal group, affinity diagrams, MoSCoW, Kano, voting, and related tools.
+- **PMIS:** see [pmis.md](pmis.md) — the tooling layer under artifact management and communication;
+  don't confuse it with the plans it supports.
 
 ## Open questions / things to research as you go
 
