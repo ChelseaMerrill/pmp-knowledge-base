@@ -504,3 +504,27 @@
   answer: "Summarizing and moving forward — without it, there's no confirmed alignment on key points or agreed next steps, so the discussion doesn't reliably lead to a tangible outcome."
   explanation: "Summarizing is the closing step that converts a conversation into action — skipping it is a common way agreements quietly fail to happen."
   source: sources/guides/2026-09-10-active-listening-skills.md
+
+- id: q-0064
+  domain: business-environment
+  topic: project governance
+  question: "What is project governance, in one sentence?"
+  answer: "The framework of policies, processes, and practices that guide project decision-making, ensuring alignment with organizational objectives, accountability, and successful delivery."
+  explanation: "Governance is a framework, not a single document — it's the overall structure of oversight, decision rights, and controls a project operates inside."
+  source: sources/guides/2026-09-10-project-governance.md
+
+- id: q-0065
+  domain: business-environment
+  topic: project governance
+  question: "Name the five pillars of effective project governance."
+  answer: "Clear Roles and Accountability; a Decision-Making Framework; Effective Risk Management; Performance Monitoring and Control (Oversight); and Stakeholder Engagement & Transparency."
+  explanation: "These five together are what makes a governance framework actually function, not just exist on paper."
+  source: sources/guides/2026-09-10-project-governance.md
+
+- id: q-0066
+  domain: business-environment
+  topic: project governance
+  question: "On a large construction project, the project organigram shows a Project Board (finance, design authority, regulatory authority, government, community stakeholders, procurement) sitting above a Project Team (design/engineering and construction teams). What does this two-level split represent?"
+  answer: "The general governance pattern of an oversight/decision-making layer structurally above the delivery layer, with clear accountability running between them."
+  explanation: "This is the standard shape of project governance: a board that holds decision-making authority and approves direction, distinct from the teams executing the work."
+  source: sources/guides/2026-09-10-project-governance.md

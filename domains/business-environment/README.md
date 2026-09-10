@@ -26,7 +26,9 @@ sound like traditional PM content.
 - **Organizational context:** see [organizational-context.md](organizational-context.md) —
   organizational structures and PM authority (functional/matrix/projectized), business value,
   product/project/program/portfolio hierarchy, sustainability (triple bottom line), value framing.
-- **Governance & compliance:** project governance structures, compliance planning, PMO's role.
+- **Governance & compliance:** see [governance.md](governance.md) — the five pillars of effective
+  governance, and the oversight/delivery split in a governance organigram. Also: compliance planning,
+  PMO's role (see [organizational-context.md](organizational-context.md)).
 - **Risk:** see [risk-management.md](risk-management.md) — the risk management process, risk vs.
   issue, VUCA factors, contingency vs. management reserve, threat/opportunity response strategies,
   risk audit vs. review. Also: risk register, risk appetite/tolerance/threshold, risk owners.

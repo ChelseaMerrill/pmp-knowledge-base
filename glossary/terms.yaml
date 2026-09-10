@@ -1127,3 +1127,13 @@
     chance to correct any misconception before it compounds.
   domain: people
   source: sources/guides/2026-09-10-active-listening-skills.md
+- term: Project Governance
+  definition: The framework of policies, processes, and practices that guide project decision-making,
+    ensuring alignment with organizational objectives, accountability, and successful delivery.
+  domain: business-environment
+  source: sources/guides/2026-09-10-project-governance.md
+- term: Five Pillars of Effective Governance
+  definition: 'Clear Roles and Accountability, a Decision-Making Framework, Effective Risk Management,
+    Performance Monitoring and Control (Oversight), and Stakeholder Engagement & Transparency.'
+  domain: business-environment
+  source: sources/guides/2026-09-10-project-governance.md
