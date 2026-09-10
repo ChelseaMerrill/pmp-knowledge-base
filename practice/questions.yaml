@@ -80,3 +80,43 @@
   answer: "Yes — financial institutions and government/regulatory bodies are both recognized stakeholder categories."
   explanation: "Stakeholders extend beyond the team and sponsor to anyone with an interest in or affected by the project, including financial institutions (banks, VCs, business angels) and government (local authorities, regulators)."
   source: sources/guides/2026-09-10-project-stakeholders.md
+
+- id: q-0011
+  domain: people
+  topic: stakeholder management plan
+  question: "What is the purpose of a Stakeholder Management Plan, as distinct from the stakeholder register?"
+  answer: "It's the formal framework/document that guides how stakeholders will be identified, analyzed, prioritized, engaged, and monitored throughout the project — the register is one input/output used to execute that plan, not the plan itself."
+  explanation: "The Stakeholder Management Plan is the governing document; the stakeholder register captures the actual list and classification data that the plan's processes act on."
+  source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md
+
+- id: q-0012
+  domain: people
+  topic: communication planning
+  question: "What is the difference between a communication strategy and a Communication Management Plan?"
+  answer: "The communication strategy is the high-level, structured blueprint for the overall approach to engaging stakeholders; the Communication Management Plan is the detailed, tactical document specifying the actual methods, timelines, and tools."
+  explanation: "Strategy sets direction and principles; the Communication Management Plan is the operational document a PM works from day to day."
+  source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md
+
+- id: q-0013
+  domain: people
+  topic: communication planning
+  question: "The Communication Management Plan is organized around three core questions. What are they, and what does each cover?"
+  answer: "Who (the target audience and their expectations/interests), What (the message types and formats), and How (delivery method/tools, formality level, and frequency)."
+  explanation: "Who/What/How is the structuring framework the exam associates with building out a Communication Management Plan."
+  source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md
+
+- id: q-0014
+  domain: formula
+  topic: communication channels
+  question: "A project team grows from 6 people to 10 people. How many additional communication channels does that add?"
+  answer: "30 additional channels."
+  explanation: "Channels = n(n-1)/2. At n=6: 6×5/2=15. At n=10: 10×9/2=45. Increase = 45−15 = 30."
+  source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md
+
+- id: q-0015
+  domain: people
+  topic: knowledge transfer
+  question: "A senior engineer who is rolling off the project has years of hard-to-document troubleshooting intuition. What kind of knowledge is this, and what's the typical way to transfer it (vs. just writing a document)?"
+  answer: "Tacit knowledge — typically transferred through mentoring, pairing, or direct conversation rather than documentation."
+  explanation: "Explicit knowledge is easily codified in documents; tacit knowledge is experience-based and resists documentation, so it needs person-to-person transfer methods."
+  source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md

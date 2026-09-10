@@ -425,3 +425,22 @@
     government/regulators, financial institutions, and other impacted parties (e.g. neighbors).
   domain: people
   source: sources/guides/2026-09-10-project-stakeholders.md
+- term: Stakeholder Management Plan
+  definition: A project document that guides how stakeholders will be identified, analyzed,
+    prioritized, engaged, and monitored throughout the project, clarifying responsibilities for
+    managing stakeholder interactions.
+  domain: people
+  source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md
+- term: Communication Strategy
+  definition: The structured, high-level blueprint for managing information flow in a project —
+    the overall approach for engaging stakeholders so communication stays purposeful, consistent, and
+    aligned with the project's vision and constraints.
+  domain: people
+  source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md
+- term: Communication Management Plan
+  definition: A detailed, tactical document (also called the Communication Plan) that specifies the
+    methods, timelines, and tools used to get project information to the right stakeholders in a
+    timely, effective manner. Organized around Who (audience), What (message/format), and How
+    (delivery method, formality, frequency).
+  domain: people
+  source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md

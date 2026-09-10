@@ -27,6 +27,14 @@ than "the people in the room." Government bodies, financial institutions, and ev
 legitimate stakeholders if the project affects them, and missing them during identification is a common
 source of late-project risk and delay.
 
+## Stakeholder Management Plan
+
+The Stakeholder Management Plan is the project document that formalizes the approach above: it guides
+how stakeholders will be identified, analyzed, prioritized, engaged, and monitored throughout the
+project. It ensures systematic engagement, improves project success, and clarifies who is responsible
+for managing which stakeholder interactions — i.e. it's the plan; the register, power/interest grid,
+and align/manage activities below are how that plan gets executed.
+
 ## Identifying and analyzing stakeholders
 
 - **Stakeholder register:** the document that captures identified stakeholders along with assessment
@@ -45,5 +53,5 @@ These are two distinct ECO tasks and the exam draws a real line between them:
   project runs, so expectations stay aligned with reality as things change.
 
 Effective communication with stakeholders throughout is what actually minimizes risk and avoids delay
-— identification alone isn't enough. See the communications management plan and the n(n-1)/2
-channel-count formula noted in this domain's README.
+— identification alone isn't enough. See [communication-management.md](communication-management.md)
+for the Communication Management Plan and the channel-count formula.

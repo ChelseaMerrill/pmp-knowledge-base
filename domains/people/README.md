@@ -20,8 +20,9 @@ per concept, not one per source it came from.
 - **Stakeholders:** see [stakeholder-engagement.md](stakeholder-engagement.md) — stakeholder register,
   the power/interest grid, and the distinction between aligning expectations up front vs. managing
   them as the project runs.
-- **Communication:** the communications management plan, the channel-count formula n(n-1)/2, and
-  knowledge-transfer techniques (documentation vs. tacit knowledge sharing).
+- **Communication:** see [communication-management.md](communication-management.md) — communication
+  strategy vs. the Communication Management Plan (Who/What/How), the channel-count formula
+  n(n-1)/2, and knowledge-transfer techniques (explicit/documented vs. tacit knowledge sharing).
 - **RACI:** Responsible, Accountable, Consulted, Informed — and the common exam trap of assigning
   more than one "Accountable" per task.
 
