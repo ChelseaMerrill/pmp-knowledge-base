@@ -38,6 +38,11 @@ lives. As you process sources, split this into topic files (e.g. `evm-formulas.m
   make-or-buy analysis, source selection criteria.
 - **Value delivery:** MVP, incremental delivery, value-stream basics — this task is new/expanded in
   the 2026 outline and blends process mechanics with agile thinking.
+- **Financial selection:** see [financial-selection-techniques.md](financial-selection-techniques.md)
+  — BCR, NPV, IRR, payback period, and sunk cost.
+- **Requirements & decisions:** see
+  [requirements-and-decision-techniques.md](requirements-and-decision-techniques.md) — brainstorming,
+  Delphi, nominal group, affinity diagrams, MoSCoW, Kano, voting, and related tools.
 
 ## Open questions / things to research as you go
 

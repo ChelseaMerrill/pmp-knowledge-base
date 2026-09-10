@@ -4,7 +4,7 @@ title: "Project Management Fundamentals — Keywords Review (Yassine Tounsi, PMP
 url: 
 date_ingested: 2026-09-08
 domain: mixed
-status: raw
+status: processed
 ---
 
 <!--

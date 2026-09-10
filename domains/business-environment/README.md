@@ -23,6 +23,9 @@ sound like traditional PM content.
 
 ## Seeded starting points (see glossary/terms.yaml for full definitions)
 
+- **Organizational context:** see [organizational-context.md](organizational-context.md) —
+  organizational structures and PM authority (functional/matrix/projectized), business value,
+  product/project/program/portfolio hierarchy, sustainability (triple bottom line), value framing.
 - **Governance & compliance:** project governance structures, compliance planning, PMO's role.
 - **Risk:** risk register, risk appetite/tolerance/threshold, qualitative vs. quantitative analysis,
   the four threat responses (avoid/mitigate/transfer/accept/escalate) and four opportunity responses

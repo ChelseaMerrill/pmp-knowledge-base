@@ -461,3 +461,472 @@
     maintain the certification (Continuing Certification Requirements, or CCR).
   domain: business-environment
   source: sources/guides/2026-09-08-pmp-exam-content-outline.md
+- term: Functional Organization
+  definition: An organizational structure divided into departments by skill (sales, marketing, IT,
+    etc.), where all authority — budget, resources, decisions — belongs to the functional manager.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Weak Matrix Organization
+  definition: A matrix structure that leans toward functional — the functional manager holds most
+    authority; the PM mainly assists the team.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Balanced Matrix Organization
+  definition: A matrix structure giving the PM more authority than a weak matrix, but the functional
+    manager remains the primary managerial authority.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Strong Matrix Organization
+  definition: A matrix structure giving the PM authority to make project decisions, with the
+    functional manager assisting only for specialized tasks.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Projectized Organization
+  definition: A structure where most resources and authority are dedicated to project work, and
+    project managers have full authority over their projects.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Functional Manager
+  definition: The person with management authority within a business unit/department, with direct
+    supervision over resources on the project team or direct responsibility for functions that affect
+    or are affected by the project.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Authority
+  definition: The right to apply project resources, expend funds, make decisions, or give approvals
+    within a project.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Business Analysis
+  definition: Understanding the needs of business stakeholders and defining the project
+    characteristics needed to meet those needs.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Business Analyst
+  definition: A role that elicits stakeholder needs from customers, staff, IT, and executives, and
+    facilitates communication between organizational units.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Business Model Canvas
+  definition: A brief, high-level description of a project's purpose and a commitment to what the
+    team will accomplish by its end.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Business Value
+  definition: The benefit — tangible, intangible, or both — that a project's results provide to its
+    stakeholders.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Product Life Cycle
+  definition: The full duration and evolution of a product from concept through development,
+    introduction, growth, maturity, and decline — broader in scope than any single project's life
+    cycle.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Capital Projects
+  definition: Large-scale, very-high-expenditure projects — roads, railways, manufacturing plants,
+    power plants, electrical distribution.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Triple Bottom Line
+  definition: A tool evaluating a business opportunity's value across Profit, People, and Planet —
+    the economic, social, and ecological balance it could achieve.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Value Proposition
+  definition: The value of a product or service that an organization communicates to its customers.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Value Creation
+  definition: Any process that creates outputs more valuable than its inputs.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Vanity Metric
+  definition: A metric that shows results reflecting no real value or performance insight, and doesn't
+    help evaluate important aspects or make informed decisions.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Time-to-Market
+  definition: The time needed to take a product from idea to release/sale.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Profitability
+  definition: A project's ability to yield financial profit or gain for an organization.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Innovation
+  definition: Renewing or updating a domain, product, or service by applying new processes,
+    introducing new techniques, or establishing successful ideas to create new value.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Confidentiality
+  definition: Rules or promises, usually via confidentiality agreements, that limit access to or
+    distribution of certain types of information.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Benefit-Cost Ratio (BCR)
+  definition: The relationship between a project's costs and benefits (benefits ÷ costs). A BCR
+    greater than 1 means benefits/revenue exceed costs and the project is expected to deliver a
+    positive net present value.
+  domain: formula
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Cost-Benefit Analysis
+  definition: A financial analysis method that weighs a project's benefits against its costs; used to
+    determine profitability or to make the case for a solution to stakeholders.
+  domain: formula
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Net Present Value (NPV)
+  definition: Determines whether a project's anticipated financial gains outweigh its present-day
+    investment. Positive NPV indicates expected profitability; negative NPV indicates an expected
+    loss.
+  domain: formula
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Internal Rate of Return (IRR)
+  definition: The discount rate at which an investment's Net Present Value would be zero. When
+    comparing projects, the one with the highest IRR is often the best choice.
+  domain: formula
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Payback Period
+  definition: How long it takes for a project's revenue to break even with its total investment; after
+    this point the project starts generating profit.
+  domain: formula
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Sunk Cost
+  definition: Money already spent and unrecoverable — irrelevant to future project decisions.
+  domain: formula
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Brainstorming
+  definition: A data-gathering technique where a group quickly shares as many ideas as possible;
+    inputs are analyzed afterward to define a requirement or find a solution.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Brainwriting
+  definition: Gives each participant time to individually reflect on and write down ideas before the
+    group session, reducing groupthink and dominant-voice bias versus brainstorming.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Focus Groups
+  definition: A facilitated, face-to-face conversation bringing together stakeholders and SMEs to
+    share and discuss input on a particular subject.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Delphi Technique
+  definition: Builds consensus from expert opinion through several rounds of anonymous surveys, each
+    round informed by the previous round's answers.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Design Thinking
+  definition: An iterative process to understand users, challenge assumptions, redefine problems, and
+    create/prototype/test innovative solutions.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Affinity Diagram
+  definition: Classifies a large number of ideas into groups or clusters for review and analysis.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Mind Map
+  definition: A visual tool used after brainstorming/nominal-group sessions to organize and display
+    the relationships between collected ideas.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Nominal Group Technique
+  definition: Enhances brainstorming with a voting process used to rank the most useful ideas for
+    further brainstorming or prioritization.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: MoSCoW
+  definition: A prioritization technique that sorts requirements into Must Have, Should Have, Could
+    Have, and Won't Have.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Kano Model
+  definition: Prioritizes product functionality by weighing implementation cost against its potential
+    to satisfy customers.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Multicriteria Decision Analysis
+  definition: A systematic, structured approach to evaluating and comparing options against multiple
+    criteria/objectives, for an objective and transparent decision.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Paired Comparison / Pairwise Comparison
+  definition: A systematic approach for evaluating a small set of options by comparing them against
+    each other, one pair at a time.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Voting
+  definition: Picking the option that gets more votes among involved parties — the decision can be by
+    unanimity, majority, or plurality.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Last Responsible Moment
+  definition: A strategy of deliberately delaying a decision until the latest possible point, to
+    consider more options, scenarios, and information before committing.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Context Diagram
+  definition: A visual depiction of how different elements interact — e.g. how third-party apps, APIs,
+    and users interact with a product.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Data Representation Techniques
+  definition: Graphical techniques used to visualize and organize project data so it can be conveyed
+    to stakeholders.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Data-Driven Decision-Making
+  definition: Using facts, metrics, and data — rather than opinion — to guide decisions aligned with
+    project goals and objectives.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Simulation
+  definition: An analytical/mathematical tool that explores the impact of variance on deliverables or
+    outcomes during a project.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Alternatives Analysis
+  definition: A technique comparing time and cost across multiple options to select the best approach.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Budget
+  definition: The approved estimate for a project or any scheduled activity.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Close Project or Phase
+  definition: The process of finalizing all activities for a project, phase, or contract — deliverables
+    are finalized and transferred, and documentation is signed off, approved, and archived.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Collect Requirements
+  definition: The process of determining, documenting, and managing stakeholder needs and requirements
+    to meet project objectives.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Competing Constraints
+  definition: When the triple constraints (Cost, Scope, Time) extend to also include Quality,
+    Resources, and Risk.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Conditions of Satisfaction (CoS)
+  definition: A customer's explicit description of all the actual requirements that must be satisfied
+    for them to feel they received exactly what was wanted.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Constraint
+  definition: A limiting factor that affects the execution of a project or process.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Criteria
+  definition: Standards, rules, or tests on which a judgment or decision can be based, or by which a
+    product, service, result, or process can be evaluated.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Customer Obsession
+  definition: Aiming to create a better customer experience from the customer's own perspective.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Cycle Time
+  definition: How long it takes for the team to complete a task.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Deliverable
+  definition: A tangible or intangible output produced as a result of a project.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Fit for Purpose
+  definition: A product, service, solution, or process that satisfies its initial intended purpose,
+    its users' needs, and its clients' expectations.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Fit for Use
+  definition: A product usable and capable of meeting business, technical, or operational goals in its
+    current state — it can still be subject to further improvement even when fit for use.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Framework
+  definition: A set of practices, standards, processes, and techniques used to carry a project from
+    initiation to closure.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Inputs
+  definition: Things used to implement a project — time, finances, hardware/software, office space,
+    and similar resources.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Key Performance Indicators (KPIs)
+  definition: Quantifiable measures used to evaluate the success of a project.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Leadership
+  definition: The ability to lead a team and inspire them to do their jobs well — encompassing a wide
+    range of skills, abilities, and actions.
+  domain: people
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Lead Time
+  definition: The duration of a task from its creation to its completion.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Management
+  definition: The process of planning, organizing, leading, and controlling resources — people,
+    finances, materials — to achieve organizational goals.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Metric
+  definition: A measurement that reveals how a project is performing and indicates progress toward
+    the project goal.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Modeling
+  definition: Creating a prototype, storyboard, diagram, or mock-up as a simplified representation of
+    a system, deliverable, or solution.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Objective
+  definition: Something the project team works toward — a strategic position to attain, a purpose to
+    achieve, a result to obtain, a product to produce, or a service to perform.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Operation
+  definition: The ongoing execution of activities that follow an organization's procedures to produce
+    the same result or a repetitive service — contrast with a project, which is temporary and unique.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Outcome
+  definition: The end result or consequence of a process or project. Broader than outputs — focused
+    on the benefits and value the project was undertaken to deliver.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Output
+  definition: Project activities or work items performed to achieve outcomes. Easily measurable since
+    they're often tangible, but completing outputs doesn't guarantee outcomes were achieved.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Phase
+  definition: A number of logically related project activities aiming to complete one or more
+    deliverables and reach a certain milestone.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Portfolio Manager
+  definition: Manages projects and programs within a portfolio to achieve strategic objectives.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Procedure
+  definition: A set of instructions for completing a single task or activity within a process.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Product
+  definition: A solution created to meet the needs of a user, providing value and solving specific
+    problems or fulfilling particular desires.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Product Analysis
+  definition: Understanding user behavior toward a product, using real customer feedback and
+    behavioral data to inform future updates or improvements.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Product Management
+  definition: Developing and maintaining a product throughout its life cycle.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Program Manager
+  definition: Coordinates the efforts of multiple similar or related projects to achieve the program's
+    objectives.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Project Development Approach
+  definition: The method by which a project deliverable (product, service, or result) is created and
+    achieved — applying a set of procedures, techniques, practices, and rules throughout the life
+    cycle. See also Predictive/Adaptive/Hybrid Approach.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Project Feasibility Study
+  definition: Assesses a proposed project to determine whether it's realistically and practically
+    achievable, and if so, how likely it is to succeed.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Project Manager / Project Lead
+  definition: The person assigned by the performing organization to lead the team responsible for
+    achieving the project objectives.
+  domain: people
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Project Scope
+  definition: The work performed to deliver a product, service, or result with the specified features
+    and functions.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Project Strategy
+  definition: A plan outlining the approach, actions, and measures taken to achieve specific goals
+    within a project.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Project Team
+  definition: The set of individuals who perform the required work for a project to successfully meet
+    its goals.
+  domain: people
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Project Vision
+  definition: A short statement or paragraph summarizing the goal of the project and how it fits
+    within the organization's overall strategy.
+  domain: people
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Prototype
+  definition: A primary or partial version of a required product/solution, used to obtain early
+    feedback on requirements before committing to the final deliverable.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Requirement
+  definition: A condition or capability necessary to be present in a product, service, or result to
+    satisfy a business need.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Resource
+  definition: A necessary asset that helps carry out a task or project — a person, team, tool,
+    finances, or time.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Responsibility
+  definition: The state of being answerable or accountable for something within one's power, control,
+    or management.
+  domain: people
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Scope Stability
+  definition: Agile projects have low scope stability (requirements expected to change throughout);
+    predictive projects have high scope stability (scope thoroughly defined during planning).
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: SMART Objective
+  definition: Specific, Measurable, Achievable, Relevant, Time-bound — a framework for effectively
+    setting and achieving goals.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Steering Committee / Project Board
+  definition: An advisory body that provides direction and makes decisions outside the project team's
+    authority.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Success Criteria
+  definition: The measures used to determine whether a project has been successful — often scope,
+    budget, timeline, business goals, deliverables, and risk management.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Task
+  definition: A single unit of work or step in a multi-step project, completed by a set deadline and
+    contributing toward work-related objectives. In agile, user stories split into tasks; in
+    predictive, activities split into tasks.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Triple Constraints / Iron Triangle
+  definition: Time, Cost, and Scope constraints that must be kept in balance to ensure deliverable
+    quality.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Use Case
+  definition: A definition of the sequence of actions a system performs that yields an observable
+    result of value to a particular actor.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Wireframe
+  definition: A top-level blueprint illustrating the structure of a website, app, or project, without
+    design details — it maps structure and key elements only.
+  domain: process
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md

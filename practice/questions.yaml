@@ -144,3 +144,43 @@
   answer: "5 months (Jan 1–May 31), not 7."
   explanation: "PMI counts eligibility experience by calendar tenure, not by summing each project's duration — overlapping time leading multiple projects isn't double-counted."
   source: sources/guides/2026-09-08-pmp-exam-content-outline.md
+
+- id: q-0019
+  domain: business-environment
+  topic: organizational structures
+  question: "In a balanced matrix organization, who holds the primary managerial authority — the project manager or the functional manager?"
+  answer: "The functional manager, though the PM has more authority than in a weak matrix."
+  explanation: "Balanced matrix is a middle ground: the PM gains real influence, but the functional manager remains the primary authority until you reach a strong matrix or projectized structure."
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+
+- id: q-0020
+  domain: formula
+  topic: financial selection
+  question: "A project has a Benefit-Cost Ratio (BCR) of 0.8. Should the organization proceed, based on this number alone?"
+  answer: "No — a BCR below 1.0 means costs outweigh benefits."
+  explanation: "BCR = benefits ÷ costs. Above 1.0 is favorable (benefits exceed costs); below 1.0 means the project's costs outweigh its projected benefits."
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+
+- id: q-0021
+  domain: process
+  topic: prioritization techniques
+  question: "A product team wants to prioritize a long backlog into four tiers reflecting negotiable necessity. Which technique are they using: MoSCoW or the Kano model?"
+  answer: "MoSCoW."
+  explanation: "MoSCoW sorts items into Must Have / Should Have / Could Have / Won't Have. The Kano model instead weighs implementation cost against customer-satisfaction potential — a different axis, not a four-tier necessity sort."
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+
+- id: q-0022
+  domain: process
+  topic: deliverable quality
+  question: "A delivered product meets its original intended purpose and the client's expectations, but the client mentions they'd still like some UX polish later. Is this product 'fit for purpose,' 'fit for use,' both, or neither?"
+  answer: "Both — fit for purpose and fit for use aren't mutually exclusive, and a fit-for-use product can still be improved further."
+  explanation: "Fit for purpose means it satisfies its intended purpose and client expectations; fit for use means it's usable and meets goals in its current state. A product can be both and still have room for future improvement."
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+
+- id: q-0023
+  domain: formula
+  topic: financial selection
+  question: "A project manager is deciding whether to continue a troubled project. A team member argues to continue because '$200,000 has already been invested — we can't just abandon that.' What concept does this argument mischaracterize?"
+  answer: "Sunk cost — money already spent is unrecoverable and irrelevant to the decision about what to do next."
+  explanation: "The PM should evaluate the remaining costs and benefits of continuing vs. stopping, not the amount already spent. Letting sunk cost drive the decision is a classic bias the exam tests for."
+  source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
