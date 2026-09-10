@@ -4,7 +4,7 @@ title: "Project Management Fundamentals — PMP Questions (Yassine Tounsi, PMP 3
 url: 
 date_ingested: 2026-09-08
 domain: mixed
-status: raw
+status: processed
 ---
 
 <!--

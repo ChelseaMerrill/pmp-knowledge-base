@@ -184,3 +184,155 @@
   answer: "Sunk cost — money already spent is unrecoverable and irrelevant to the decision about what to do next."
   explanation: "The PM should evaluate the remaining costs and benefits of continuing vs. stopping, not the amount already spent. Letting sunk cost drive the decision is a classic bias the exam tests for."
   source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+
+- id: q-0024
+  domain: process
+  topic: business value
+  question: "A project finishes on time and under budget, but a stakeholder asks how the PM can be sure the customer will actually be satisfied. What actually ensures customer satisfaction?"
+  answer: "Delivering value and conforming to project requirements."
+  explanation: "On-time/under-budget delivery isn't sufficient by itself. Customer satisfaction depends on whether the deliverable conforms to requirements and is usable — that's what's actually measured."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0025
+  domain: process
+  topic: development approach
+  question: "A complex AI platform project has cutting-edge tech, diverse stakeholder interests, and heavy regulatory compliance needs. What development approach fits best?"
+  answer: "A hybrid approach."
+  explanation: "Hybrid allows the structured planning/documentation regulatory compliance needs, while still enabling iterative development to handle evolving requirements and stakeholder needs — pure waterfall or pure agile each miss half of what's needed here."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0026
+  domain: process
+  topic: integration
+  question: "What documents does a project manager need to develop the project charter? (Select the set.)"
+  answer: "The business case, agreements, and the strategic/benefits plan."
+  explanation: "These are the business documents feeding charter development. The project management plan is NOT one of them — it's developed after the charter is signed, not before."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0027
+  domain: business-environment
+  topic: organizational change
+  question: "A company-wide Agile transformation faces resistance from stakeholders used to traditional PM, plus heavy regulatory compliance needs. What should the PM prioritize? (Select two.)"
+  answer: "Establish a cross-functional Agile transformation team for alignment/inclusivity, and develop a tailored Agile training program for varying skill levels."
+  explanation: "Dismissing resistance outright is wrong — the fix is inclusive structure (cross-functional team) plus meeting people where they are (tailored training), not ignoring concerns or skipping suitability groundwork."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0028
+  domain: process
+  topic: development approach
+  question: "Some stakeholders don't support a digital marketing project; others want full up-front planning. The sponsor wants a quick win to build support. What approach should the PM take, and why?"
+  answer: "An agile approach, because it produces functioning deliverables quickly."
+  explanation: "The distinguishing reason matters on the exam: it's not 'agile would please the majority' (option A) — it's that agile's early, working deliverables are what create the quick win the sponsor actually needs."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0029
+  domain: process
+  topic: project life cycle
+  question: "A team of five is building a mobile app. What project life cycle fits, and how is that different from a process group list or Tuckman's stages?"
+  answer: "Wireframing, prototyping, designing, developing, testing, deploying — this is the project life cycle (the deliverable-specific phases), not process groups (initiating, planning, executing, M&C, closing) or team development stages (forming, storming, norming, performing, adjourning)."
+  explanation: "The exam likes to mix these three phase-like lists together as distractors — know which kind of 'phases' a question is actually asking about."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0030
+  domain: process
+  topic: tailoring
+  question: "Under PMBOK 7, what specifically does 'tailoring' mean?"
+  answer: "The selection of the appropriate processes, inputs, tools, techniques, and life cycle phases for managing a project."
+  explanation: "Distinguish this from 'project management' itself (applying knowledge/skills/tools/techniques to meet project requirements) and 'program management' (the same, but for a program) — tailoring is specifically about selecting the right subset for the specific project."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0031
+  domain: business-environment
+  topic: project selection
+  question: "A PM presents to a committee of senior managers and SMEs who ask tough, critical questions aimed at finding reasons the project should NOT proceed. What's this technique called?"
+  answer: "A murder board."
+  explanation: "The murder board's job is to aggressively look for reasons to reject the proposal; the proposer's job is to answer every query and prove the project's worth."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0032
+  domain: process
+  topic: integration
+  question: "A new project manager keeps hearing that work can't start until 'an official document is issued.' What document is this, and what does it do?"
+  answer: "The project charter — it authorizes the project manager to launch project execution."
+  explanation: "The charter also gives a brief description of the project and its requirements; the scope statement and project management plan both contain a more detailed version of the same, developed after the charter."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0033
+  domain: process
+  topic: project closure
+  question: "At sprint review, the product owner is satisfied with the increment; a team member wants another iteration to fix bugs; the sponsor says funding for further work depends on next quarter's budget. What should the PM do?"
+  answer: "Release all resources and close the project."
+  explanation: "The client/sponsor is effectively requesting closure, even knowing about remaining bugs — continuing work to satisfy the client at this point is gold plating, and a project can't stay open pending uncertain future funding. If funding arrives, a new project addresses the remaining work."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0034
+  domain: process
+  topic: value delivery
+  question: "A sponsor doubts the product will meet business demand and wants to minimize cost. What should the PM do?"
+  answer: "Identify and implement the requirements for a Minimum Viable Product (MVP)."
+  explanation: "MVP defines the smallest release that validates value against real demand — cheaper than a full incremental buildout, and it doesn't require excluding stakeholders or relying on a fixed-cost contract, neither of which addresses the actual concern (unproven demand)."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0035
+  domain: process
+  topic: agile change management
+  question: "During execution of an agile software project, the customer requests a requirement change. What should the PM do, and why is a CCB not the answer here?"
+  answer: "Welcome the change request. Agile encourages responding to change; unlike predictive projects, agile doesn't route changes through a Change Control Board."
+  explanation: "Flexibility is core to agile — regular stakeholder feedback is expected to reshape scope, which is the opposite of blocking or routing it through a formal board."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0036
+  domain: process
+  topic: business value
+  question: "A make-or-buy analysis favored in-house development based on a developer rate that turns out to be half the current market rate. What should the PM do first?"
+  answer: "Inform the sponsor about the findings."
+  explanation: "This affects the project's business value/financial assumptions — the sponsor needs to know before anything else happens (submitting a change request, updating the analysis, or assuming SPI/CPI being on track covers it are all premature or insufficient)."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0037
+  domain: process
+  topic: integration
+  question: "A newly assigned PM is replacing one who recently left the project. What should they consult first?"
+  answer: "The project charter — to understand the project's goals and business case."
+  explanation: "Understanding why the project exists and what it's meant to achieve comes before diving into baselines (the PM plan), open issues (issues/lessons-learned logs), or stakeholder outreach (the register) — those all follow from understanding the charter first."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0038
+  domain: process
+  topic: development approach
+  question: "An adaptive-approach project has a fixed budget, 3–5 previewed releases, and progressively detailed scope. What should the PM do as the project proceeds?"
+  answer: "Work with stakeholders to prioritize work for each release until the budget runs out."
+  explanation: "In adaptive approaches, cost and schedule are typically fixed while scope flexes — so the team prioritizes the highest-value work per release rather than pre-committing to a fixed scope or switching to predictive."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0039
+  domain: business-environment
+  topic: professional responsibility
+  question: "A PM reviewing a predictive project discovers deliverables marked 'finished' are actually still in progress, and the project is really over budget and behind schedule (contrary to what the sponsor believes). What should the PM do next?"
+  answer: "Notify the sponsor of the findings."
+  explanation: "Per PMI's Code of Ethics and Professional Conduct, a PM who discovers errors or omissions caused by others must communicate them to the appropriate party promptly and accurately — not quietly try to fix it, decline the assignment, or jump straight to schedule compression."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0040
+  domain: business-environment
+  topic: compliance
+  question: "While developing the project charter, a PM discovers missing regulatory requirements in the business case — compliance risks scope/budget overrun, non-compliance risks legal exposure. What should the PM do, and why can't they issue a change request yet?"
+  answer: "Inform the project sponsor of the findings. A change request isn't possible yet because the project isn't authorized or baselined — it's still in charter development."
+  explanation: "PMI's Code of Ethics requires compliance with laws/regulations and prohibits concealing such findings. Change requests operate against a baseline, which doesn't exist yet at this stage."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0041
+  domain: people
+  topic: agile roles
+  question: "A PM worried about job security under an Agile transition believes Agile teams only have team members, a Scrum Master, and a Product Owner — no PM. Is that concern justified?"
+  answer: "No — the PM can continue, typically as more of a facilitator (team facilitator/Scrum Master/coach are overlapping titles for that role)."
+  explanation: "Agile's three common roles are cross-functional team members, the product owner, and a team facilitator — which can be titled Scrum Master, project team lead, project manager, or team coach. The role leans on servant leadership: removing impediments, facilitating, coaching."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+
+- id: q-0042
+  domain: process
+  topic: project vs operations
+  question: "How do operations differ from projects, precisely?"
+  answer: "Operations are ongoing endeavors that generate repetitive outputs — the continuous execution of activities per an organization's procedures to produce the same result or a recurring service. There's no such thing as an 'ongoing project.'"
+  explanation: "A project is temporary with a unique result; an operation is permanent/ongoing with a repetitive result. Production, manufacturing, and accounting are examples of operations, not projects."
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md

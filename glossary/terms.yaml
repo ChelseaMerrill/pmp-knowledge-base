@@ -930,3 +930,9 @@
     design details — it maps structure and key elements only.
   domain: process
   source: sources/guides/2026-09-08-pm-fundamentals-keywords.md
+- term: Team Facilitator
+  definition: The agile team-lead role that removes impediments, facilitates, and coaches through
+    servant leadership. Also called Scrum Master, project team lead, project manager, or team coach —
+    overlapping titles for the same function, not distinct roles.
+  domain: agile
+  source: sources/guides/2026-09-08-pm-fundamentals-questions.md

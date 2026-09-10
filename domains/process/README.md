@@ -25,7 +25,11 @@ lives. As you process sources, split this into topic files (e.g. `evm-formulas.m
 ## Seeded starting points (see glossary/terms.yaml for full definitions)
 
 - **Integration:** project charter, project management plan and its subsidiary plans, integrated
-  change control, the change control board (CCB), tailoring.
+  change control, the change control board (CCB), tailoring. The charter is developed from the
+  business case, agreements, and strategic/benefits plan — the project management plan comes *after*
+  the charter, not before. Change requests only apply once a baseline exists (post-authorization); a
+  gap found during charter development is a finding to escalate to the sponsor, not yet a change
+  request. Agile projects don't route changes through a CCB the way predictive projects do.
 - **Scope:** scope baseline, WBS and WBS dictionary, requirements traceability matrix, scope creep vs.
   gold plating.
 - **Schedule:** critical path method, float/slack, precedence diagramming, crashing vs. fast-tracking,
