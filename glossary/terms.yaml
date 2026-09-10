@@ -419,3 +419,9 @@
     should not be considered. It is a project selection technique used before a project is approved.
   domain: business-environment
   source: sources/guides/2026-09-08-pm-fundamentals-questions.md
+- term: Stakeholder
+  definition: Any individual, group, or organization that has an interest in the project or is affected
+    by its outcomes — a broader set than just the project team, including sponsors, users, suppliers,
+    government/regulators, financial institutions, and other impacted parties (e.g. neighbors).
+  domain: people
+  source: sources/guides/2026-09-10-project-stakeholders.md

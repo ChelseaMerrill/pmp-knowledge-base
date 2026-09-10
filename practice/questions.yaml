@@ -40,3 +40,43 @@
   answer: "The activity can slip up to 3 days without delaying the project end date, but any slip at all will delay the very next activity."
   explanation: "Total float measures slack against the project finish date; free float measures slack against the next activity's early start. Zero free float with nonzero total float is common when several paths share downstream activities."
   source: seed
+
+- id: q-0006
+  domain: people
+  topic: stakeholder identification
+  question: "During a construction project, several neighboring homeowners complain about noise and site traffic, even though they have no contractual relationship to the project. Are they stakeholders?"
+  answer: "Yes."
+  explanation: "A stakeholder is anyone with an interest in the project or affected by its outcomes — that includes parties impacted by the project who aren't part of the team, sponsor chain, or contract, such as neighbors."
+  source: sources/guides/2026-09-10-project-stakeholders.md
+
+- id: q-0007
+  domain: people
+  topic: stakeholder identification
+  question: "Name three stakeholder categories besides the project team and project manager that a project manager should consider when identifying stakeholders on a construction project."
+  answer: "Any three of: sponsor, users/end-users, suppliers, government, financial institutions, others (e.g. neighbors, family members)."
+  explanation: "Stakeholder identification should go well beyond the immediate team — sponsors, end-users, suppliers, regulators/government, financial institutions, and other impacted parties are all legitimate categories."
+  source: sources/guides/2026-09-10-project-stakeholders.md
+
+- id: q-0008
+  domain: people
+  topic: stakeholder engagement
+  question: "What is the difference between 'align stakeholder expectations' and 'manage stakeholder expectations' as ECO tasks?"
+  answer: "Aligning happens up front, setting realistic shared expectations before/as the project starts; managing is ongoing throughout the project as circumstances change."
+  explanation: "These are two separate ECO tasks in the People domain — one is a point-in-time activity early in the project, the other is continuous communication and negotiation as the project runs."
+  source: sources/guides/2026-09-10-project-stakeholders.md
+
+- id: q-0009
+  domain: people
+  topic: stakeholder analysis
+  question: "A project manager wants to decide how much engagement effort to spend on each stakeholder. What tool classifies stakeholders by authority and level of concern to help make that call?"
+  answer: "The power/interest grid."
+  explanation: "The power/interest grid plots stakeholders on power (authority) vs. interest (concern), guiding engagement strategy (e.g. manage closely vs. monitor)."
+  source: sources/guides/2026-09-10-project-stakeholders.md
+
+- id: q-0010
+  domain: people
+  topic: stakeholder identification
+  question: "A bank financing a construction project and the local zoning authority reviewing permits — are these considered project stakeholders even though neither is the customer or the project team?"
+  answer: "Yes — financial institutions and government/regulatory bodies are both recognized stakeholder categories."
+  explanation: "Stakeholders extend beyond the team and sponsor to anyone with an interest in or affected by the project, including financial institutions (banks, VCs, business angels) and government (local authorities, regulators)."
+  source: sources/guides/2026-09-10-project-stakeholders.md

@@ -17,8 +17,9 @@ per concept, not one per source it came from.
 - **Conflict:** the five conflict-resolution techniques (collaborate/problem-solve, compromise,
   smooth/accommodate, force/direct, withdraw/avoid) and when each is actually appropriate versus a
   fallback.
-- **Stakeholders:** stakeholder register, the power/interest grid, and the distinction between
-  aligning expectations up front vs. managing them as the project runs.
+- **Stakeholders:** see [stakeholder-engagement.md](stakeholder-engagement.md) — stakeholder register,
+  the power/interest grid, and the distinction between aligning expectations up front vs. managing
+  them as the project runs.
 - **Communication:** the communications management plan, the channel-count formula n(n-1)/2, and
   knowledge-transfer techniques (documentation vs. tacit knowledge sharing).
 - **RACI:** Responsible, Accountable, Consulted, Informed — and the common exam trap of assigning
