@@ -17,13 +17,37 @@ handling conflict day to day.
 See also the glossary's seeded "Conflict Resolution Techniques" entry — same ranking, slightly
 different naming convention. Know both sets of names.
 
+Each technique produces a labeled outcome the exam likes to test in reverse (given the outcome label,
+name the technique, or vice versa):
+
+| Technique | Outcome |
+|---|---|
+| Collaborating | Win-win |
+| Forcing / Directing | Win-lose |
+| Compromising / Reconciling | Lose-lose |
+| Smoothing / Accommodating | Yield-lose |
+| Withdrawal / Avoiding | Lose-leave |
+
+## Levels of conflict
+
+Conflict escalates through 5 levels, each needing a more deliberate response than the last: **Problem
+to solve → Disagreement → Contest → Crusade → World War.** The goal of resolving conflict early and
+well is to stop it from escalating to the next level.
+
 ## How to actually run it
 
 - Find the **root cause** first — don't jump to a resolution technique before understanding what's
-  actually driving the disagreement.
+  actually driving the disagreement. Formal root-cause tools: the **why-why method** and **what-if
+  scenario analysis** (evaluating a concern's potential impact on the project). But the very first
+  step, before any formal analysis, is simply to meet with the person/group and try to understand and
+  win their support — analysis techniques are the logical *next* step if a direct conversation isn't
+  enough on its own, not a replacement for having it.
 - Use **face-to-face communication**, and do it **in private**, not in front of the rest of the team.
 - If the team surfaces the issue at a stand-up or similar: find the root cause, then decide the action
   — don't just note it and move on.
+- Never resort to a **"fait accompli"** (presenting a done deal to pressure acceptance) to bypass
+  resistance — this is a consistent wrong answer on the exam. Resistance gets addressed by
+  understanding it, not steamrolled.
 
 ## Disagreement with a stakeholder specifically
 

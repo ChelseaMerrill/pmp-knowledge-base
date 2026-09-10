@@ -1155,3 +1155,172 @@
     exchange between teams/parties) vs. Hard (a physical connection between components or systems).'
   domain: process
   source: sources/guides/2026-09-10-interface-management.md
+- term: Power/Interest Grid Quadrant Actions
+  definition: 'The four engagement strategies mapped to the power/interest grid''s quadrants: Manage
+    Closely (high power, high interest), Keep Satisfied (high power, low interest), Keep Informed (low
+    power, high interest), Monitor (low power, low interest).'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Stakeholder Engagement States
+  definition: 'A stakeholder''s attitude toward a project: Unaware (doesn''t know about it), Resistant
+    (aware but unsupportive), Neutral (aware, neither supportive nor resistant), and
+    Engaged/Committed/Supportive (aware and wants the project to succeed).'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Stakeholder Engagement Assessment Matrix
+  definition: A matrix comparing each stakeholder's current engagement state against their desired
+    state — a diagnostic tool, distinct from the stakeholder engagement plan, which specifies the
+    actions to close that gap.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Stakeholder Engagement Plan
+  definition: The document identifying the strategies and actions required to promote stakeholders'
+    involvement in the project — the actionable output that engagement analysis tools (power/interest
+    grid, engagement assessment matrix, Salience Model) feed into.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Stakeholder Engagement Process (5-Step Cycle)
+  definition: 'The repeating stakeholder engagement cycle: Identify, Understand & Analyze, Prioritize,
+    Engage, Monitor — then back to Identify as new stakeholders emerge.'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+- term: Fait Accompli
+  definition: Presenting stakeholders with a "done deal" to pressure their acceptance instead of
+    engaging them — a consistent wrong-answer anti-pattern on the exam; resistance should be
+    understood and addressed, not bypassed.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+- term: What-If Scenario Analysis
+  definition: A root-cause/impact technique that evaluates a stakeholder concern or risk by exploring
+    its potential impact on the project, typically used alongside the why-why method after a direct
+    conversation hasn't fully resolved resistance.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+- term: Facilitated Workshop
+  definition: A session bringing all concerned stakeholders together to work through requirements
+    collaboratively — especially effective for finding common ground when stakeholders have
+    conflicting expectations, more so than individual surveys or one-on-one meetings.
+  domain: process
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+- term: Five Cs of Written Communication
+  definition: Effective written communication should be Correct, Concise, Clear, Coherent, and
+    Controlled.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Communication Model (Sender/Receiver Model)
+  definition: 'The basic communication process: sender encodes a message, sends it through a channel,
+    the receiver decodes it, and feedback flows back. Five components: sender, message, channel,
+    receiver, feedback.'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Noise (Communication)
+  definition: 'Anything that interferes with a message getting through in the sender/receiver model:
+    physiological (e.g. speaking too fast), psychological (judgment, sarcasm), physical (environmental
+    disruption), or semantic (jargon).'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Push Communication
+  definition: The sender sends information to the receiver without an active request (email,
+    newsletters, memos, automated notifications) — not guaranteed to be read or absorbed.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Pull Communication
+  definition: The sender publishes content the receiver accesses on their own (wikis, shared drives,
+    dashboards) — shifts the effort of seeking information onto the receiver; may not be sufficient
+    alone for high-power, demanding stakeholders.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Interactive / Synchronous Communication
+  definition: Real-time, dynamic back-and-forth information sharing — meetings, calls,
+    videoconferencing. Contrast with asynchronous communication, where parties aren't present at the
+    same time and don't expect an instant reply.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Communication Flow
+  definition: 'The direction communication travels: downward, upward, horizontal (same level),
+    diagonal (across levels/functions), or external. Vertical communication spans hierarchical levels
+    generally (e.g. PM to CEO).'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Formal vs. Informal Communication
+  definition: Formal communication follows predetermined, structured channels (official meetings,
+    reports, documented exchanges). Informal communication is casual and spontaneous (hallway chats,
+    ad hoc calls).
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Osmotic Communication
+  definition: Absorbing information subconsciously by overhearing colocated teammates' discussions —
+    an argument for colocation.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Communication Mediums vs. Methods vs. Channels
+  definition: 'Methods are the broad how (verbal, non-verbal, listening, written, visual). Mediums are
+    the physical/technical means info travels through (voice, writing, body language, mass media).
+    Channels are the possible connections between parties — what the n(n-1)/2 formula counts.'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Communication Style
+  definition: How a person communicates — passive, aggressive, passive-aggressive, or assertive.
+    Assertive (direct and honest without intentionally hurting others) is generally the target style
+    for a PM.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Nonverbal / Paralingual Communication
+  definition: Nonverbal communication is non-linguistic signaling (facial expression, gesture, space,
+    touch, eye contact, tone). Paralingual communication is its voice-specific subset — tone, volume,
+    pitch, intonation.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Round-Robin
+  definition: A group technique of going around so each person shares input in turn, ensuring everyone
+    contributes and no one dominates the discussion.
+  domain: process
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Levels of Conflict
+  definition: 'Conflict escalates through 5 levels, each needing a more deliberate response: Problem
+    to solve, Disagreement, Contest, Crusade, World War.'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Conflict Resolution Outcomes
+  definition: 'Each conflict-resolution technique produces a labeled outcome: Collaborating = win-win,
+    Forcing/Directing = win-lose, Compromising/Reconciling = lose-lose, Smoothing/Accommodating =
+    yield-lose, Withdrawal/Avoiding = lose-leave.'
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Cultural Awareness / Sensitivity
+  definition: Being aware of the differences between cultures when communicating or interacting —
+    proactively, before they cause friction (e.g. validating understanding live during a global
+    kickoff rather than assuming one communication style works everywhere).
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Decision / Analysis Paralysis
+  definition: When an individual or group overanalyzes a situation to the point that decision-making
+    becomes paralyzed — no course of action gets decided within a natural time frame.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Internal vs. External Stakeholders
+  definition: Internal stakeholders are people/groups within the business (team members, functional
+    managers, executives). External stakeholders are outside it (customers, users, suppliers,
+    investors).
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Key Stakeholders
+  definition: Stakeholders with the influence and authority to dictate whether a project succeeds or
+    fails — their objectives must be satisfied, as they have the power to make or break the project.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Interpersonal Skills
+  definition: Skills used to establish and maintain relationships with others — active listening,
+    empathy, conflict resolution, teamwork, effective communication, and relationship building.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Buy-in
+  definition: The result of reaching consensus or alignment with a proposition, solution, or plan.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Net Promoter Score (NPS)
+  definition: A stakeholder satisfaction metric. Individually, stakeholders rate 0-10; the aggregate
+    NPS score (percentage of promoters minus detractors) ranges from -100 to +100, indicating
+    willingness to recommend the project/product/service.
+  domain: people
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md

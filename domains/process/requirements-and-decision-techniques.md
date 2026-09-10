@@ -13,6 +13,10 @@ involved and how.
   individually before the group session — reduces groupthink/dominant-voice bias.
 - **Focus Groups:** a facilitated, face-to-face conversation bringing together stakeholders and SMEs to
   share input on a specific subject.
+- **Facilitated Workshop:** brings all concerned stakeholders together in one session to work through
+  requirements collaboratively (e.g. to develop user stories). Especially effective when stakeholders
+  disagree or have conflicting expectations — the shared interaction helps the group find common
+  ground and reach consensus in a way that individual surveys or one-on-one meetings don't.
 - **Delphi technique:** builds consensus from expert opinion through several rounds of *anonymous*
   surveys, each round informed by the previous round's answers. **Wideband Delphi** is a variant where
   the team discusses estimates together after each round until they converge.

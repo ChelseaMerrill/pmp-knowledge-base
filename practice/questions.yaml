@@ -560,3 +560,123 @@
   answer: "Any three of: increased alignment, improved visibility and oversight, facilitated communication, mitigated risk."
   explanation: "Interface Management exists because leaving multi-party coordination unmanaged is itself a risk — these are the direct benefits of managing it deliberately."
   source: sources/guides/2026-09-10-interface-management.md
+
+- id: q-0071
+  domain: people
+  topic: stakeholder engagement
+  question: "A construction project for an electricity factory in a forested area triggers environmentalist protests, widely covered in the media, that disrupt the project. What should the PM have done earlier to avoid this?"
+  answer: "Engage in open dialogue with the environmentalists early to understand their concerns and perspectives on the project's environmental impact."
+  explanation: "Open dialogue builds trust and goodwill and surfaces concerns before they escalate — insurance, financial incentives, or purely internal mitigation planning don't address the actual relationship with this stakeholder group."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0072
+  domain: people
+  topic: cross-cultural communication
+  question: "A PM working with foreign stakeholders learns their email tone has been read as harsh and abrasive. What should the PM do?"
+  answer: "Apologize for any unintended offense and adjust future emails to be more culturally sensitive and diplomatic."
+  explanation: "Defending the style as 'clear and direct,' or just switching medium without addressing tone, both dodge the actual feedback — acknowledging impact and adjusting is the right response."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0073
+  domain: people
+  topic: stakeholder engagement
+  question: "A key stakeholder (the Mayor's Chief of Staff) has high influence but a notoriously packed schedule, making regular face-to-face meetings impossible. What communication approach fits best?"
+  answer: "Concise, targeted channels — weekly email updates, bi-weekly status reports, and regular calls — to keep him informed and solicit feedback without requiring dedicated meeting time."
+  explanation: "Persistently pushing for face-to-face meetings ignores the schedule constraint; delegating communication away from the PM risks losing a high-influence relationship; quarterly sessions are too infrequent for someone this influential."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0074
+  domain: people
+  topic: stakeholder analysis
+  question: "A significant shareholder shows little interest in a project, missing most meetings despite repeated engagement attempts. What should the PM do?"
+  answer: "Initiate a stakeholder analysis to tailor communication strategies and engagement approaches to this stakeholder's actual preferences and priorities."
+  explanation: "Giving up and focusing only on responsive stakeholders, or demanding participation, both skip the diagnostic step — understanding why they're disengaged should come before deciding how to re-engage them."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0075
+  domain: process
+  topic: agile roles
+  question: "At a sprint review, the product owner approves release of the increment, but a key stakeholder in attendance disapproves. What should the PM/facilitator do first?"
+  answer: "Align the product owner and the key stakeholder on a common decision. If that fails, support the product owner's decision, since the PO is accountable for approving deliverables."
+  explanation: "It's not up to the cross-functional team to vote on release decisions — that authority sits with the PO, and the facilitator's first move is trying to reconcile the disagreement, not immediately defaulting to either party."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0076
+  domain: people
+  topic: stakeholder engagement
+  question: "A key, high-power stakeholder refuses to sign off the acceptance document during product validation, claiming functionalities don't meet expectations. What should the PM have done to avoid this?"
+  answer: "Involve the key stakeholder during all project phases, not just planning or quality control alone."
+  explanation: "High-power stakeholders (per the power/interest grid) need to be managed closely and/or kept satisfied throughout — waiting until validation to involve them is what creates last-minute surprises like this."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0077
+  domain: people
+  topic: stakeholder identification
+  question: "A project installing 120 air conditioners has a huge number of stakeholders — nearly one per office. What's the best way for the PM to handle this scale?"
+  answer: "Set up an effective, systematic way to define the needs of each individual stakeholder."
+  explanation: "Delegating representation to the sponsor, only engaging high power/interest stakeholders, or splitting the work into a program purely to dodge the stakeholder count are all shortcuts that skip identifying real needs — scale is a process problem, not a reason to exclude people."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0078
+  domain: people
+  topic: stakeholder analysis
+  question: "The head of investments claims they never receive the PM's emails and can't help; the head of customer relations is too busy to reply to emails but responds fine in person. How should the PM classify each in the stakeholder engagement assessment matrix?"
+  answer: "The head of investments is resistant (unwilling to help); the head of customer relations is neutral (too busy/indifferent, not opposed)."
+  explanation: "Resistant means aware but unsupportive; neutral means aware but neither supportive nor resistant. Claiming to never get emails is a passive-resistance pattern, not genuine unawareness."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0079
+  domain: people
+  topic: stakeholder resistance
+  question: "A project manager presents a stadium project the community supports in principle, but encounters strong stakeholder resistance from the start. What should the PM do to resolve this — and what should they NOT do?"
+  answer: "Schedule a meeting to thoroughly explain the project, establish ground rules, ensure involvement, and surface any underlying personal/organizational issues. They should NOT create a 'fait accompli' to pressure acceptance."
+  explanation: "Overcoming resistance starts with listening and understanding what drives it — a fait accompli tries to bypass that understanding entirely, and is a reliable wrong answer on the exam."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0080
+  domain: process
+  topic: development approach
+  question: "Starting the second phase of a hybrid project after requirements challenges in phase one, the PM wants stakeholders to find common ground before differences widen. What should they do?"
+  answer: "Invite all concerned stakeholders to a requirements workshop to develop user stories together."
+  explanation: "A facilitated workshop's shared interaction helps a group reach consensus in a way that individual questionnaires, one-on-one meetings, or user surveys don't."
+  source: sources/guides/2026-09-10-communication-stakeholder-questions.md
+
+- id: q-0081
+  domain: people
+  topic: power/interest grid
+  question: "A stakeholder has high power but low interest in the project. Which power/interest grid engagement strategy fits, and how does that differ from a stakeholder with high power AND high interest?"
+  answer: "Keep Satisfied (high power, low interest) — don't overwhelm them with detail, but don't neglect them either, since they can still impact the project. High power + high interest is Manage Closely, requiring active engagement."
+  explanation: "The four quadrant labels are Manage Closely (high/high), Keep Satisfied (high power/low interest), Keep Informed (low power/high interest), and Monitor (low/low)."
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+
+- id: q-0082
+  domain: people
+  topic: conflict resolution
+  question: "What are the 5 levels of conflict escalation, in order?"
+  answer: "Problem to solve, Disagreement, Contest, Crusade, World War."
+  explanation: "Each level needs a more deliberate response than the last — the goal of resolving conflict early and well is to stop it from escalating to the next level."
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+
+- id: q-0083
+  domain: people
+  topic: communication methods
+  question: "A PM gives a demanding sponsor access to the project management software so they can check real-time status themselves. Is this sufficient communication for a high-power, high-interest stakeholder on a complex project?"
+  answer: "Not on its own — this is pull communication, which shifts the effort onto the sponsor to seek information, and may not be sufficient for a high-power, demanding stakeholder who expects information pushed to them plus regular interactive touchpoints."
+  explanation: "For complex projects with demanding sponsors, frequent push/interactive communication (regular meetings, standup access) generally beats pull-only or infrequent push-only approaches."
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+
+- id: q-0084
+  domain: people
+  topic: communication model
+  question: "During a status meeting, a team member uses heavy industry jargon that confuses the rest of the group. What type of communication noise is this?"
+  answer: "Semantic noise."
+  explanation: "Semantic noise is caused by word choice/jargon the receiver doesn't understand — distinct from physiological (speaker-side delivery), psychological (judgment/bias), or physical (environmental) noise."
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+
+- id: q-0085
+  domain: people
+  topic: stakeholder engagement
+  question: "What's the difference between the Stakeholder Engagement Assessment Matrix and the Stakeholder Engagement Plan?"
+  answer: "The assessment matrix compares each stakeholder's current engagement state against their desired state — a diagnostic snapshot. The engagement plan specifies the actual strategies and actions to close that gap."
+  explanation: "Analysis tools (power/interest grid, engagement assessment matrix, Salience Model) tell you where stakeholders stand; the engagement plan is the actionable document built from that analysis."
+  source: sources/guides/2026-09-10-communication-stakeholder-keywords.md

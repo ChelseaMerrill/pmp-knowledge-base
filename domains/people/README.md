@@ -27,15 +27,17 @@ per concept, not one per source it came from.
   power types, motivation theories (Theory X/Y/Z, Expectancy, Herzberg), Tuckman's ladder paired with
   when team-building and the team charter actually happen, empowerment, virtual/distributed teams.
 - **Conflict:** see [conflict-resolution.md](conflict-resolution.md) — the five techniques ranked
-  best-to-weakest, how to actually run a conflict conversation, and the disagree-with-a-stakeholder
-  procedure.
+  best-to-weakest with their win/lose outcome labels, the 5 levels of conflict escalation, how to
+  actually run a conflict conversation, and the disagree-with-a-stakeholder procedure.
 - **Agile roles & events:** see [agile-roles-and-events.md](agile-roles-and-events.md) — PO/Scrum
   Master/Dev Team, DoR vs. DoD, sprint structure, burn-down vs. burn-up, iterative vs. incremental.
 - **Stakeholders:** see [stakeholder-engagement.md](stakeholder-engagement.md) — stakeholder register,
-  the power/interest grid, and the distinction between aligning expectations up front vs. managing
-  them as the project runs.
+  the power/interest grid with all four quadrant action labels, engagement states
+  (unaware/resistant/neutral/engaged), the engagement assessment matrix vs. engagement plan, the
+  5-step engagement process cycle, and aligning vs. managing expectations.
 - **Communication:** see [communication-management.md](communication-management.md) — communication
-  strategy vs. the Communication Management Plan (Who/What/How), the seven active listening
+  strategy vs. the Communication Management Plan (Who/What/How), the sender/receiver model and noise
+  types, push/pull/interactive delivery, communication flow directions, the seven active listening
   principles, the channel-count formula n(n-1)/2, and knowledge-transfer techniques
   (explicit/documented vs. tacit knowledge sharing).
 - **RACI:** Responsible, Accountable, Consulted, Informed — and the common exam trap of assigning

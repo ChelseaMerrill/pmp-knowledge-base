@@ -40,6 +40,14 @@ initiative.
 - The team aims for **consistent velocity** across sprints. Unfinished work doesn't count toward it,
   and work ends when the budget ends (in a fixed-budget adaptive project).
 
+## When a stakeholder disagrees with the PO at Review
+
+If a key stakeholder disapproves of a release the PO just approved at sprint review: the PM's role as
+**facilitator** is first to align the PO and the stakeholder on a common decision. If that fails, the
+PM supports the **PO's decision** — the PO is accountable for approving deliverables against
+acceptance criteria, not the cross-functional team (so don't put it to a team vote) and not the PM's
+own judgment call.
+
 ## Burn charts
 
 - **Burn-down chart:** tracks remaining sprint work; owned by the PM/Scrum Master; trending *below*
