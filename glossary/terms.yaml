@@ -1143,3 +1143,15 @@
     — distinct from the Communication Management Plan it supports.
   domain: process
   source: sources/guides/2026-09-10-pmis.md
+- term: Interface Management
+  definition: The management of communications, relationships, and deliverables among two or more
+    interface stakeholders — deliberately managing the connections between parties/systems, not just
+    the parties themselves.
+  domain: process
+  source: sources/guides/2026-09-10-interface-management.md
+- term: Interface Types (Internal/External, Soft/Hard)
+  definition: 'Two independent classification axes for an interface. Scope: Internal (within a single
+    scope of work) vs. External (between two or more scopes of work). Nature: Soft (information
+    exchange between teams/parties) vs. Hard (a physical connection between components or systems).'
+  domain: process
+  source: sources/guides/2026-09-10-interface-management.md

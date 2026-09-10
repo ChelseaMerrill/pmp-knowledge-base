@@ -57,6 +57,9 @@ lives. As you process sources, split this into topic files (e.g. `evm-formulas.m
   Delphi, nominal group, affinity diagrams, MoSCoW, Kano, voting, and related tools.
 - **PMIS:** see [pmis.md](pmis.md) — the tooling layer under artifact management and communication;
   don't confuse it with the plans it supports.
+- **Interface management:** see [interface-management.md](interface-management.md) — managing
+  communications, relationships, and deliverables among interface stakeholders; internal vs. external and
+  soft vs. hard as two independent classification axes.
 
 ## Open questions / things to research as you go
 

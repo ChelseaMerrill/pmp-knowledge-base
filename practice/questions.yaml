@@ -536,3 +536,27 @@
   answer: "No — the Communication Management Plan defines who needs what information, in what format, and how often; the PMIS is the software/tooling that actually stores, moves, and gives centralized access to that information."
   explanation: "PMIS is a tool/technique, not a plan. The plan drives what should happen; the PMIS is (one of) the means by which it happens."
   source: sources/guides/2026-09-10-pmis.md
+
+- id: q-0068
+  domain: process
+  topic: interface management
+  question: "The architectural team and structural engineering team coordinate to make sure the building design aligns with load-bearing requirements. What interface type is this, along the scope axis and the nature axis?"
+  answer: "Internal (a single scope of work — design) and Soft (an exchange of information between teams, not a physical connection)."
+  explanation: "Internal/External and Soft/Hard are two independent classification axes — this example is internal because both teams work within the same overall scope, and soft because it's information exchange, not a physical fit."
+  source: sources/guides/2026-09-10-interface-management.md
+
+- id: q-0069
+  domain: process
+  topic: interface management
+  question: "Pre-fabricated steel beams from an external supplier must fit precisely with the foundation and load-bearing columns built by the project team. What interface type is this?"
+  answer: "A Hard interface (a physical connection between components) — and External, since it spans two separate scopes of work (the supplier's fabrication scope and the project's construction scope)."
+  explanation: "Hard interfaces are about physical fit, not communication — but they still get classified as internal or external depending on whether the connected parties share a scope of work."
+  source: sources/guides/2026-09-10-interface-management.md
+
+- id: q-0070
+  domain: process
+  topic: interface management
+  question: "Name at least three advantages of actively managing interfaces between project stakeholders, rather than leaving coordination to chance."
+  answer: "Any three of: increased alignment, improved visibility and oversight, facilitated communication, mitigated risk."
+  explanation: "Interface Management exists because leaving multi-party coordination unmanaged is itself a risk — these are the direct benefits of managing it deliberately."
+  source: sources/guides/2026-09-10-interface-management.md
