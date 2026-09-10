@@ -4,7 +4,7 @@ title: "PMP Examination Content Outline — July 2026 (PMI Official)"
 url: c:\Users\cmerrill\Downloads\New-PMP-Examination-Content-Outline-2026.pdf
 date_ingested: 2026-09-08
 domain: mixed
-status: raw
+status: processed
 ---
 
 <!--

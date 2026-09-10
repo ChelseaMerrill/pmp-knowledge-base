@@ -444,3 +444,20 @@
     (delivery method, formality, frequency).
   domain: people
   source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md
+- term: Job Task Analysis (JTA)
+  definition: A criterion-referenced study of what practicing project managers actually do, used by
+    PMI to build each PMP exam cycle so questions map to real, frequently-performed work rather than
+    abstract theory.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-exam-content-outline.md
+- term: Examination Content Outline (ECO)
+  definition: PMI's official document defining what a PMP exam cycle covers — domains, tasks, and
+    enablers — validated by the Job Task Analysis. Distinct from the PMBOK Guide, which is a knowledge
+    reference; the ECO defines the job tasks a PM performs and is what the exam actually tests against.
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-exam-content-outline.md
+- term: Professional Development Unit (PDU)
+  definition: A unit of continuing-education credit. Certified PMPs must earn 60 PDUs every 3 years to
+    maintain the certification (Continuing Certification Requirements, or CCR).
+  domain: business-environment
+  source: sources/guides/2026-09-08-pmp-exam-content-outline.md

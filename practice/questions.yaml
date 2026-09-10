@@ -120,3 +120,27 @@
   answer: "Tacit knowledge — typically transferred through mentoring, pairing, or direct conversation rather than documentation."
   explanation: "Explicit knowledge is easily codified in documents; tacit knowledge is experience-based and resists documentation, so it needs person-to-person transfer methods."
   source: sources/guides/2026-09-10-stakeholder-and-communication-management-plan.md
+
+- id: q-0016
+  domain: business-environment
+  topic: exam content outline
+  question: "What is the difference between the ECO (Examination Content Outline) and the PMBOK Guide?"
+  answer: "The ECO defines the critical job tasks a practicing PM performs, validated by the Job Task Analysis, and is what the exam actually tests. The PMBOK Guide is a knowledge reference of principles and processes — the exam tests applied judgment on realistic scenarios, not memorization of the Guide."
+  explanation: "This distinction matters because study effort should center on being able to apply judgment to scenario-based tasks, not on memorizing the Guide's contents."
+  source: sources/guides/2026-09-08-pmp-exam-content-outline.md
+
+- id: q-0017
+  domain: process
+  topic: development approach
+  question: "Roughly what share of exam items reflect predictive approaches versus adaptive/agile and hybrid approaches combined?"
+  answer: "About 40% predictive, and about 60% split between adaptive/agile and hybrid."
+  explanation: "This roughly 40/60 split is why heavy agile/hybrid preparation matters even though 'Process' (the largest domain) has historically skewed predictive in older materials — approach isn't confined to one domain."
+  source: sources/guides/2026-09-08-pmp-exam-content-outline.md
+
+- id: q-0018
+  domain: business-environment
+  topic: eligibility experience
+  question: "A candidate leads Project I from Jan 1–Mar 31 and Project II from Feb 1–May 31 (overlapping). How many months of PM experience do these two projects count as, toward PMP eligibility?"
+  answer: "5 months (Jan 1–May 31), not 7."
+  explanation: "PMI counts eligibility experience by calendar tenure, not by summing each project's duration — overlapping time leading multiple projects isn't double-counted."
+  source: sources/guides/2026-09-08-pmp-exam-content-outline.md

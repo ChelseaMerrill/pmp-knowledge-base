@@ -1,8 +1,20 @@
 # People — 33% of the exam
 
-Official ECO tasks for this domain: develop a common vision · manage conflicts · lead the project
-team · engage stakeholders · align stakeholder expectations · manage stakeholder expectations · help
-ensure knowledge transfer · plan and manage communication.
+## Official ECO tasks and enablers
+
+| Task | Enablers |
+|---|---|
+| 1. Develop a common vision | Help ensure a shared vision with key stakeholders · Promote the shared vision · Keep the vision current · Break down situations to identify the root cause of a misunderstanding of the vision |
+| 2. Manage conflicts | Identify conflict sources · Analyze the context for the conflict · Implement an agreed-on resolution strategy · Communicate conflict management principles with the team and external stakeholders · Establish an environment that fosters adherence to common ground rules · Manage and rectify ground rule violations |
+| 3. Lead the project team | Establish expectations at the team level · Empower the team · Solve problems · Represent the voice of the team · Support the team's varied experiences, skills, and perspectives · Determine an appropriate leadership style · Establish clear roles and responsibilities within the team |
+| 4. Engage stakeholders | Identify stakeholders · Analyze stakeholders · Analyze and tailor communication to stakeholder needs · Execute the stakeholder engagement plan · Optimize alignment among stakeholder needs, expectations, and project objectives · Build trust and influence stakeholders to accomplish project objectives |
+| 5. Align stakeholder expectations | Categorize stakeholders · Identify stakeholder expectations · Facilitate discussions to align expectations · Organize and act on mentoring opportunities |
+| 6. Manage stakeholder expectations | Identify internal and external customer expectations · Align and maintain outcomes to internal and external customer expectations · Monitor internal and external customer satisfaction/expectations and respond as needed |
+| 7. Help ensure knowledge transfer | Identify knowledge critical to the project · Gather knowledge · Foster an environment for knowledge transfer |
+| 8. Plan and manage communication | Define a communication strategy · Promote transparency and collaboration · Establish a feedback loop · Understand reporting requirements · Create reports aligned with sponsors and stakeholder expectations · Support reporting and governance processes |
+
+*Source: PMI's official Examination Content Outline, July 2026 — see
+[2026-09-08-pmp-exam-content-outline.md](../../sources/guides/2026-09-08-pmp-exam-content-outline.md).*
 
 This file is the starting point — as you process sources, expand it into topic-specific notes (e.g.
 `conflict-resolution.md`, `stakeholder-engagement.md`) and link them from here, or keep growing this
