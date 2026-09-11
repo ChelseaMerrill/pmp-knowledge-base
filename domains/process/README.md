@@ -32,16 +32,27 @@ lives. As you process sources, split this into topic files (e.g. `evm-formulas.m
   request. Agile projects don't route changes through a CCB the way predictive projects do.
 - **Scope & schedule control:** see
   [schedule-and-change-control.md](schedule-and-change-control.md) — scope control vs. validation,
-  lead/lag, resource leveling vs. smoothing, the 8-step Integrated Change Control process, and the
-  predictive/adaptive/hybrid practice split. Also: scope baseline, WBS and WBS dictionary, requirements
-  traceability matrix, scope creep vs. gold plating, critical path method, float/slack, precedence
-  diagramming, rolling wave planning, milestones.
+  lead/lag, resource leveling vs. smoothing, the 8-step Integrated Change Control process (plus
+  stakeholder-originated change priority and CCB disagreement), staffing conflicts in a functional
+  org, the work authorization system, and the assumption log. Also: scope baseline, WBS and WBS
+  dictionary, requirements traceability matrix, scope creep vs. gold plating, critical path method,
+  float/slack, precedence diagramming, rolling wave planning, milestones.
+- **WBS mechanics:** see [wbs-and-decomposition.md](wbs-and-decomposition.md) — WBS characteristics,
+  the MECE principle and 100% rule, control accounts vs. planning packages vs. work packages, code of
+  accounts, decomposition, and the scope statement's place in the planning sequence.
+- **Critical path mechanics:** see
+  [critical-path-and-network-diagrams.md](critical-path-and-network-diagrams.md) — network diagrams and
+  nodes, the four dependency types (FS/FF/SS/SF) and four dependency categories (mandatory/
+  discretionary/external/internal), forward/backward pass, ES/EF/LS/LF, total vs. free float, critical
+  path vs. critical chain, master/milestone/project schedule, and the five behavioral traps that distort
+  schedule estimates (Dropped Baton, Student Syndrome, Self-protection, Parkinson's Law, Sandbagging).
 - **Cost / EVM:** PV, EV, AC, CV, SV, CPI, SPI, EAC, ETC, TCPI, contingency vs. management reserve,
   three-point (PERT) estimating. This is the single highest-value formula set on the exam — drill it
   until it's automatic, not just memorized. See
   [assessing-performance.md](assessing-performance.md) for BAC/VAC and reading CV/SV together.
 - **Estimation:** see [estimation-techniques.md](estimation-techniques.md) — ROM/budgetary/definitive
-  ranges, analogous/parametric/bottom-up, the two three-point formulas, and agile velocity-based
+  ranges (and their synonyms), analogous/parametric/bottom-up, expert judgment, the two three-point
+  formulas, single-point vs. ranged estimating, the basis of estimates, and agile velocity-based
   estimating.
 - **Quality:** see [quality-management.md](quality-management.md) — QA vs. QC vs. audit, cost of
   conformance/nonconformance, root cause tools, regulations vs. standards.

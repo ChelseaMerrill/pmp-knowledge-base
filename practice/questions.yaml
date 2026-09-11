@@ -752,3 +752,83 @@
   answer: "Smoothing — giving more consideration to one side to defuse the situation. It builds harmony for a non-critical issue, but unlike collaborating/problem-solving, it doesn't actually address the root cause (the coworker's mistakes)."
   explanation: "Smoothing sits in the middle of the technique ranking (below collaborating and compromising) precisely because it prioritizes short-term harmony over resolving the underlying issue."
   source: sources/guides/2026-09-11-team-management-questions.md
+
+- id: q-0095
+  domain: process
+  topic: schedule behavioral traps
+  question: "A project team is stuck behind schedule because activities that finished early sat idle since the next team wasn't ready to start. Which schedule/resource behavioral trap is this, and how does it differ from Student Syndrome?"
+  answer: "Dropped Baton — the preceding activity finishes early but the successor isn't ready, so the time gained is lost. Student Syndrome is different: it's procrastination eating into an activity's own slack, not a handoff failure between two activities."
+  explanation: "Both traps waste schedule buffer, but Dropped Baton is a coordination/handoff problem between activities, while Student Syndrome is a within-activity timing problem."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0096
+  domain: process
+  topic: estimating
+  question: "A sponsor asks the PM for an approximate cost estimate by end of day, very early in the project, with almost no information available yet. What estimating technique should the PM use, and why?"
+  answer: "Analogous (top-down) estimating — using the known costs of a similar completed project, combined with expert judgment and historical data. Building a WBS and summing work-package costs, or creating the cost management plan, are both too involved for a same-day, early-stage estimate."
+  explanation: "Analogous estimating trades accuracy for speed, which is exactly the tradeoff this scenario calls for — it fits the ROM/preliminary estimate range (−25%/+75%), appropriate this early."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0097
+  domain: process
+  topic: EVM interpretation
+  question: "Over four months, a project's SPI trends from 1.00 up to 1.25 while its CPI trends from 1.00 down to 0.70. What should the PM do?"
+  answer: "Take corrective action on cost specifically — the project is increasingly over budget (CPI < 1) even though it's increasingly ahead of schedule (SPI > 1). Schedule doesn't need fixing; cost does."
+  explanation: "Reading CPI and SPI together (not just individually) is what tells you which lever to pull — treating both as broken, or doing nothing because schedule looks fine, both misread the data."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0098
+  domain: process
+  topic: scope statement
+  question: "A PM and business analyst are about to develop the scope statement from gathered requirements on a waterfall project. What four things does the scope statement itself contain?"
+  answer: "Scope description, deliverables, acceptance criteria, and exclusions (PMBOK 7th edition, page 246)."
+  explanation: "This is distinct from the WBS/WBS dictionary (built after the scope statement), the Scope Management Plan/SOW/RTM, and the project charter/PM plan — each is a separate document in the planning sequence."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0099
+  domain: process
+  topic: resource management
+  question: "Team members allocated to a project at 50% availability are actually spending less than half their time on it, and the PM didn't personally assign them. Who should the PM negotiate with to fix this, and why?"
+  answer: "The functional managers — negotiating clear, written assignments with reliable scheduling priorities. Since the PM didn't assign the team directly, the organization is functional, and staff assignment is the functional managers' responsibility, not the sponsor's."
+  explanation: "Asking the sponsor for more resources, adjusting deadlines, or crashing the project all skip past the actual root cause: competing priorities set by the functional managers who control the staff."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0100
+  domain: process
+  topic: requirements traceability
+  question: "A predictive project team discovers many implemented features differ from what's in the scope statement. Which document should the PM check, and where does it sit in the planning flow?"
+  answer: "The Requirements Traceability Matrix (RTM) — it maps requirements to the deliverables that satisfy them, along with issues and test results. Flow: Requirements → Scope Statement → WBS/WBS Dictionary → Execution."
+  explanation: "The RTM is the evidence trail confirming requirements were actually fulfilled (PMBOK 7th edition, page 189) — not the WBS/WBS dictionary (which organize the work) or the project charter (which authorizes the project)."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0101
+  domain: process
+  topic: change control
+  question: "A conference sponsor requests two more attendees one day before the event, requiring PM to rearrange lodging, catering, and gift packages, even though the room technically has capacity. What should the PM do first?"
+  answer: "Issue a change request to the Change Control Board (CCB), even though it came from the sponsor and even though it's last-minute."
+  explanation: "A critical key stakeholder's request still has to go through the formal change process — auto-accepting it because it's the sponsor, or refusing it because it's late notice, both skip the CCB (PMBOK 7th edition, page 77)."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0102
+  domain: process
+  topic: EVM corrective action
+  question: "A project's SPI is 1.10 (ahead of schedule) and CPI is 0.80 (over budget). What technique should the PM use to balance the two, and what's the tradeoff?"
+  answer: "Resource leveling — spreading out resource usage (and therefore costs) over time to reduce spending spikes. The tradeoff is that it may lengthen the schedule, which is acceptable here since the project has schedule cushion to spend."
+  explanation: "Crashing or fast-tracking would only make the budget problem worse (both cost more or add risk); leveling is the technique that specifically trades schedule slack for cost control."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0103
+  domain: process
+  topic: work authorization
+  question: "Tasks on a project keep happening out of the right order at the wrong times, causing rework and hurting morale. Which PM tool addresses this directly, and why not a RACI matrix?"
+  answer: "A Work Authorization System — formal documented procedures for authorizing work, ensuring it happens at the right time and in the correct sequence. A RACI matrix defines who's responsible for what, not when work is allowed to start."
+  explanation: "Org charts and RACI matrices are responsibility/reporting tools; the work authorization system is specifically a sequencing/timing control."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0104
+  domain: process
+  topic: schedule compression
+  question: "A sponsor tells the PM the project must finish one week earlier than agreed. Between crashing and fast-tracking, which should the PM try first, and why?"
+  answer: "Fast-tracking — running originally sequential activities in parallel. It's the less costly option; crashing (adding resources) costs more, so the cheaper compression technique should be tried first when possible (PMBOK 7th edition, page 59)."
+  explanation: "Adding duration buffers or leveling resources wouldn't shorten the schedule at all, so they don't answer the sponsor's request."
+  source: sources/guides/2026-09-11-predictive-pm-questions.md

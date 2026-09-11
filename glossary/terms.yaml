@@ -416,9 +416,10 @@
   domain: business-environment
   source: seed
 - term: Murder Board
-  definition: A committee of experts (senior managers and subject matter experts) that critically and
-    aggressively evaluates a project proposal, asking tough questions to look for reasons the project
-    should not be considered. It is a project selection technique used before a project is approved.
+  definition: A committee of experts, senior managers, and stakeholders that critically and
+    aggressively evaluates a project — either a proposal before it's approved (a project selection
+    technique), or a phase's performance at a stage gate/kill point during execution, deciding whether
+    the project should continue or be canceled.
   domain: business-environment
   source: sources/guides/2026-09-08-pm-fundamentals-questions.md
 - term: Stakeholder
@@ -1417,3 +1418,122 @@
     doesn't resolve the root cause the way collaborating does.
   domain: people
   source: sources/guides/2026-09-11-team-management-questions.md
+- term: WBS Characteristics
+  definition: 'A well-formed WBS component is: Definable (clear description of work/deliverables),
+    Manageable (small enough to control), Estimable (allows accurate time/cost/resource estimation),
+    Measurable (clear criteria to track completion), and Independent (minimal overlap/dependency with
+    other components).'
+  domain: process
+  source: sources/guides/2026-09-11-wbs.md
+- term: MECE Principle
+  definition: 'Mutually Exclusive, Collectively Exhaustive — the two properties a well-structured WBS
+    must have: Mutually Exclusive means no work package overlaps another; Collectively Exhaustive (the
+    100% rule) means the WBS captures 100% of required project work with no gaps.'
+  domain: process
+  source: sources/guides/2026-09-11-wbs.md
+- term: Control Account
+  definition: A management control point in the WBS, above the work package level, where scope,
+    schedule, and budget are integrated and compared to earned value for performance measurement.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Planning Package
+  definition: A WBS component under a control account, used to plan and track activities that are not
+    yet fully defined into work packages.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Code of Accounts
+  definition: A lettering or numbering system that applies a unique identifier to each component of
+    the Work Breakdown Structure.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Decomposition
+  definition: Breaking down project deliverables into smaller, more detailed, and manageable work
+    packages to build the WBS.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Activity Attributes
+  definition: The elements associated with each scheduled activity — activity codes, predecessor/
+    successor activities, logical relationships, leads and lags, resource requirements, imposed dates,
+    constraints, and assumptions.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Scope Statement
+  definition: The description of the project scope — scope description, deliverables, acceptance
+    criteria, and exclusions (PMBOK 7th edition, page 246). Developed from gathered requirements, and
+    precedes the WBS in the planning sequence.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+- term: Basis of Estimates
+  definition: A document that describes how an estimate was developed and what information supported
+    its development.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Forward Pass / Backward Pass
+  definition: Forward Pass moves forward through a network diagram to calculate Early Start (ES) and
+    Early Finish (EF) — the earliest an activity can begin/end. Backward Pass moves backward to
+    calculate Late Start (LS) and Late Finish (LF) — the latest an activity can start/finish without
+    delaying the project.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Free Float
+  definition: The amount of time an activity can be delayed without delaying the Early Start date of
+    its successor activity — narrower than Total Float, which measures delay tolerance against the
+    whole project's finish date.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Dependency Types (FS/FF/SS/SF)
+  definition: 'The four logical relationships between two activities: Finish-to-Start (successor
+    starts after predecessor finishes — most common), Finish-to-Finish (one finishes only after the
+    other finishes), Start-to-Start (successor starts only after predecessor starts), and
+    Start-to-Finish (predecessor finishes only once the successor has started — rare).'
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Dependency Categories
+  definition: 'Why a dependency exists, independent of its FS/FF/SS/SF type: Mandatory/Hard logic
+    (non-negotiable), Discretionary/Soft logic (the team''s preferred sequencing), External (tied to
+    non-project activities outside the team''s control), and Internal (between two project activities
+    the team controls).'
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Critical Chain
+  definition: The longest chain of activities, factoring in technical dependencies and resource
+    availability — unlike the critical path, which considers only logical dependencies.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Master Schedule vs. Milestone Schedule
+  definition: A Master Schedule is a broad overview spanning multiple projects/operations (rolling up
+    various project schedules). A Milestone Schedule presents just the milestones with planned dates,
+    without full activity-level detail.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Project Calendar
+  definition: A calendar identifying the working days and shifts available for scheduled activities —
+    distinct from a resource calendar, which tracks a specific resource's individual availability.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: Work Authorization System
+  definition: A set of formal documented procedures establishing how project work will be authorized,
+    to ensure work is performed at the right time and in the correct sequence — the fix for tasks being
+    done out of order, distinct from an org chart, RACI matrix, or communications management plan.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+- term: Assumption Log
+  definition: Records factors treated as true, real, or certain without proof or demonstration,
+    throughout the project (PMBOK 7th edition, page 185) — updated whenever a plan or estimate depends
+    on an unverified assumption.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+- term: Schedule/Resource Behavioral Traps
+  definition: 'Five named patterns of how human behavior distorts schedule estimates: Dropped Baton (an
+    early-finished activity''s successor isn''t ready, losing the time gained), Student Syndrome
+    (procrastination eats the slack in a duration), Self-protection (workers hide early finishes to
+    avoid raised future expectations), Parkinson''s Law (work expands to fill all allotted time), and
+    Sandbagging (workers underestimate on purpose to look like over-achievers later).'
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-questions.md
+- term: Kill Point
+  definition: A phase-end review allowing the organization to evaluate a project's performance and take
+    immediate action to correct problems or cancel the project — a synonym cluster with Phase Review,
+    Stage Gate, Phase Gate, Phase Entrance, and Phase Exit.
+  domain: process
+  source: sources/guides/2026-09-11-predictive-pm-keywords.md

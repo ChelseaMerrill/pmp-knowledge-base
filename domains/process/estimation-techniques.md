@@ -5,14 +5,18 @@ precise they're expected to be at each stage.
 
 ## Estimate precision ranges, by project stage
 
-| Estimate type | Range |
-|---|---|
-| Preliminary / Rough Order of Magnitude (ROM) | −25% / +75% |
-| Conceptual / Budgetary | −10% / +25% |
-| Definitive | −5% / +10% |
+| Estimate type | Also known as | Range | When |
+|---|---|---|---|
+| Preliminary / Rough Order of Magnitude (ROM) | Rough estimate, Screening estimate, Approximate estimate | −25% / +75% | Beginning of the project, based on historical data from other projects — a high-level estimate, not a precise one. |
+| Conceptual / Budgetary | — | −10% / +25% | Narrows down uncertainty by producing a blueprint, prototype, mockup, design, or outline. |
+| Definitive | — | −5% / +10% | Determined at the *end* of the planning phase — the most accurate estimate available. |
 
 Precision tightens as the project moves from early feasibility toward baselined planning — a ROM
 estimate this early isn't supposed to be accurate to 10%.
+
+A **Basis of Estimates** document describes how an estimate was developed and what information
+supported it — regardless of which technique/precision level was used, this is the record of the
+reasoning behind the number.
 
 ## Estimating methods
 
@@ -32,6 +36,14 @@ estimate this early isn't supposed to be accurate to 10%.
   [requirements-and-decision-techniques.md](requirements-and-decision-techniques.md)).
 - **Agile estimating:** leans on **average velocity** from previous sprints rather than these
   formulas directly, once a team has sprint history to draw on.
+- **Expert judgment estimating:** basing estimates on the skill, expertise, or specialized knowledge of
+  the project team, independent consultants, or subject-matter agencies — often paired with analogous
+  estimating when historical data alone isn't enough.
+- **Historical information:** documentation from earlier projects (manuals, requirement specs,
+  reports) used as an input to estimating, especially analogous estimating.
+- **Single-point vs. Ranged estimating:** single-point produces one value for duration/effort/cost;
+  ranged estimating produces a minimum and maximum instead — three-point estimating is a structured way
+  to arrive at either.
 
 ## Related concepts
 

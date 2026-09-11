@@ -18,6 +18,21 @@ the surrounding mechanics and the process itself.
   requirement.
 - Key stakeholders should stay involved through every phase, both to keep them engaged and to secure
   acceptance of deliverables when the time comes.
+- The **Scope Statement** (description, deliverables, acceptance criteria, and exclusions — PMBOK 7th
+  edition, page 246) is developed from gathered requirements, and precedes the WBS: Requirements →
+  Scope Statement → WBS / WBS Dictionary → Execution. See
+  [wbs-and-decomposition.md](wbs-and-decomposition.md) for the WBS side of that flow.
+- If implemented features later turn out to differ from the scope statement, the document to check is
+  the **Requirements Traceability Matrix (RTM)** — it maps requirements to the deliverables that
+  satisfy them, documented along with issues and test results (PMBOK 7th edition, page 189).
+- A **Work Authorization System** — formal documented procedures for authorizing work — is the fix when
+  tasks are being performed out of order/at the wrong time, causing rework and morale problems. It's
+  distinct from an org chart, a RACI matrix, or the communications management plan, none of which
+  actually govern *when* work is allowed to start.
+- The **Assumption Log** records factors treated as true/real/certain without proof (PMBOK 7th edition,
+  page 185). When a team's estimate depends on an unverified assumption (e.g. "this will take 2 months
+  *if* the third-party system follows the international standard"), document that assumption in the
+  log — this is a distinct next step from checking critical-path impact or re-running the estimate.
 
 ## Schedule mechanics
 
@@ -48,6 +63,29 @@ the surrounding mechanics and the process itself.
 Always evaluate before deciding or acting — include the team, and check with the team/sponsor before
 raising a change request in the first place. A **murder board** can also serve as a phase/kill-point
 gate deciding whether a project continues past a given stage (see the seeded glossary term).
+
+When a **critical key stakeholder** (e.g. the sponsor) requests a change, treat it with high priority
+and issue a change request to the CCB promptly — even a sponsor's request still has to go through the
+formal process, rather than being auto-accepted (since they asked) or refused outright (since it's late
+notice). If the CCB approves a change but with an implementation method the PM disagrees with, the PM
+should implement it as approved — the CCB's decision should be respected and followed through the
+integrated change control process, not treated personally. Building a prototype using the PM's
+preferred (rejected) method anyway is itself scope creep, since it's work neither requested by the
+client nor included in the scope statement.
+
+When multiple CCB members' opinions diverge on a change request, the best path to a decision is
+**collaboration/consensus** — open dialogue where differing viewpoints get discussed until the group
+commits to a decision (PMBOK 7th edition, page 168) — rather than a vote, or deferring to the most
+experienced member or a board director.
+
+## Staffing conflicts in a functional organization
+
+If a PM didn't personally assign their team members (a sign the organization is functional), and team
+members are spending less time on the project than their stated availability, threatening the
+schedule: the fix is to **negotiate clear, written assignments with reliable scheduling priorities with
+the functional managers** — staff assignment is their responsibility, not the sponsor's. Asking the
+sponsor for more resources, adjusting the schedule/deadlines, or crashing the project all skip past the
+actual root cause (competing priorities set by the functional managers who control the staff).
 
 ## Predictive vs. adaptive vs. hybrid, in practice
 
