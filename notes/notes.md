@@ -3,6 +3,11 @@
 Things I've told Claude to jot down as I learn them. See `domains/` for the clean, canonical version
 and `study-guide/guide.md` for my own writing.
 
+## People
+
+- RACI: Responsible, Accountable, Consulted, Informed.
+- The RACI chart is a responsibility assignment matrix.
+
 ## Process
 
 - The six main project management principles: adopt a holistic view, focus on value, embed quality
@@ -26,6 +31,8 @@ and `study-guide/guide.md` for my own writing.
   scope and variable cost and schedule. For an agile approach, the scope is variable and the cost
   and schedule are fixed.
 - Types of delivery: single, multiple, periodic, and continuous.
+- There are five process groups: initiation, planning, execution, monitoring & controlling, and
+  closing.
 
 ## Business Environment
 
