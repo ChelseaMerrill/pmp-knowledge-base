@@ -49,6 +49,25 @@ well is to stop it from escalating to the next level.
   resistance — this is a consistent wrong answer on the exam. Resistance gets addressed by
   understanding it, not steamrolled.
 
+## Quick, low-stakes decisions vs. factual disagreements
+
+Not every team disagreement needs a full conflict-resolution technique:
+
+- **Voting** is the right call for a low-cost, low-risk, quick decision the team is stuck debating
+  (e.g. repair vs. replace a defective component, both options negligible in cost/risk/time) — simple,
+  intuitive, time- and cost-efficient. Don't let discussion drag on, and don't escalate something this
+  small to a formal meeting or the sponsor.
+- When the disagreement is actually a **factual/data question** in disguise (e.g. two team members
+  each convinced their target-audience assumption is right), the fix is to **gather objective data**
+  (market research, analysis) rather than applying a people-focused technique like voting, rotating
+  ownership, or outsourcing the decision — you're resolving a knowledge gap, not a relationship
+  conflict.
+- When multiple team members simply have **differing opinions/understanding of project work,
+  deliverables, or complexity** (not a factual question, not urgent) — especially after a PM
+  transition — bring everyone into one meeting to surface and resolve the misunderstandings directly,
+  rather than not intervening, treating it purely as a risk to log, or talking to people one-on-one
+  (which doesn't get differing views into the same room to actually reconcile).
+
 ## Disagreement with a stakeholder specifically
 
 1. Analyze the gap between the deliverable and the agreed acceptance criteria.

@@ -680,3 +680,75 @@
   answer: "The assessment matrix compares each stakeholder's current engagement state against their desired state — a diagnostic snapshot. The engagement plan specifies the actual strategies and actions to close that gap."
   explanation: "Analysis tools (power/interest grid, engagement assessment matrix, Salience Model) tell you where stakeholders stand; the engagement plan is the actionable document built from that analysis."
   source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+
+- id: q-0086
+  domain: people
+  topic: team development
+  question: "A PM is starting a new project with an experienced team. At which Tuckman stage should the team charter be created, and why?"
+  answer: "At the Forming stage — creating it at the outset establishes clear goals, roles, and expectations from the start, giving the team a foundation to work from through Storming, Norming, and Performing."
+  explanation: "This corrects an earlier note in this knowledge base that placed the team charter at Norming — the team-management source material is explicit that it belongs at Forming, not left to emerge organically later."
+  source: sources/guides/2026-09-11-team-management-questions.md
+
+- id: q-0087
+  domain: people
+  topic: power types
+  question: "A stakeholder tells a team member they're 'not living up to what was promised' in order to get them to comply. Which type of power is this, and how does it differ from pressure-based power?"
+  answer: "Guilt-based power — inducing guilt to motivate compliance. Pressure-based power is different: it works by limiting someone's freedom of choice, not by making them feel guilty."
+  explanation: "Both are less-common power types beyond the core five (legitimate, reward, penalty, referent, expert) — the exam distinguishes them by mechanism: guilt-based plays on emotion, pressure-based constrains options."
+  source: sources/guides/2026-09-11-team-management-keywords.md
+
+- id: q-0088
+  domain: people
+  topic: personality assessment
+  question: "A team member with deep expertise actively volunteers to coach and mentor newer members, but in meetings pushes his own solutions assertively without weighing alternative perspectives. Which two MBTI traits does this describe?"
+  answer: "Extrovert and Judging."
+  explanation: "Volunteering to actively engage with others indicates Extrovert (vs. Introvert); being assertive/decisive and not fully considering alternatives aligns with Judging (vs. Perceiving, which stays open and flexible)."
+  source: sources/guides/2026-09-11-team-management-questions.md
+
+- id: q-0089
+  domain: people
+  topic: motivation
+  question: "A senior team member on a multi-year project starts losing motivation, saying their work could easily be done by a junior. What's the right fix, and why not just give them a raise?"
+  answer: "Find them more challenging work. The demotivation is intrinsic — they want challenge and growth, not just compensation — so a raise or team-building activity doesn't address the actual cause."
+  explanation: "Per PMBOK 7th edition (p. 25), team members respond well to stretch goals and problem-solving when the underlying issue is intrinsic motivation, not extrinsic (hygiene) factors like pay."
+  source: sources/guides/2026-09-11-team-management-questions.md
+
+- id: q-0090
+  domain: people
+  topic: self-organizing teams
+  question: "After an org-wide move to Agile, team members still wait for the PM to hand them work instead of self-organizing. What should the PM actually do?"
+  answer: "Mentor the team on how to make their own decisions."
+  explanation: "Self-organization is a capability the team has to build, not just a structural condition — ensuring diverse functional expertise or removing impediments helps, but doesn't teach the team how to decide for itself."
+  source: sources/guides/2026-09-11-team-management-questions.md
+
+- id: q-0091
+  domain: people
+  topic: resource management
+  question: "A construction PM needs to know whether the electricity team is free in the next two weeks to resolve a dependency. Should they check the RACI/RAM, or the resource calendar — and why?"
+  answer: "The resource calendar — it shows when resources (team members and equipment) are actually available. The RACI/RAM shows who is responsible for what, not when they're free."
+  explanation: "A common exam trap: RAM/RACI and resource calendars both look like 'team management documents,' but they answer different questions — responsibility vs. availability."
+  source: sources/guides/2026-09-11-team-management-questions.md
+
+- id: q-0092
+  domain: people
+  topic: remote team communication
+  question: "A PM leads a hybrid team spread across four continents and communication is suffering. What two techniques specifically help, and what do they each involve?"
+  answer: "Remote pairing (two or more people join an online event at a set time to discuss and share screens) and fishbowl windows (a long-lived video feed team members join at the start of the workday and leave at the end, so the team feels co-located)."
+  explanation: "Both come from the Agile Practice Guide (p. 46) — colocating a globally distributed team isn't realistic, and 'use an agile approach' on its own doesn't address the communication mechanics."
+  source: sources/guides/2026-09-11-team-management-questions.md
+
+- id: q-0093
+  domain: people
+  topic: conflict resolution
+  question: "Before a client demo, the team spends 15 minutes stuck debating repair-vs-replace for a defective component — both options are negligible in cost, risk-free, and take under an hour. What should the PM do?"
+  answer: "Call for a vote to reach a decision."
+  explanation: "Voting is the right tool for a quick, low-stakes decision the team can't converge on — it's simple and efficient. Letting the debate continue, calling a formal meeting, or escalating to the sponsor would all be disproportionate to the stakes involved."
+  source: sources/guides/2026-09-11-team-management-questions.md
+
+- id: q-0094
+  domain: people
+  topic: conflict resolution
+  question: "A frustrated team member tells the PM a coworker's mistakes put him behind schedule. The PM reassures him she's aware of the situation and that his hard work is noticed and appreciated. Which conflict resolution technique is this, and what's its limitation?"
+  answer: "Smoothing — giving more consideration to one side to defuse the situation. It builds harmony for a non-critical issue, but unlike collaborating/problem-solving, it doesn't actually address the root cause (the coworker's mistakes)."
+  explanation: "Smoothing sits in the middle of the technique ranking (below collaborating and compromising) precisely because it prioritizes short-term harmony over resolving the underlying issue."
+  source: sources/guides/2026-09-11-team-management-questions.md

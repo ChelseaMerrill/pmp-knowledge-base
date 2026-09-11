@@ -962,10 +962,14 @@
   domain: people
   source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
 - term: Power Types
-  definition: 'Sources of a PM''s influence: Legitimate (formal position), Reward, Punish, Referent
-    (personal respect/charisma), Expert (knowledge/skill), and Situational.'
+  definition: 'Sources of a PM''s influence: Legitimate/Formal/Positional (official position), Reward
+    (compensating others), Penalty/Coercive (ability to penalize), Referent (personal respect/
+    charisma), Expert (knowledge/skill), Situational (being the only one able to resolve a crisis),
+    Informational (controlling data), Ingratiating (flattery), Guilt-based (inducing guilt), Pressure-
+    based (limiting freedom of choice), Persuasive (convincing arguments), and Relational (a network of
+    connections/alliances).'
   domain: people
-  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+  source: sources/guides/2026-09-11-team-management-keywords.md
 - term: Motivation Theory (Theory X/Y/Z)
   definition: 'Theory X assumes people dislike work and need control; Theory Y assumes people are
     self-motivated and seek responsibility; Theory Z (Ouchi) emphasizes long-term employment,
@@ -984,10 +988,11 @@
   domain: people
   source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
 - term: Team Charter
-  definition: A document, established during the Norming stage of team development, that captures how
-    a team agrees to work together — including its ground rules.
+  definition: A document, established during the Forming stage of team development (at the outset, to
+    set the foundation for how the team will work together), that captures a team's established
+    values, work guidelines, agreements, and ground rules.
   domain: people
-  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+  source: sources/guides/2026-09-11-team-management-questions.md
 - term: Lean
   definition: A management approach focused on continuous improvement of existing processes by
     eliminating waste.
@@ -1324,3 +1329,91 @@
     willingness to recommend the project/product/service.
   domain: people
   source: sources/guides/2026-09-10-communication-stakeholder-keywords.md
+- term: Maslow's Hierarchy of Needs
+  definition: Five levels of human need, satisfied bottom-up — Physiological, Safety, Love & Belonging,
+    Esteem, Self-actualization. A higher level only becomes a motivator once the levels below it are
+    fulfilled.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Myers-Briggs Type Indicator (MBTI)
+  definition: 'A personality questionnaire indicating psychological preferences across four pairs:
+    Extrovert/Introvert, Sensor/Intuitive, Thinker/Feeler, Judger/Perceiver.'
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Responsibility Assignment Matrix (RAM)
+  definition: Visually defines the roles and responsibilities of different team members and the nature
+    of their involvement in project activities. RACI is one type of RAM.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Resource Calendar
+  definition: A schedule of when team members (and equipment) are available to work on tasks — the
+    document to check for resource availability, as distinct from the RAM/RACI (which describes
+    responsibility, not availability).
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Fishbowl Windows
+  definition: A remote-team collaboration technique — an ongoing, long-lived video conferencing feed
+    between locations that team members join at the start of the workday and leave at the end, helping
+    a distributed team feel and act as if co-located.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Remote Pairing
+  definition: Two or more people join an online event at a specific time to discuss and share screens
+    as needed — a technique for managing communication on remote/distributed teams.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Onboarding
+  definition: The process of introducing the team to the project, during project initiation, to get
+    everyone on the same page.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Offboarding
+  definition: Transitioning a departing team member out of the project/organization — capturing
+    knowledge, an exit interview, fulfilling HR requirements — so they leave on good terms with loose
+    ends tied up.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Mobbing
+  definition: A technique where multiple team members focus simultaneously and coordinate their
+    contributions on a particular work item.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Swarming
+  definition: A technique where multiple team members focus collectively on resolving a specific
+    impediment.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Shadowing / Reverse Shadowing
+  definition: Shadowing is a team member following a work expert for observation, to learn a job or
+    role. Reverse shadowing flips it — a junior member is shadowed by a senior colleague, so the senior
+    can learn the junior's perspective or skills.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Training Baselining
+  definition: Assessing a team's training efficiency by pairing a pre-training assessment (the
+    baseline) with a post-training assessment (the comparison), to understand a training program's
+    actual impact on team skills.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Training Gap Analysis
+  definition: Determines which skills a team is lacking, in order to plan adequate training to close
+    the gap.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: 360-Degree Appraisal (Multi-Rater Feedback)
+  definition: A holistic performance review process in which the PM evaluates a team member based on
+    feedback from their superiors, peers, clients, etc. — not just the PM's own opinion.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Zero Sum Reward
+  definition: Rewarding only one or a few team members (e.g. an "employee of the month" award) — can
+    create contempt or envy among those not rewarded.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-keywords.md
+- term: Smoothing (Conflict Resolution)
+  definition: A conflict resolution technique that gives more consideration to one side of a conflict
+    in order to smooth the situation and avoid intensifying it — e.g. reassuring/downplaying rather
+    than digging into the underlying issue. Often establishes harmony for non-critical issues, but
+    doesn't resolve the root cause the way collaborating does.
+  domain: people
+  source: sources/guides/2026-09-11-team-management-questions.md

@@ -24,11 +24,19 @@ per concept, not one per source it came from.
 ## Seeded starting points (see glossary/terms.yaml for full definitions)
 
 - **Leading the team:** see [leadership-and-team.md](leadership-and-team.md) — leadership styles,
-  power types, motivation theories (Theory X/Y/Z, Expectancy, Herzberg), Tuckman's ladder paired with
-  when team-building and the team charter actually happen, empowerment, virtual/distributed teams.
+  power types (including the less-common informational/ingratiating/guilt-based/pressure-based/
+  persuasive/relational), motivation theories (Theory X/Y/Z, Expectancy, Herzberg, Maslow's Hierarchy),
+  MBTI, Tuckman's ladder paired with when team-building and the team charter actually happen (charter
+  = Forming, not Norming), empowerment, remote/virtual team techniques (fishbowl windows, remote
+  pairing).
 - **Conflict:** see [conflict-resolution.md](conflict-resolution.md) — the five techniques ranked
   best-to-weakest with their win/lose outcome labels, the 5 levels of conflict escalation, how to
-  actually run a conflict conversation, and the disagree-with-a-stakeholder procedure.
+  actually run a conflict conversation, the disagree-with-a-stakeholder procedure, and when to use
+  voting or data/research instead of a people-focused technique.
+- **Team resource management:** see [team-resource-management.md](team-resource-management.md) —
+  RACI/RAM vs. resource calendars (who does what vs. who's available when), acquiring/developing the
+  team, onboarding/offboarding, the training assessment pipeline, performance/satisfaction
+  measurement, and reward strategy design.
 - **Agile roles & events:** see [agile-roles-and-events.md](agile-roles-and-events.md) — PO/Scrum
   Master/Dev Team, DoR vs. DoD, sprint structure, burn-down vs. burn-up, iterative vs. incremental.
 - **Stakeholders:** see [stakeholder-engagement.md](stakeholder-engagement.md) — stakeholder register,
