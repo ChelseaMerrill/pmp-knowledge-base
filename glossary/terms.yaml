@@ -1537,3 +1537,221 @@
     Stage Gate, Phase Gate, Phase Entrance, and Phase Exit.
   domain: process
   source: sources/guides/2026-09-11-predictive-pm-keywords.md
+- term: 'Work Hierarchy: Theme, Epic, Feature, User Story'
+  definition: 'The nesting of agile work items from largest to smallest. Theme: a large group of value
+    connected under a common area of focus, divided into epics. Epic: represents business value to the
+    customer; may span more than one release. Feature: a shippable component for the customer, usually
+    fitting within one release. User Story: the smallest unit — a brief, plain-language description of a
+    feature from the end user''s perspective.'
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Product Backlog Item (PBI)
+  definition: A single element of work in the product backlog — a feature, user story, defect, technical
+    work, or knowledge-acquisition item.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Backlog Refinement (Backlog Grooming)
+  definition: The ongoing process of reviewing and updating the product backlog so it stays accurate,
+    detailed, estimated, and prioritized — distinct from sprint planning, which selects from an already
+    refined backlog.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: 3 C's of User Stories
+  definition: 'A model for writing user stories with three components: Card (the story is written down),
+    Conversation (discussed to build shared understanding), and Confirmation (completion is confirmed
+    through acceptance criteria).'
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: INVEST Criteria
+  definition: 'Criteria for a well-written user story: Independent, Negotiable, Valuable, Estimable,
+    Small, and Testable.'
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: DEEP Criteria
+  definition: 'Criteria for a healthy product backlog: Detailed (appropriately, nearer-term items more
+    so), Emergent, Estimated, and Prioritized.'
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Acceptance Criteria
+  definition: The required standards, capabilities, or conditions that a user story, task, feature, or
+    product backlog item must meet in order to be accepted by the product owner.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Relative Estimation vs. Absolute Estimation
+  definition: Relative estimation (e.g. story points) sizes a work item by comparing it to other similar
+    items. Absolute estimation assigns a specific unit of time, effort, or cost to a work item without
+    that comparison.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Planning Poker (Scrum Poker, Pointing Poker)
+  definition: A gamified, card-based relative-estimation method where each team member privately selects
+    a card to estimate a user story, then reveals and discusses to converge on an estimate. Cards
+    typically follow the Fibonacci sequence (0, 1, 2, 3, 5, 8, 13, 21…) since the growing gaps between
+    numbers reflect growing uncertainty in larger estimates.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: T-Shirt Sizing
+  definition: A non-numerical relative-sizing scale (XS, S, M, L, XL) used especially for epics, before
+    they're broken down small enough for story-point estimation.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Ideal Time (Ideal Hour, Ideal Day)
+  definition: The time it would take to complete a given task assuming zero interruptions — distinct from
+    elapsed/calendar time, which includes interruptions and context-switching.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Cross-Functional Team
+  definition: A team made up of members with diverse, substantial skill sets, able to produce the
+    project's deliverables without depending on anyone outside the team.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Self-Organized Team
+  definition: A team that works autonomously and takes responsibility for achieving project objectives —
+    handling its own task selection and prioritization — without relying on outside direction.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: T-Shaped vs. I-Shaped Team Member
+  definition: T-shaped (also Paint Drip, Broken Comb) — a generalizing specialist with deep expertise in
+    one area plus lighter skills in others, and usually more willing to collaborate across work.
+    I-shaped — deep expertise in one domain only, with no interest in work outside it.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Sustainable Pace
+  definition: Working at a pace the team can maintain indefinitely without causing burnout — one of the
+    12 Agile principles.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Scrum Values
+  definition: The five Scrum values — Commitment, Courage, Focus, Openness, and Respect.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Scrum Pillars
+  definition: Scrum rests on three pillars — Transparency, Inspection, and Adaptation.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Product Vision
+  definition: A brief statement of the desired future state that developing and deploying the product
+    would achieve — the north star the sprint goal and release plan both serve, but at a level above
+    either of them.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Product Roadmap
+  definition: A high-level, strategic map — created and maintained by the product owner — showing the
+    anticipated sequence of deliverables/milestones over the life of the product (Agile Practice Guide,
+    page 52). Distinct from the release plan, which maps a nearer-term, more detailed delivery sequence.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Release Plan
+  definition: Maps out how and when features or functionalities will be released and delivered to users
+    — narrower in scope and detail than the product roadmap.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Extreme Programming (XP)
+  definition: An agile framework targeting speed and simplicity through short development cycles and
+    strong technical practices (e.g. test-driven development, pair programming).
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Feature-Driven Development (FDD)
+  definition: An agile software development method suited to larger-scale projects, using short
+    iterations and treating features as the basic unit of work.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Scrumban
+  definition: A hybrid method incorporating Scrum practices with the Kanban method, giving a team
+    flexibility when transitioning between the two.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Lean Software Development
+  definition: An approach emphasizing optimized efficiency and minimized waste in the software
+    development process.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Crystal Family of Methodologies
+  definition: A set of agile software development approaches that scale by team size and project
+    criticality — the larger/more complex the project, the "darker" (heavier) the Crystal variant used.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Scaled Agile Frameworks (SAFe, LeSS, Disciplined Agile)
+  definition: 'Frameworks that apply agile principles and practices across multiple teams and
+    departments, not just one team. Scaled Agile Framework (SAFe): a structured framework for
+    enterprise-level agile adoption. Large Scale Scrum (LeSS): scales Scrum to multiple teams working on
+    one product. Disciplined Agile (DA / Disciplined Agile Delivery): puts individuals first, offering
+    only lightweight guidance so teams tailor their own process. (Scrum of Scrums is the lightest-weight
+    scaling technique in this family — see its own entry.)'
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Value Stream Mapping
+  definition: A lean technique for visualizing and measuring value-adding vs. non-value-adding
+    activities, used to remove waste from an existing process, system, or product.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: User Story Mapping
+  definition: A visual tool that organizes work by following each user story to its corresponding sprint
+    and parent epic, tracking the value chain of each work element.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Risk-Value Matrix / Risk-Adjusted Backlog
+  definition: Risk-value matrix — a tool for prioritizing user stories by plotting risk against value
+    (highest priority: high value + low risk; lowest priority: low value + high risk). Risk-adjusted
+    backlog — a product backlog that explicitly includes work and actions to address threats and
+    opportunities, not just feature work.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Cumulative Flow Diagram (CFD)
+  definition: A stacked-area chart showing the number of work items in each workflow state (e.g.
+    Backlog, To Do, In Progress, Done) over time. Used to evaluate overall project progress and spot
+    improvement areas — a widening "in progress" band signals rising WIP and a flow problem.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+- term: Throughput / Throughput Chart
+  definition: Throughput is the amount of work delivered over a specified period. A throughput chart
+    shows accepted deliverables over time (scatter or bar chart) — e.g. story points committed vs.
+    completed per sprint — showing how consistently the team meets its own commitments.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+- term: Escaped Defects
+  definition: The number of defects — per unit of time, per sprint, or per release — that the agile team
+    missed, which are then found by end-users after the product releases. A rising trend signals a
+    quality/testing gap that predates release.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+- term: Feature Chart
+  definition: Displays completed features using a burnup chart, or remaining features using a burndown
+    chart — the same mechanic as a burndown/burnup chart, but counting features instead of story points.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+- term: Empirical Measurement
+  definition: Making decisions based on observation and experimentation (realistic, data-driven
+    progress) rather than on theory and predictions — the basis for agile KPIs, in contrast to
+    traditional projects' focus on predictions and outputs.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+- term: Increment (Potentially Shippable Product Increment)
+  definition: A tested and accepted deliverable at the end of each sprint, representing a functional
+    subset of the project's overall outcome — complete and tested enough to be demonstrated at sprint
+    review and released to end users.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Hawthorne Effect
+  definition: The observation that the very act of measuring something influences the behavior being
+    measured. In agile delivery, measuring only output volume (e.g. features shipped) can push a team
+    toward quantity over customer-satisfying quality; countered by balancing output metrics with
+    customer-satisfaction and quality KPIs (PMBOK 7th edition, page 112).
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+- term: Impediment, Blocker, Bottleneck
+  definition: Anything that slows the team down and delays the completion of project work — surfaced at
+    the daily standup, and the scrum master/servant leader's job to help remove.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Test-Driven Development (TDD) / Behavior-Driven Development (BDD)
+  definition: TDD — writing tests before writing the code, to catch errors and discrepancies early in
+    development. BDD — a development process that encourages collaboration between developers, testers,
+    and non-technical/business participants by expressing behavior in shared, readable language.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Persona
+  definition: A fictional model of a potential product user, used to help the agile team understand the
+    target audience's needs, behaviors, goals, and pain points.
+  domain: agile
+  source: sources/guides/2026-09-14-agile-pm-keywords.md

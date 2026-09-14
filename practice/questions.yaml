@@ -832,3 +832,195 @@
   answer: "Fast-tracking — running originally sequential activities in parallel. It's the less costly option; crashing (adding resources) costs more, so the cheaper compression technique should be tried first when possible (PMBOK 7th edition, page 59)."
   explanation: "Adding duration buffers or leveling resources wouldn't shorten the schedule at all, so they don't answer the sponsor's request."
   source: sources/guides/2026-09-11-predictive-pm-questions.md
+
+- id: q-0105
+  domain: people
+  topic: agile vision vs sprint goal
+  question: "A self-organizing team is reviewing an important Epic and members surface fundamentally different interpretations of how it should be broken down — revealing they don't share a common understanding of why the project exists. What should the PM do, and why isn't reminding them of the sprint goal enough?"
+  answer: "Remind the team of the project/product vision. The sprint goal only frames the current iteration's purpose, not the overall project purpose — it can't fix a gap in understanding that sits above the sprint level."
+  explanation: "The release plan and the Epic's acceptance criteria have the same problem: they clarify a narrower scope (a release, or the Epic's approval conditions) but don't establish the project's overall purpose."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0106
+  domain: process
+  topic: sprint backlog renegotiation
+  question: "Mid-sprint, a team hits unexpected technical complexity (e.g. integrating a third-party payment gateway) and realizes it won't finish all committed user stories. What should happen to the sprint backlog, and why not just cancel the sprint?"
+  answer: "The team collaborates with the product owner to re-negotiate the remaining items on the sprint backlog. The sprint backlog can be clarified and adjusted mid-sprint as more is learned, keeping the sprint goal achievable without a full cancellation."
+  explanation: "Cancelling the sprint is reserved for when the sprint goal itself becomes obsolete, and only the PO can do it — a capacity/complexity surprise doesn't rise to that level."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0107
+  domain: people
+  topic: servant leadership and impediments
+  question: "A designer hired to keep the agile team cross-functional reports that his software subscription plan is missing functionality he needs, and asks for an upgrade. What should the PM do, and what leadership style does this illustrate?"
+  answer: "Reach out to the appropriate stakeholder to get the subscription upgraded. This illustrates servant leadership — the PM's job is to listen for impediments raised by team members and act to remove them, not defer the issue to a future ceremony or tell the member to work around it."
+  explanation: "Telling the designer to be self-reliant, or waiting for the next retrospective, both leave a known impediment blocking the team's work instead of removing it."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0108
+  domain: process
+  topic: risk-value backlog prioritization
+  question: "Using a risk-value matrix to prioritize a product backlog, in what order (highest to lowest priority) should these four categories of items be worked: high value/high risk, high value/low risk, low value/low risk, low value/high risk?"
+  answer: "High value/low risk first, then high value/high risk, then low value/low risk, then low value/high risk last."
+  explanation: "Value is weighted more heavily than risk-avoidance: the matrix pulls high-value work forward regardless of risk level, and pushes low-value work back — with low-value/high-risk items deprioritized hardest since they offer the least return for the most exposure."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0109
+  domain: process
+  topic: Hawthorne effect and success metrics
+  question: "A team measured only by number of features shipped delivers a record volume of features, but customers start complaining about bugs. What should the product owner do, and what behavioral principle explains why measuring only feature count backfired?"
+  answer: "Include customer-satisfaction and quality KPIs as product success metrics, alongside feature count. This is the Hawthorne effect (PMBOK 7th edition, page 112) — the act of measuring one thing (feature volume) shapes behavior toward that thing, at the expense of anything left unmeasured, like quality."
+  explanation: "Adding a tech-debt item to the sprint backlog or discussing feedback at the demo treat symptoms; they don't fix the underlying measurement system that's rewarding volume over quality."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0110
+  domain: people
+  topic: self-organization and buy-in
+  question: "A PM carefully sequenced and assigned all the work himself to hit the iteration goal, but the team is off track halfway through — and the PM is surprised. What should he have done differently?"
+  answer: "Empowered the team to self-organize — letting them handle their own task selection and prioritization — instead of sequencing and assigning the work top-down."
+  explanation: "Self-organization produces higher buy-in and motivation because it gives the team autonomy over how they accomplish their work (PMBOK 7th edition, page 249); training, better reporting, and contingency reserves don't address the root cause here, which is a lack of ownership."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0111
+  domain: process
+  topic: story point estimation
+  question: "A team assigns a task 8 total story points by adding the developers' estimate (5) to the testers' estimate (3) separately. What's wrong with this approach?"
+  answer: "Story points should be estimated for the story as a whole, not built up from separate per-role/per-segment sub-estimates."
+  explanation: "Story points measure the total effort to deliver the whole feature; splitting the estimate by role undercuts the point of relative, whole-story estimation and makes velocity tracking inconsistent across stories."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0112
+  domain: people
+  topic: scaling scrum team size
+  question: "A Scrum team has grown from 6 to 12 members, collaboration has gotten complicated, and standups keep running long. What should the scrum master do, and why not just tighten standup facilitation or extend its timebox?"
+  answer: "Split the team into two Scrum teams and apply Scrum of Scrums to coordinate between them."
+  explanation: "12 members exceeds the practical maximum (~9) for a single Scrum team; tightening or extending the standup timebox treats a symptom of the team being too large rather than the underlying structural problem."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0113
+  domain: process
+  topic: rejected feature at sprint review
+  question: "At sprint review, the product owner rejects a feature the development team demonstrated. What happens to that user story next?"
+  answer: "It gets updated to address the reasons it was rejected, and is then moved back to the product backlog for reprioritization."
+  explanation: "Deleting it isn't rational — the feature was already built, implying it has value; auto-moving it straight into the next sprint backlog skips the PO's reprioritization step against everything else in the backlog."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0114
+  domain: process
+  topic: Definition of Ready
+  question: "A team member insists a user story about a rewards policy shouldn't enter the next sprint because it doesn't specify how rewards vary by employee role or position. What's the most likely reason, and what checklist does it fail?"
+  answer: "The story fails the Definition of Ready (DoR) — the checklist of criteria a story must meet before it's ready to be pulled into a sprint for execution (Agile Practice Guide, page 151)."
+  explanation: "This isn't a Definition of Done issue (DoD applies at review, to a completed increment) — the story never even entered the sprint yet, so the gap is in its readiness for planning, not its completeness at delivery."
+  source: sources/guides/2026-09-14-agile-pm-questions.md
+
+- id: q-0115
+  domain: process
+  topic: user story quality criteria
+  question: "What do the 3 C's of a user story stand for, and what does INVEST add on top of that?"
+  answer: "The 3 C's are Card (the story is written down), Conversation (discussed to build shared understanding), and Confirmation (completion confirmed via acceptance criteria). INVEST is a separate quality checklist for the story itself: Independent, Negotiable, Valuable, Estimable, Small, Testable."
+  explanation: "The 3 C's describe the process of creating and confirming a story; INVEST describes the qualities a well-formed story should have once written."
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+
+- id: q-0116
+  domain: process
+  topic: backlog quality (DEEP)
+  question: "What does the DEEP acronym check for when assessing whether a product backlog is healthy?"
+  answer: "Detailed (appropriately — nearer-term items more so than distant ones), Emergent, Estimated, and Prioritized."
+  explanation: "DEEP is a backlog-level quality checklist, distinct from INVEST, which checks an individual story's quality."
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+
+- id: q-0117
+  domain: people
+  topic: Scrum values and pillars
+  question: "Name Scrum's 3 pillars and its 5 values — and explain the difference between the two groupings."
+  answer: "Pillars (the empirical process foundation): Transparency, Inspection, Adaptation. Values (team behavioral commitments): Commitment, Courage, Focus, Openness, Respect."
+  explanation: "The pillars describe how Scrum's empirical process works; the values describe how the team is expected to behave within that process."
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+
+- id: q-0118
+  domain: people
+  topic: T-shaped vs I-shaped team members
+  question: "What's the difference between a T-shaped and an I-shaped team member, and which is generally more valuable to a cross-functional agile team?"
+  answer: "T-shaped: deep expertise in one area plus workable skills in others, and more willingness to collaborate outside their specialty. I-shaped: deep expertise in only one domain, with no interest in work outside it. T-shaped members are generally more valuable to a cross-functional team."
+  explanation: "Cross-functional teams depend on members being able to flex across work types when needed — I-shaped specialists create more single points of failure."
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+
+- id: q-0119
+  domain: people
+  topic: servant leadership
+  question: "How does servant leadership, as practiced by a Scrum Master, differ from a traditional command-and-control leadership style?"
+  answer: "A servant leader's primary focus is serving and empowering team members — removing impediments and enabling the team's own decision-making — rather than directing and controlling their work."
+  explanation: "This is why a Scrum Master resolves a blocking impediment on a team member's behalf (e.g. escalating a tool/license issue) instead of assigning them a workaround to execute."
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+
+- id: q-0120
+  domain: process
+  topic: product vision, roadmap, and release plan
+  question: "Rank product vision, product roadmap, and release plan from broadest/most strategic to narrowest/most detailed, and say who typically owns them."
+  answer: "Product vision (broadest — the overall future-state 'why') → product roadmap (sequences milestones across the product's life) → release plan (narrowest — maps a specific near-term release's features and timing). The product owner owns all three."
+  explanation: "Exam scenarios often test whether you can tell these apart when a team's confusion is at the vision level (project purpose) vs. the roadmap or release level (delivery sequencing)."
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+
+- id: q-0121
+  domain: process
+  topic: scaled agile frameworks
+  question: "Name three scaled agile frameworks (beyond plain Scrum of Scrums) and what each is best suited for."
+  answer: "SAFe (Scaled Agile Framework) — structured, enterprise-level agile adoption across many teams. LeSS (Large Scale Scrum) — scaling Scrum to multiple teams working on one product. Disciplined Agile (DA/DAD) — lightweight, individuals-first guidance letting each team tailor its own process."
+  explanation: "Scrum of Scrums itself is the lightest-weight scaling technique — just coordinating multiple Scrum teams — while SAFe, LeSS, and DA are more comprehensive frameworks for scaling agile across an organization."
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+
+- id: q-0122
+  domain: process
+  topic: estimation techniques
+  question: "What's the difference between relative estimation and absolute estimation, and which one does planning poker use?"
+  answer: "Relative estimation sizes an item by comparing it to other similar items (e.g. story points); absolute estimation assigns a specific time/cost/effort unit without that comparison. Planning poker is a relative-estimation technique, typically using Fibonacci-sequence cards (0, 1, 2, 3, 5, 8, 13, 21…)."
+  explanation: "The growing gaps between Fibonacci numbers deliberately reflect growing uncertainty as estimates get larger, discouraging false precision on big items."
+  source: sources/guides/2026-09-14-agile-pm-keywords.md
+
+- id: q-0123
+  domain: process
+  topic: burndown vs burnup charts
+  question: "What's the difference between a burndown chart and a burnup chart, and which direction is 'good' on each?"
+  answer: "A burndown chart tracks remaining work with a downward-trending line — trending below the ideal line is good. A burnup chart tracks completed work with an upward-trending line — trending above the ideal line is good."
+  explanation: "Because the two charts plot opposite quantities (remaining vs. completed), 'ahead of plan' looks like below-the-line on one and above-the-line on the other — a common source of exam confusion."
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+
+- id: q-0124
+  domain: process
+  topic: cumulative flow diagram
+  question: "On a Cumulative Flow Diagram (CFD), how do you visually spot a work-in-progress (WIP) problem, and what two time metrics can you also read off the same chart?"
+  answer: "A widening 'In Progress' band (increasing vertical thickness at a point in time) signals rising WIP. Cycle time and lead time can both be read as horizontal distances on the chart: cycle time from 'In Progress' to 'Done', lead time from 'Backlog' all the way to 'Done'."
+  explanation: "The CFD's three headline metrics are throughput, WIP, and cycle time — but lead time is also directly readable as the full horizontal span."
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+
+- id: q-0125
+  domain: process
+  topic: lead time vs cycle time
+  question: "Define lead time and cycle time, and say which one is always the larger (or equal) value."
+  answer: "Lead time is the duration from a task's creation to its completion (Task Created → Work Completed). Cycle time is the duration from when work starts to when it's completed (Work Started → Work Completed). Lead time is always greater than or equal to cycle time, since cycle time is the portion of lead time after work actually begins."
+  explanation: "A task can sit in a backlog for a long time (adding to lead time) before work on it ever starts (which is when the cycle time clock begins)."
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+
+- id: q-0126
+  domain: process
+  topic: throughput chart
+  question: "What does a throughput chart typically compare per sprint, and what does a persistent gap between the two bars tell you?"
+  answer: "It typically compares story points committed vs. story points of work completed, per sprint (as a bar or scatter chart). A persistent gap where completed is well below committed signals the team is over-committing relative to its actual delivery capacity."
+  explanation: "This is the agile-project analog of comparing planned vs. actual — but tracked per-sprint rather than cumulatively like EVM's PV/EV."
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+
+- id: q-0127
+  domain: process
+  topic: escaped defects
+  question: "What are escaped defects, and what does a rising escaped-defects trend over several months most likely indicate?"
+  answer: "Escaped defects are defects the agile team missed — or didn't find — during development, which end-users then discover after the product releases. A rising trend most likely indicates a growing testing/quality gap upstream of release, not just increased support volume."
+  explanation: "Because escaped defects are counted per unit of time (or per sprint/release), a sustained rise points to a systemic quality issue rather than one bad sprint."
+  source: sources/guides/2026-09-14-agile-performance-measurement.md
+
+- id: q-0128
+  domain: process
+  topic: empirical measurement
+  question: "What does 'empirical measurement' mean in an agile context, and how does it contrast with how traditional/predictive projects typically measure performance?"
+  answer: "Empirical measurement means making decisions based on direct observation and experimentation — a realistic, current view of actual project progress. Traditional/predictive measurement instead focuses mainly on predictions and outputs (e.g. planned-value baselines)."
+  explanation: "This is why agile KPIs (burn charts, CFDs, throughput, escaped defects) are all built from actually-observed work, rather than from a pre-set baseline like EVM's PV curve."
+  source: sources/guides/2026-09-14-agile-performance-measurement.md

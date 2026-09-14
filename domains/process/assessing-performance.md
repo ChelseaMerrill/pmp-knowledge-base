@@ -29,3 +29,12 @@ Cost-Benefit analysis, IRR, NPV, and Payback Period are covered in
 [financial-selection-techniques.md](financial-selection-techniques.md) — used to make the case for a
 solution to stakeholders, or to compare/select between projects, rather than to track an in-flight
 project's performance (that's what EVM is for).
+
+## Agile performance measurement
+
+EVM (above) is the predictive-project toolkit for assessing performance. The agile-project equivalent —
+burn charts, cumulative flow diagrams, throughput charts, escaped defects, lead time vs. cycle time, and
+the Hawthorne-effect trap of measuring only one output dimension — is covered in
+[../people/agile-roles-and-events.md](../people/agile-roles-and-events.md#agile-performance-measurement),
+since on the exam these metrics show up bundled with the Scrum roles/ceremonies questions they support
+rather than as standalone Process-domain items.
