@@ -1024,3 +1024,291 @@
   answer: "Empirical measurement means making decisions based on direct observation and experimentation — a realistic, current view of actual project progress. Traditional/predictive measurement instead focuses mainly on predictions and outputs (e.g. planned-value baselines)."
   explanation: "This is why agile KPIs (burn charts, CFDs, throughput, escaped defects) are all built from actually-observed work, rather than from a pre-set baseline like EVM's PV curve."
   source: sources/guides/2026-09-14-agile-performance-measurement.md
+
+- id: q-0129
+  domain: process
+  topic: procurement issue triage
+  question: "A supplier tells the PM a steel-bar order may be delayed 3 days. What should the PM do first, and why not immediately renegotiate with the vendor or find a new one?"
+  answer: "Evaluate the impact of the delay first — a delayed activity doesn't automatically delay the whole project."
+  explanation: "If the activity isn't on the critical path, or has more lag than the delay itself, the project finish date may not move at all — jumping straight to negotiation or vendor replacement skips the impact analysis that should drive the decision."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0130
+  domain: process
+  topic: contract as source of truth for payment
+  question: "A vendor calls a newly assigned PM claiming 50% completion and requesting payment. Which document should the PM check to verify how much (if anything) is owed, and why not the RFP or the vendor's bid response?"
+  answer: "The contract — a mutually binding agreement obligating the seller to deliver and the buyer to pay a predetermined amount on an agreed schedule (PMBOK 7th edition, page 191)."
+  explanation: "The RFP is just the buyer's original request; the seller's bid/proposal may have changed during negotiation before the contract was signed — only the signed contract reflects the final, binding payment terms."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0131
+  domain: process
+  topic: bidder conference scope
+  question: "During a bidder conference, which two things does the PM actually do, and which two things does the PM NOT do there?"
+  answer: "Does: clarify doubts, and explain the bid terms and conditions. Does NOT: shortlist prospective sellers, or award the contract."
+  explanation: "A bidder conference (PMBOK 7th edition, page 70) exists purely to give all potential sellers a common, equal understanding of requirements before they bid — shortlisting and awarding happen later, as separate steps."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0132
+  domain: process
+  topic: high-value procurement approval
+  question: "After scoring vendor proposals and selecting a winner for a complex, high-value, high-risk bridge-repair contract, what should the PM do next, before finalizing the award?"
+  answer: "Seek senior/organizational management approval to finalize the contract award."
+  explanation: "Complex, high-value, high-risk procurements generally require senior management sign-off before award (Process Groups: A Practice Guide (2022), page 238) — on top of, not instead of, the team's own scoring."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0133
+  domain: process
+  topic: contract type identification
+  question: "A seller is awarded an 18-month building contract for one agreed total of $715,500. What contract type is this, and how would you tell it apart from a Time & Material contract?"
+  answer: "Fixed-Price — one set total price for defined work, regardless of the seller's actual incurred costs. T&M instead quotes a rate (hourly, etc.) plus materials, without one fixed total."
+  explanation: "The exam tell for Fixed-Price is a single agreed total tied to a defined scope; T&M's tell is a rate without a precise, complete statement of work."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0134
+  domain: process
+  topic: buyer vs seller procurement documents
+  question: "Of these four procurement documents — proposals, source selection criteria, request for quotes, purchase order — which one is the PM (as buyer) NOT responsible for issuing, and who issues it instead?"
+  answer: "Proposals — those are prepared by the seller, in response to the buyer's request for quotes."
+  explanation: "Source selection criteria, the RFQ, and the purchase order are all buyer-side documents; the proposal is the seller's response to the RFQ, not something the buyer creates."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0135
+  domain: process
+  topic: contract and project closure sequencing
+  question: "A PM has closed every contract on a project except one where the only remaining step is a quick expert inspection — and the equipment is already known to be working fine. Should the PM close the contract and project now to save time?"
+  answer: "No — keep both the contract and the project open until the seller actually performs the inspection."
+  explanation: "Closing a contract requires verifying the seller delivered exactly as specified in the contract, and closing a project requires all its contracts to be closed first — skipping the inspection isn't a valid shortcut even under time pressure."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0136
+  domain: process
+  topic: supplier conflict resolution sequencing
+  question: "Escalating conflicts between the project team and a supplier's team are starting to hurt the project. What should the PM do first, and why is that better than an email or phone call?"
+  answer: "Meet face-to-face with the supplier's team manager to discuss the issue — a face-to-face meeting is always the more effective first step for resolving conflict than email or phone."
+  explanation: "If direct, in-person negotiation fails, the next step is Alternative Dispute Resolution (mediation, arbitration) — not jumping straight to ADR before trying direct discussion."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0137
+  domain: process
+  topic: implementing an approved change exactly as specified
+  question: "A PM receives an approved change request to replace (not repair) a defective battery component near the end of a project. What should the PM do, and why not repair it instead to save time?"
+  answer: "Replace the component, exactly as the approved change request specifies."
+  explanation: "Once a change request is approved, the PM's job is faithful implementation as approved — substituting a different fix (repair instead of replace) isn't the PM's call to make unilaterally."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0138
+  domain: process
+  topic: sponsor-directed termination
+  question: "A sponsor asks the PM to terminate a project midway through execution for a reason external to the contract (e.g. a nearby dam making the project's outcome unappealing). Should the PM push back, negotiate to continue, or proceed with claims administration?"
+  answer: "None of those — the PM should simply follow the sponsor's instruction and start the close-project process."
+  explanation: "There's no contract dispute in play here, so claims administration doesn't apply; when a sponsor decides to terminate for any reason, the PM's role is to execute that decision, not negotiate against it."
+  source: sources/guides/2026-09-15-procurement-contract-questions.md
+
+- id: q-0139
+  domain: process
+  topic: Alternative Dispute Resolution (ADR)
+  question: "What is Alternative Dispute Resolution (ADR), and which specific techniques does it cover?"
+  answer: "ADR is the umbrella term for resolving disputes outside courtroom litigation — covering mediation, adjudication, expert determination, and arbitration."
+  explanation: "ADR sits in the middle of the dispute resolution ladder: after negotiation has been tried and failed, but before resorting to litigation."
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+
+- id: q-0140
+  domain: process
+  topic: cost-reimbursable contract subtypes
+  question: "Name the three main Cost-Reimbursable contract subtypes and what distinguishes each one's fee structure."
+  answer: "CPFF (Cost Plus Fixed Fee) — a flat fee regardless of performance. CPAF (Cost Plus Award Fee) — an extra fee based on satisfying the client's performance criteria. CPIF (Cost Plus Incentive Fee) — an extra fee based on meeting predefined performance targets."
+  explanation: "All three reimburse the seller's legitimate costs; they differ only in how the profit fee on top of those costs is determined."
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+
+- id: q-0141
+  domain: process
+  topic: Force Majeure
+  question: "What is a Force Majeure (Acts of God) clause, and what kind of events does it cover?"
+  answer: "It covers unforeseeable circumstances beyond either party's control — such as natural disasters or wars — that excuse contractual performance."
+  explanation: "Force Majeure is distinct from a breach of contract, which requires a failure to perform without a legal excuse — an Act of God is exactly that legal excuse."
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+
+- id: q-0142
+  domain: process
+  topic: Letter of Intent
+  question: "What is a Letter of Intent, and how is it different from the signed contract itself?"
+  answer: "A Letter of Intent confirms a contract award to a contractor while formal contract documents are still pending signature — it's a pre-cursor to the binding contract, not the contract itself."
+  explanation: "Relying on a Letter of Intent instead of the final signed contract for terms like payment obligations would be a mistake, since it's issued before the formal terms are finalized."
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+
+- id: q-0143
+  domain: process
+  topic: MOA vs MOU
+  question: "What's the difference between a Memorandum of Agreement (MOA) and a Memorandum of Understanding (MOU)?"
+  answer: "An MOA describes the background, assumptions, and agreements between two parties. An MOU describes an agreement for a cooperative effort between two parties — generally less formal/binding than an MOA or a full contract."
+  explanation: "Both sit below a binding contract in formality, but an MOA is more detailed about the specific agreed terms than an MOU's broader statement of cooperative intent."
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+
+- id: q-0144
+  domain: process
+  topic: Retainage
+  question: "What is retainage (holdback) in a contract, and why would a buyer want it?"
+  answer: "A portion of a contract payment held back until contract completion, to ensure the seller fully performs the contract terms."
+  explanation: "It gives the buyer leverage: the seller has a financial incentive to finish and satisfy all requirements, since part of their payment is withheld until then."
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+
+- id: q-0145
+  domain: process
+  topic: make-or-buy analysis timing
+  question: "A PM has already received several supplier proposals for physical resources. Is it still appropriate to run a make-or-buy analysis at this point?"
+  answer: "No — make-or-buy analysis should already have happened before proposals were solicited; at the proposal-comparison stage, the right tool is selection criteria."
+  explanation: "Make-or-buy decides whether to build internally or purchase externally in the first place; once proposals are in hand, that decision has already been made and the task is now comparing sellers against selection criteria."
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+
+- id: q-0146
+  domain: process
+  topic: RFP vs RFQ vs RFI
+  question: "When would a PM issue an RFI instead of an RFQ or RFP?"
+  answer: "An RFI is used when the PM needs more general information from sellers before deciding what to formally request — it comes before an RFQ (pricing on a well-defined item) or an RFP (a full proposed approach for less-defined, complex work)."
+  explanation: "The three form a progression of specificity: RFI (learn) -> RFQ or RFP (formally solicit), chosen based on how well-defined the need already is."
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+
+- id: q-0147
+  domain: process
+  topic: single source vs sole source
+  question: "What's the difference between 'single source' and 'sole source' procurement?"
+  answer: "Single source: the buyer chooses to use only one supplier even though other vendors are available. Sole source: only one provider in the market could actually fulfill the requirement at all."
+  explanation: "Single source is a buyer's choice (e.g. for an existing relationship or standardization); sole source is a market fact the buyer has no alternative to."
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+
+- id: q-0148
+  domain: process
+  topic: centralized vs decentralized procurement
+  question: "What's the difference between centralized and decentralized procurement, and what's a tradeoff of each?"
+  answer: "Centralized: one department manages purchasing for the whole organization (more consistency/control, less local flexibility). Decentralized: individual stakeholders/departments purchase for themselves (more flexibility/speed, less consistency)."
+  explanation: "Neither is universally correct — the choice depends on the organization's need for standardization versus responsiveness."
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+
+- id: q-0149
+  domain: process
+  topic: exit criteria (procurement)
+  question: "In procurement screening, what are 'exit criteria,' and how are they different from a project's phase-exit or kill-point criteria?"
+  answer: "Exit criteria are the conditions a seller's proposal must meet just to be considered at all — fail them, and the proposal is rejected outright before scoring even begins. This is a different concept from a project/phase's closure or kill-point review, which evaluates the project itself, not a vendor's proposal."
+  explanation: "Mixing these two up is a common trap — procurement exit criteria are a pass/fail screening gate for sellers, not a project-governance milestone."
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+
+- id: q-0150
+  domain: process
+  topic: tendering methods
+  question: "What's the difference between open tendering, selective (restricted) tendering, and negotiated tendering?"
+  answer: "Open tendering: a public announcement, anyone can bid. Selective tendering: only vendors personally invited by the buyer can bid. Negotiated tendering: the buyer approaches a single supplier directly, with no competitive bidding at all."
+  explanation: "These three represent decreasing levels of competition, in that order — open has the most competitive pressure, negotiated has none."
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+
+- id: q-0151
+  domain: process
+  topic: dispute resolution ladder order
+  question: "List the six dispute resolution techniques in order from least to most formal/costly."
+  answer: "Negotiation, Mediation, Adjudication, Expert determination, Arbitration, Litigation."
+  explanation: "Parties should generally try each rung before escalating to the next — jumping straight to arbitration or litigation without attempting negotiation first is rarely the right exam answer."
+  source: sources/guides/2026-09-15-dispute-resolution-techniques.md
+
+- id: q-0152
+  domain: process
+  topic: mediation vs arbitration
+  question: "What's the key structural difference between mediation and arbitration?"
+  answer: "In mediation, the neutral third party (mediator) only helps the parties reach their own agreement. In arbitration, the neutral third party (arbitrator) reviews both sides and imposes a binding decision."
+  explanation: "Mediation preserves party control over the outcome; arbitration hands that control to a third party, which is why arbitration sits higher on the formality ladder."
+  source: sources/guides/2026-09-15-dispute-resolution-techniques.md
+
+- id: q-0153
+  domain: process
+  topic: adjudication vs expert determination
+  question: "How does adjudication differ from expert determination as a dispute resolution technique?"
+  answer: "Adjudication uses an impartial third party who reviews evidence and arguments broadly to decide a dispute. Expert determination uses an independent expert chosen specifically for specialized subject-matter knowledge relevant to the dispute."
+  explanation: "The distinguishing factor is the decision-maker's role: a general impartial adjudicator versus a subject-matter expert appointed for their specific expertise."
+  source: sources/guides/2026-09-15-dispute-resolution-techniques.md
+
+- id: q-0154
+  domain: process
+  topic: litigation as last resort
+  question: "Why is litigation described as the 'last resort' among dispute resolution techniques?"
+  answer: "Because it's the most costly, slowest, and most adversarial option, and every less formal technique (negotiation, mediation, adjudication, expert determination, arbitration) should be attempted first."
+  explanation: "This is also why many contracts include a dispute resolution clause specifically to keep disputes out of court where possible."
+  source: sources/guides/2026-09-15-dispute-resolution-techniques.md
+
+- id: q-0155
+  domain: process
+  topic: risk-conflict-claim-dispute escalation
+  question: "Trace how an unmanaged project risk can eventually turn into a full dispute, naming each intermediate stage."
+  answer: "Risk (an uncertain event/condition) -> if not managed, becomes a Conflict (a disagreement between parties) -> if the conflict escalates and interests feel unaddressed, becomes a Claim (a formal request/demand) -> if the claim remains unresolved, becomes a Dispute requiring formal resolution."
+  explanation: "Each stage is a missed opportunity for prevention — this is why claim prevention (managing risks early) is the first stage of the claims management process, not an afterthought."
+  source: sources/guides/2026-09-15-claims-management.md
+
+- id: q-0156
+  domain: process
+  topic: claims management process stages
+  question: "Name the four stages of the claims management process and what each one involves."
+  answer: "Claim Prevention (identifying risks and preventing them from escalating), Claim Mitigation (documentation, change-order processes, and a Dispute Resolution Board set up in advance), Pursuing Claims (claim identification/documentation and quantification of compensation or time sought), and Claim Resolution (resolving the claim and/or closing the contract)."
+  explanation: "These stages overlap rather than run strictly sequentially — Claim Mitigation, for example, starts during Pre-award and continues well into Contract Execution."
+  source: sources/guides/2026-09-15-claims-management.md
+
+- id: q-0157
+  domain: process
+  topic: common causes of claims and disputes
+  question: "Name three common factors that lead to claims and disputes on a project."
+  answer: "Any three of: failure to understand or comply with a contractual obligation; errors or omissions in the contract document; an unrealistic contract duration or completion date."
+  explanation: "Two of these three root causes trace back to problems baked into the contract itself at formation — which is why careful contract drafting is itself a claim-prevention technique."
+  source: sources/guides/2026-09-15-claims-management.md
+
+- id: q-0158
+  domain: process
+  topic: Dispute Resolution Board
+  question: "What is a Dispute Resolution Board (DRB), and at which stage of claims management is it set up?"
+  answer: "A standing panel established in advance to help resolve disputes as they arise, without resorting to arbitration or litigation — it's set up during the Claim Mitigation stage, not reactively after a dispute has already happened."
+  explanation: "Setting up a DRB proactively (like a claims resolution guideline) is a claim-mitigation technique — a common exam trap is trying to set one up only after a dispute is already underway."
+  source: sources/guides/2026-09-15-claims-management.md
+
+- id: q-0159
+  domain: process
+  topic: liquidated damages clause
+  question: "A contract needs a way to charge the contractor for delays without the buyer having to prove the actual dollar amount of harm caused. Which contract clause covers this, and how does it work?"
+  answer: "The liquidated damages clause — a pre-defined amount payable for specific damages (like delays), substituting for having to prove actual damages in court."
+  explanation: "This is different from a termination clause (which governs ending the contract) or an indemnity clause (which transfers risk for loss/damage more broadly)."
+  source: sources/guides/2026-09-15-key-contract-clauses.md
+
+- id: q-0160
+  domain: process
+  topic: time-barred clause
+  question: "A contractor tries to file a claim for extra costs two years after the triggering event, but the contract sets a one-year deadline for claims. What clause governs this, and what's the outcome?"
+  answer: "The time-barred clause — since the claim is filed past the contract's deadline for claims, it is not admissible."
+  explanation: "A time-barred clause exists specifically to close off stale claims, protecting both parties from indefinite exposure to old issues."
+  source: sources/guides/2026-09-15-key-contract-clauses.md
+
+- id: q-0161
+  domain: process
+  topic: indemnity clause
+  question: "What does an indemnity clause do, and how is it different from a liquidated damages clause?"
+  answer: "An indemnity clause transfers risk — it secures one party against loss or damage and defines the events/process that trigger that protection. Liquidated damages instead pre-sets a specific dollar amount payable for a specific type of damage (like delay), without needing to prove actual loss."
+  explanation: "Indemnity is about risk transfer/protection generally; liquidated damages is a narrower, pre-agreed payout mechanism for a specific breach type."
+  source: sources/guides/2026-09-15-key-contract-clauses.md
+
+- id: q-0162
+  domain: process
+  topic: change clause components
+  question: "What three things does a contract's change clause typically define?"
+  answer: "What can be changed, the change-order process to follow, and how a new price will be established once a change is made."
+  explanation: "This is the contract-level counterpart to the project's integrated change control process — the change clause governs how changes get priced and processed under the contract itself."
+  source: sources/guides/2026-09-15-key-contract-clauses.md
+
+- id: q-0163
+  domain: process
+  topic: dispute resolution clause vs termination clause
+  question: "A PM ending a difficult supplier relationship needs to check two different contract clauses. Which clause covers how to resolve outstanding claims without going to court, and which covers ending the relationship itself?"
+  answer: "The dispute resolution clause covers the ADR process and when a dispute escalates to court; the termination clause defines when and how the contract itself can be ended."
+  explanation: "A contract commonly includes both clauses together, since ending a relationship and resolving any outstanding disagreements often need to happen in tandem."
+  source: sources/guides/2026-09-15-key-contract-clauses.md
+
+- id: q-0164
+  domain: process
+  topic: Guaranteed Maximum Price and Unit Price contracts
+  question: "How does a Guaranteed Maximum Price (GMP) contract differ from a Unit Price contract?"
+  answer: "A GMP contract sets a ceiling on the total price for a construction project — the contractor absorbs any cost beyond that cap. A Unit Price contract instead quotes per-unit rates, with the final total price depending on how many units the work actually ends up needing."
+  explanation: "Both are Fixed-Price-family contracts, but GMP fixes a ceiling on the total while Unit Price fixes the per-unit rate and lets the total float with quantity."
+  source: sources/guides/2026-09-15-contract-management-keywords.md

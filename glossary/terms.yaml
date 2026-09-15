@@ -226,7 +226,9 @@
 - term: Fixed-Price Contract
   definition: A contract that sets a total price for a defined scope of work, placing cost-overrun risk
     on the seller. Subfamilies: FFP (Firm Fixed Price), FPIF (Fixed Price Incentive Fee), FPEPA (Fixed
-    Price with Economic Price Adjustment).
+    Price with Economic Price Adjustment), Guaranteed Maximum Price (caps a construction project's
+    price, contractor absorbs any overage), and Unit Price Contract (per-unit rates; total price depends
+    on quantities actually needed).
   domain: process
   source: seed
 - term: Cost-Reimbursable Contract
@@ -1036,7 +1038,8 @@
 - term: Request For Quotation (RFQ) / Proposal (RFP) / Information (RFI)
   definition: 'Procurement request types: RFQ asks for pricing on a well-defined item; RFP asks for a
     full proposed approach on less-defined, complex work; RFI asks for general information before
-    deciding what to formally request.'
+    deciding what to formally request. Invitation for Bid (IFB, aka Request for Tender, Invitation to
+    Tender) is the closely related document inviting suppliers/contractors to bid on a project.'
   domain: process
   source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
 - term: Bidder Conference
@@ -1045,17 +1048,22 @@
   domain: process
   source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
 - term: Exit Criteria
-  definition: The conditions a contract or project must meet to be considered complete.
+  definition: The conditions a seller's proposal must meet just to be considered at all during
+    procurement screening — fail them and the proposal is rejected outright, before scoring even starts.
+    Distinct from a project/phase's closure or kill-point criteria (see Kill Point).
   domain: process
-  source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
 - term: Procurement Audit
   definition: A formal review of procurement processes, procedures, and activities across a project or
     organization.
   domain: process
   source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
 - term: Dispute Resolution Steps
-  definition: 'The order procurement disputes should escalate through: (1) direct negotiation, (2)
-    indirect negotiation (mediation/arbitration), (3) litigation, as a last resort.'
+  definition: 'The order procurement disputes should escalate through, least to most formal/costly:
+    Negotiation (try face-to-face first) -> Mediation -> Adjudication -> Expert determination ->
+    Arbitration -> Litigation, as a last resort. Alternative Dispute Resolution (ADR) is the umbrella
+    term for the mediation/adjudication/expert-determination/arbitration steps in the middle of this
+    ladder.'
   domain: process
   source: sources/guides/2026-09-08-pmp-tips-and-tricks.md
 - term: Grading
@@ -1755,3 +1763,288 @@
     target audience's needs, behaviors, goals, and pain points.
   domain: agile
   source: sources/guides/2026-09-14-agile-pm-keywords.md
+- term: Acquisition
+  definition: The process of getting a product or service through a contract.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Alternative Dispute Resolution (ADR)
+  definition: The umbrella term for methods — mediation, adjudication, expert determination, arbitration
+    — used to resolve conflicts and disputes outside the courtroom litigation process. See Dispute
+    Resolution Steps for the full escalation ladder.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Arbitration
+  definition: A neutral third party (an arbitrator) listens to both sides of a dispute and makes a
+    binding decision — more formal and costly than mediation, but still short of litigation.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Mediation
+  definition: A neutral third party (a mediator) assists disputing parties in reaching a mutually
+    acceptable agreement — unlike arbitration, the mediator doesn't impose a binding decision.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Litigation
+  definition: The process of taking legal action — the last resort on the dispute resolution ladder,
+    after negotiation and every ADR technique has been tried.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Adjudication
+  definition: An impartial third party reviews evidence and arguments to make a decision resolving a
+    dispute — sits between mediation and expert determination on the dispute resolution ladder.
+  domain: process
+  source: sources/guides/2026-09-15-dispute-resolution-techniques.md
+- term: Expert Determination
+  definition: An independent expert is appointed to resolve a dispute based on their specialized
+    knowledge and expertise — sits between adjudication and arbitration on the dispute resolution
+    ladder.
+  domain: process
+  source: sources/guides/2026-09-15-dispute-resolution-techniques.md
+- term: Breach of Contract
+  definition: Failure by either the owner or the contractor, without legal excuse, to perform their
+    obligations to the other party.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Claims Management (Claims Administration)
+  definition: The process of assessing and resolving claims, ensuring compliance with contract terms.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Contract Administrator (Contract Manager)
+  definition: Responsible for overseeing all aspects of contract preparation and administration.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Contract Terms and Conditions
+  definition: The stated legal, financial, and administrative aspects of a contract — the first place to
+    check when a delivery/scope dispute arises with a client or vendor.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Force Majeure (Acts of God)
+  definition: Unforeseeable circumstances or events beyond the control of the parties to a contract, such
+    as natural disasters or wars.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Indefinite Delivery Indefinite Quantity (IDIQ)
+  definition: A contract type used for acquiring an indefinite quantity of goods or services, with a
+    stated lower and upper limit, within a fixed time period.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Letter of Intent
+  definition: A letter issued to a contractor confirming the award of a contract, pending the signing of
+    formal contract documents.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Memorandum of Agreement (MOA)
+  definition: A document describing the background, assumptions, and agreements between two parties.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Memorandum of Understanding (MOU)
+  definition: A document describing an agreement for a cooperative effort between two parties — less
+    formal/binding than an MOA or a contract.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Negligence
+  definition: Failure to exercise reasonable care or caution that results in loss to the other party,
+    whether through action or inaction.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Penalty
+  definition: A fine applied in case of non-fulfillment of contractual obligations.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Retainage (Holdback)
+  definition: A portion of a contract payment held until contract completion, to ensure full performance
+    of the contract terms.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Service Level Agreement (SLA)
+  definition: An agreement on the level of service to be provided.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Special Conditions
+  definition: A section of a set of contract documents that sets out any special requirements or
+    conditions specific to the contract at hand.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Standard Form of Contract (SFoC)
+  definition: A pre-written, standardized contract document that streamlines contracting by providing
+    consistent terms and conditions.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Target Cost
+  definition: A goal set for the final total cost, which the project team should aim to keep within.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Waiver
+  definition: A voluntary abandonment of a legal right or claim by one party, relieving the other party
+    from their obligations.
+  domain: process
+  source: sources/guides/2026-09-15-contract-management-keywords.md
+- term: Key Contract Clauses
+  definition: 'Payment clause: process, timeframes, and final payment terms. Change clause: what can
+    change, the change-order process, and how a new price is set. Indemnity clause: transfers risk
+    against loss/damage and its triggering events. Liquidated damages: a pre-defined payable amount for
+    damages (e.g. delays), substituting for proof of actual damages. Dispute resolution clause: the ADR
+    process and when a dispute escalates to court. Time-barred clause: a deadline past which a
+    contractor''s claims are no longer admissible. Termination clause: when and how the contract can end.'
+  domain: process
+  source: sources/guides/2026-09-15-key-contract-clauses.md
+- term: 'Risk -> Conflict -> Claim -> Dispute Escalation Chain'
+  definition: 'How unmanaged issues compound: a Risk (uncertain event/condition) can lead to a Conflict
+    (a disagreement between parties) if not managed; a Conflict can escalate into a Claim (a formal
+    request/demand tied to contractual obligations, payment, or performance) if interests feel
+    unaddressed; an unresolved Claim can become a full Dispute requiring formal resolution.'
+  domain: process
+  source: sources/guides/2026-09-15-claims-management.md
+- term: Claims Management Process
+  definition: 'Four overlapping stages spanning the procurement lifecycle (Discovery -> Pre-award ->
+    Proposal Process -> Contract Execution & Mgt -> Contract Closeout): (1) Claim Prevention —
+    identifying risks early; (2) Claim Mitigation — good documentation, a change-order process, and a
+    Dispute Resolution Board; (3) Pursuing Claims — claim identification (documentation) and
+    quantification (compensation/time-extension sought); (4) Claim Resolution — resolving the claim
+    and/or closing the contract.'
+  domain: process
+  source: sources/guides/2026-09-15-claims-management.md
+- term: Dispute Resolution Board (DRB)
+  definition: A standing panel set up in advance (during claim mitigation) to help resolve disputes as
+    they arise, without resorting to arbitration or litigation.
+  domain: process
+  source: sources/guides/2026-09-15-claims-management.md
+- term: Advance Payment
+  definition: A prepaid expense from the client, paid to a vendor in advance for goods or services; the
+    remaining amount is paid after successful project delivery.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Alliance (Partnering, Consortium)
+  definition: A formal agreement between two or more parties to collaborate on a bid.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Benchmarking
+  definition: Comparing actual or planned products, processes, and practices to those of comparable
+    organizations, to identify best practices, generate improvement ideas, and provide a basis for
+    measuring performance.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Bid (Tender), Bid Bond, Bid Evaluation
+  definition: 'Bid/Tender: the process of submitting offers to compete for a project or contract. Bid
+    Bond: a bond covering a bid. Bid Evaluation: a comparison of received bids, including an assessment
+    of each bid''s validity against the tendering requirements.'
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Bills of Materials
+  definition: The complete set of physical elements required to accomplish a certain deliverable or the
+    whole project.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Centralized vs. Decentralized Procurement
+  definition: Centralized — one department manages purchasing of goods/services for the entire
+    organization. Decentralized — allows individual stakeholders to make purchases for their own
+    departments.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Concession
+  definition: The official acceptance of components, materials, or workmanship that do not meet the
+    exact specified requirements.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Conflict of Interest
+  definition: A situation where a person or organization has a competing interest that could affect
+    their judgment, decision, or behavior.
+  domain: business-environment
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Control Procurements
+  definition: The process of managing procurement, monitoring its performance, making changes and
+    corrections as appropriate, and closing out contracts.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Depreciation
+  definition: The decrease in the value of tangible property over time.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Feasibility Study
+  definition: An assessment conducted to evaluate the practicality, viability, and potential success of
+    a proposed project or business venture.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Intellectual Property Rights
+  definition: Exclusive rights granted for a specified period to inventors, artists, writers, etc.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Market Analysis (Market Survey)
+  definition: A set of activities to determine what is available in the marketplace — typically informs
+    the procurement strategy before sourcing documents go out.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Notice of Change, Notice of Termination, Notice to Proceed
+  definition: 'Notice of Change: formal written communication detailing a modification to a product,
+    process, or system. Notice of Termination: written notice to the contractor that the contract is
+    ending, for convenience or default. Notice to Proceed: formal notification to the supplier
+    requesting the start of work.'
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Oligopoly
+  definition: A market structure with few sellers, where one seller's actions affect other sellers'
+    prices.
+  domain: business-environment
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Outsourcing
+  definition: Hiring a party outside the company to perform services or create goods that were
+    traditionally performed in-house — the "buy" side of a make-or-buy analysis.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Procurement Inspection vs. Procurement Performance Evaluation vs. Procurement Audit
+  definition: Procurement Inspection verifies procured goods/services conform to contract requirements.
+    Procurement Performance Evaluation is a comprehensive review of conducted procurements to avoid
+    pitfalls in the future. Procurement Audit verifies whether the procurement processes themselves were
+    followed. All three happen after selection/award, not during it.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Procurement Strategy
+  definition: A macro view of the approach to securing the physical resources needed to perform the
+    project — set before sourcing documents (RFQ/RFP/RFI) go out.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Purchase Order (PO)
+  definition: A standard document, issued by the buyer to the seller, used to obtain supplies and
+    non-personnel services when the total amount is relatively small — specifies quantity, type, and
+    price.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Single Source vs. Sole Source
+  definition: Single source — choosing to obtain a product/service from only one supplier even though
+    other vendors are available in the market. Sole source — only one provider in the market could
+    actually fulfill the procurement's requirements in the first place.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Tendering Methods
+  definition: 'Open tendering: a public announcement, anyone can bid. Selective/Restricted tendering:
+    only personally-invited vendors can bid. Negotiated tendering: the buyer approaches a single
+    supplier directly. Single-stage bidding: one round of proposals, then evaluate and award.
+    Double-stage bidding (Two-stage tendering): initial technical-approach proposals, then detailed bids
+    from the shortlist. E-tendering (eProcurement): online platforms automate solicitation and
+    evaluation.'
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Trial Engagement
+  definition: Engaging a provider for a small portion of work to assess their performance before
+    awarding them the full project.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Unsolicited Proposal
+  definition: A proposal submitted that is not a response to a formal solicitation.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Vendor Lock-in
+  definition: A situation where a customer becomes dependent on a particular vendor for their products
+    or services, making it difficult to switch to another vendor.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Walk-away Point
+  definition: The point at which a party feels there's no point in continuing negotiations or pursuing a
+    deal.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Weighting System (Scoring Model)
+  definition: A set of weighted criteria and corresponding key indicators used to measure and score
+    components for comparison and prioritization — how source selection criteria actually get applied to
+    rank competing proposals.
+  domain: process
+  source: sources/guides/2026-09-15-procurement-management-keywords.md
