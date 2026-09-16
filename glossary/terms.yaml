@@ -2048,3 +2048,298 @@
     rank competing proposals.
   domain: process
   source: sources/guides/2026-09-15-procurement-management-keywords.md
+- term: Accuracy vs. Precision
+  definition: Accuracy measures how close a measurement is to reality (correctness). Precision is an
+    assessment of exactness (how tightly repeated measurements cluster together) — a measurement can be
+    precise without being accurate, or vice versa.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Cost of Quality Four-Way Breakdown
+  definition: 'Prevention costs (Cost of Conformance): training, process documentation. Appraisal costs
+    (Cost of Conformance): testing, inspection, regression analysis, auditing. Internal Failure costs
+    (Cost of Non-Conformance): rework, scrap, refactoring. External Failure costs (Cost of
+    Non-Conformance): liabilities, warranty charges, lost business. See the seeded Cost of Quality (COQ)
+    entry for the two-bucket summary.'
+  domain: process
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+- term: Assumption and Constraint Analysis
+  definition: An assessment that ensures assumptions and constraints are properly integrated into the
+    project plans — the process behind maintaining the Assumption Log.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Bug
+  definition: A flaw or defect in software that causes it to behave not as expected — the
+    software-specific synonym for a Defect.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Checklist vs. Check Sheet (Tally Sheet)
+  definition: A checklist lists items/tasks/requirements to be completed or verified for consistency and
+    correctness. A check sheet (tally sheet) records and counts occurrences of specific events or issues
+    — a checklist tracks completion, a check sheet tracks frequency.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Control Chart
+  definition: A graph that tracks process variation over time, aiming to detect potential issues before
+    they cause defects.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Manage Quality vs. Control Quality
+  definition: Manage Quality is the broader process of ensuring products, services, and processes meet
+    established standards and requirements (where the Quality Management Plan gets executed/updated).
+    Control Quality specifically measures completeness, compliance, and fitness for use prior to final
+    delivery. Distinct from Validate Scope, where the customer (not the team) gives formal approval.
+  domain: process
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+- term: Corrective Action vs. Preventive Action
+  definition: Corrective action addresses the root cause of an issue that has already occurred, to
+    prevent recurrence. Preventive action identifies and eliminates potential sources of problems before
+    they occur at all.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Cost of Conformance vs. Cost of Non-Conformance
+  definition: Cost of Conformance (Cost of good quality) is money spent during the project on activities
+    ensuring deliverables meet quality requirements. Cost of Non-Conformance (Cost of bad quality,
+    Failure costs) is money spent during and after the project because quality expectations were not
+    met.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: De Facto vs. De Jure Regulations
+  definition: De facto regulations (market-driven, industry/professional) are widely accepted but not
+    officially sanctioned. De jure regulations are formally recognized and established by law or legal
+    authority — receiving updated de jure codes mid-project should trigger an update to the Quality
+    Management Plan's standards.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Defect
+  definition: A deficiency, error, gap, imperfection, or flaw in a product, process, or service.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Design of Experiments
+  definition: Controlled tests aiming to understand the relationships between factors affecting an
+    outcome.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Flowchart
+  definition: A visual representation illustrating the sequence of steps or processes in a system, often
+    used to analyze, document, or optimize workflows.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Grade
+  definition: The level of quality, rank, or classification of a product — a separate axis from quality
+    (conformance to requirements). A low grade is a deliberate scope choice, not a quality failure.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Histogram
+  definition: A vertical bar chart showing how often a particular variable state occurs (PMBOK 7th
+    edition, page 189) — breaks data into categories, each bar representing one category's share, to
+    support informed decisions.
+  domain: process
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+- term: ISO 9000 Series
+  definition: A series of standards defining an effective Quality Assurance system for manufacturing and
+    service industries.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Just In Time (JIT)
+  definition: An inventory strategy focused on minimizing waste by ordering/acquiring materials only
+    when they are needed for production — a technique, distinct from Lean (the underlying philosophy) or
+    Kanban (a lean method for managing work).
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Pareto Principle (80/20 Rule), Pareto Chart
+  definition: States that 80% of problems come from 20% of causes. A Pareto chart is a histogram ranking
+    issues from highest to lowest frequency, built on this principle — applying it means finding each
+    issue's frequency, not its impact, urgency, or root cause.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Plan-Do-Check-Act (PDCA), Deming Cycle
+  definition: An iterative management method used to facilitate the continuous improvement of processes
+    or products.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Quality Audit vs. Quality Inspection
+  definition: A quality audit (usually external) verifies adherence to quality standards and processes —
+    it examines whether the project follows organizational/project procedures. A quality inspection
+    verifies whether deliverables conform to quality requirements — inspections are performed on the
+    product, audits are performed on the process.
+  domain: process
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+- term: Quality Management Plan
+  definition: Describes how standards, measures, Quality Assurance (QA), and Quality Control (QC) will
+    be implemented to achieve the required quality.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Quality Manager (Quality Engineer)
+  definition: Responsible for overseeing and ensuring adherence to quality standards, procedures, and
+    policies.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Quality Report
+  definition: A summary document outlining findings from quality control or audits.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Refactoring
+  definition: A technique used in software development to improve code quality without altering its
+    expected behavior.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Regression (Software)
+  definition: The reappearance of previously-fixed bugs after new changes are made.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Rework (Rectification)
+  definition: The correction of nonconforming tasks or deliverables in order to achieve the desired
+    level of quality.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Run Chart
+  definition: A graph displaying data points chronologically, illustrating trends or patterns over time.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Scatter Diagram
+  definition: Used to display the relationship or correlation between two variables.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Scrap
+  definition: Defective product or material that cannot be repaired, used, or sold.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Six Sigma
+  definition: A data-driven philosophy of improvement intended to reduce the probability that an error
+    or defect will occur.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Total Quality Management (TQM)
+  definition: A management philosophy focused on continuous improvement through the involvement of all
+    employees in quality goals.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Unit Testing
+  definition: A software testing technique where individual units or components of an application are
+    tested in isolation.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Warranty
+  definition: A legal contract defining how a product is expected to perform and the responsibility of
+    the vendor to address problems.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Waste
+  definition: Activities that consume resources or time without adding value.
+  domain: process
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+- term: Access Control (Authorization) / Information Security
+  definition: Access control regulates who can access and interact with documents, for security and
+    confidentiality. Information Security is the broader process of identifying, assessing, and managing
+    information security risks.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Meeting Artifacts (Agenda, Facilitator, Meeting Minutes, Action Items)
+  definition: 'Agenda: the list of topics to be discussed. Facilitator: encourages knowledge sharing and
+    decision-making during the meeting. Meeting minutes: the written record of everything presented and
+    discussed. Action items: activities agreed to as a result of the discussion, usually recorded in the
+    minutes.'
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Archive
+  definition: Documents preserved and stored for reference, research, or historical purposes, as
+    opposed to active working documents.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Backup vs. Recovery
+  definition: A backup is a copy of data usable when the original is unavailable. Recovery is restoring
+    that backup to replace lost or damaged original data.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Classification (Document)
+  definition: The process of assigning a document to relevant categories for easier management and
+    analysis.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Cloud Storage
+  definition: Data stored on a server, permitting users to access it through the Internet.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Data vs. Information vs. Knowledge
+  definition: Data is raw facts/records collected for reference or analysis. Information is processed
+    data providing meaning, context, or understanding. Knowledge is information and skills acquired
+    through experience or education, applied to improve outcomes (the product of Knowledge Management).
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Data Analysis
+  definition: Examining raw data to uncover patterns, draw conclusions, and make informed decisions or
+    recommendations.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Database
+  definition: Any collection of data or information specially organized for rapid search and retrieval
+    by a computer.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Documentation vs. Document Management
+  definition: Documentation is the process of creating written/electronic records describing
+    procedures, specifications, or information. Document Management is the system/process used to
+    capture, track, and store those documents.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Explicit Knowledge vs. Tacit Knowledge
+  definition: Explicit (codified) knowledge can be captured using words, pictures, or numbers. Tacit
+    knowledge is difficult to articulate and share — beliefs, experience, insights — and is the harder
+    kind to transfer, which is why lessons learned meetings exist.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Information Radiator (Visual Control, Big Visible Charts)
+  definition: A visible, physical display that provides instant information about the project without
+    the need to ask or disturb the team.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Information Retrieval
+  definition: The process of finding relevant information or a document from a large repository, such
+    as a database or an archive.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Kick-off Meeting
+  definition: Takes place at the start of a project or phase to communicate the set objectives and gain
+    the commitment of stakeholders.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Knowledge Management
+  definition: The process of creating and applying knowledge to improve outcomes.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Learning and Development (L&D) Manager
+  definition: A professional responsible for designing and implementing programs to enhance the
+    knowledge, skills, and capabilities of employees within an organization.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Lessons Learned Meeting
+  definition: A meeting used to identify and share the knowledge gained during a project, phase, or
+    iteration — distinct from the Lessons Learned Register, which is the document that records it.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Naming Convention
+  definition: A set of rules and guidelines used to create significant and consistent names for files or
+    variables.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Project Librarian (Project Data Administrator)
+  definition: A professional responsible for managing information and documents in a project.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Records Management (Records Keeping)
+  definition: The process of creating, storing, and maintaining project records.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Report vs. Status Report
+  definition: A report is any formal document presenting information, findings, analysis, or
+    recommendations on a topic. A status report is a specific report type covering the project's current
+    progress/status, including cost and schedule performance — the right document when a sponsor asks
+    broadly where the project stands.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Version / Version Control
+  definition: A version is one iteration/variant of a product, software, or document (later versions
+    typically expand on earlier ones). Version control applies numerical identifiers to track changes,
+    letting teams manage and collaborate on different versions without overwriting each other's work.
+  domain: process
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md

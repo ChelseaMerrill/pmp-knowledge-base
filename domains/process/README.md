@@ -54,11 +54,19 @@ lives. As you process sources, split this into topic files (e.g. `evm-formulas.m
   ranges (and their synonyms), analogous/parametric/bottom-up, expert judgment, the two three-point
   formulas, single-point vs. ranged estimating, the basis of estimates, and agile velocity-based
   estimating.
-- **Quality:** see [quality-management.md](quality-management.md) — QA vs. QC vs. audit, cost of
-  conformance/nonconformance, root cause tools, regulations vs. standards.
+- **Quality:** see [quality-management.md](quality-management.md) — QA vs. QC vs. audit vs. inspection
+  vs. Validate Scope, the seven basic quality tools, JIT/Lean/Six Sigma/TQM/PDCA, the four-way cost of
+  quality breakdown (prevention/appraisal/internal failure/external failure), de jure vs. de facto
+  regulations, and software-quality vocabulary (bug, refactoring, regression).
 - **Procurement:** see [procurement.md](procurement.md) — RFQ/RFP/RFI, bidder conferences, vendor
-  selection, contract subfamilies, dispute resolution. Also: fixed-price / cost-reimbursable / T&M
-  contracts, procurement statement of work, make-or-buy analysis, source selection criteria.
+  selection, contract subfamilies, dispute resolution (the full negotiation → mediation → adjudication →
+  expert determination → arbitration → litigation ladder), claims management, and key contract clauses.
+  Also: fixed-price / cost-reimbursable / T&M contracts, procurement statement of work, make-or-buy
+  analysis, source selection criteria.
+- **Information & knowledge management:** see
+  [information-and-knowledge-management.md](information-and-knowledge-management.md) — the
+  data/information/knowledge hierarchy, explicit vs. tacit knowledge, lessons learned mechanics,
+  document/records management and version control, meeting artifacts, and reporting.
 - **Value delivery:** MVP, incremental delivery, value-stream basics — this task is new/expanded in
   the 2026 outline and blends process mechanics with agile thinking.
 - **Financial selection:** see [financial-selection-techniques.md](financial-selection-techniques.md)

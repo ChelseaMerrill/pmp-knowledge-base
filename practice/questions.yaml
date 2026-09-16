@@ -1312,3 +1312,259 @@
   answer: "A GMP contract sets a ceiling on the total price for a construction project — the contractor absorbs any cost beyond that cap. A Unit Price contract instead quotes per-unit rates, with the final total price depending on how many units the work actually ends up needing."
   explanation: "Both are Fixed-Price-family contracts, but GMP fixes a ceiling on the total while Unit Price fixes the per-unit rate and lets the total float with quantity."
   source: sources/guides/2026-09-15-contract-management-keywords.md
+
+- id: q-0165
+  domain: process
+  topic: accuracy vs precision
+  question: "What's the difference between accuracy and precision as quality measurement terms, and can a measurement be one without the other?"
+  answer: "Accuracy measures how close a measurement is to reality (correctness). Precision measures exactness — how tightly repeated measurements cluster together. Yes — a measurement can be precise (tightly clustered) but inaccurate (consistently off from the true value), or vice versa."
+  explanation: "A common exam trap treats these as synonyms, but they measure different things: correctness vs. consistency."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0166
+  domain: process
+  topic: corrective vs preventive action
+  question: "How does corrective action differ from preventive action?"
+  answer: "Corrective action addresses the root cause of an issue that has already occurred, to prevent recurrence. Preventive action identifies and eliminates potential sources of problems before they occur at all."
+  explanation: "The distinction is timing relative to the problem: corrective is reactive (after), preventive is proactive (before)."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0167
+  domain: process
+  topic: cost of conformance vs non-conformance
+  question: "A project spends money on both employee training and post-release warranty claims. Which cost-of-quality bucket does each fall into?"
+  answer: "Training is a Prevention cost, under Cost of Conformance (money spent during the project to avoid failures). Warranty claims are an External Failure cost, under Cost of Non-Conformance (money spent because failures already happened)."
+  explanation: "Conformance costs are proactive/preventive; non-conformance costs are reactive, paid because quality expectations weren't met."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0168
+  domain: process
+  topic: de facto vs de jure regulations
+  question: "What's the difference between de facto and de jure regulations, and which type, if updated mid-project, should trigger an update to the Quality Management Plan?"
+  answer: "De facto regulations are widely accepted (market/industry-driven) but not officially sanctioned. De jure regulations are formally recognized and established by law or legal authority. Either type being updated mid-project (e.g. new building codes) should trigger updating the Quality Management Plan's standards and specifications."
+  explanation: "The exam scenario usually names a legal/government body issuing the update, which signals de jure — but the QMP update logic applies to a newly-mandated standard either way."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0169
+  domain: process
+  topic: JIT vs Lean vs Kanban vs Kaizen
+  question: "A PM wants to reduce wasted/expired office inventory by only acquiring supplies when needed. Which specific technique is this, and how does it differ from Lean, Kanban, and Kaizen?"
+  answer: "Just In Time (JIT) — only using/acquiring resources when needed. Lean management is the broader philosophy (not a technique) of maximizing value while minimizing waste; Kanban is a lean method for managing and visualizing work; Kaizen is a philosophy of continuous, incremental improvement — a different concept from inventory timing."
+  explanation: "JIT is the specific inventory technique; the other three are broader philosophies or different-purpose methods, even though all four relate to waste reduction."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0170
+  domain: process
+  topic: Pareto chart
+  question: "When building a Pareto chart to prioritize defects, what specific value do you need to determine for each issue?"
+  answer: "Each issue's frequency — a Pareto chart is a histogram ranking issues from highest to lowest frequency, based on the 80/20 rule (80% of problems come from 20% of causes)."
+  explanation: "Not impact, urgency, or root cause — frequency is specifically what a Pareto analysis ranks."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0171
+  domain: process
+  topic: PDCA cycle
+  question: "What does the Plan-Do-Check-Act (PDCA) cycle, aka the Deming Cycle, describe?"
+  answer: "An iterative management method used to facilitate the continuous improvement of processes or products."
+  explanation: "PDCA is a generic improvement loop, distinct from Kaizen (a philosophy) and Six Sigma (a data-driven defect-reduction philosophy) — though all three share a continuous-improvement spirit."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0172
+  domain: process
+  topic: quality audit vs quality inspection
+  question: "What's the difference between a quality audit and a quality inspection, in terms of what each one examines?"
+  answer: "A quality audit verifies adherence to quality standards and processes (usually done by an external auditor) — it examines the process. A quality inspection verifies whether deliverables conform to quality requirements — it examines the product."
+  explanation: "Audits check compliance with procedures; inspections check the actual output."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0173
+  domain: process
+  topic: ISO 9000 series
+  question: "What does the ISO 9000 series of standards define?"
+  answer: "An effective Quality Assurance system for manufacturing and service industries."
+  explanation: "ISO 9000 is a standard, not a regulation — voluntary best practice unless a contract or regulation specifically requires certification against it."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0174
+  domain: process
+  topic: Six Sigma vs TQM
+  question: "How does Six Sigma differ from Total Quality Management (TQM) as a quality philosophy?"
+  answer: "Six Sigma is a data-driven philosophy specifically aimed at reducing the probability of errors/defects occurring. TQM is a broader management philosophy focused on continuous improvement through the involvement of all employees in quality goals."
+  explanation: "Six Sigma is narrower and statistically-driven; TQM is organization-wide and culture-driven."
+  source: sources/guides/2026-09-16-quality-management-keywords.md
+
+- id: q-0175
+  domain: process
+  topic: data vs information vs knowledge
+  question: "Classify these three items: (1) 'Task X is not yet complete,' (2) 'Task X's delay is jeopardizing the release,' (3) a lesson recorded for future projects about why similar delays happen. Which is data, which is information, and which is knowledge?"
+  answer: "(1) Data — a raw fact. (2) Information — processed data giving meaning/context. (3) Knowledge — information and experience applied to improve future outcomes."
+  explanation: "This three-level hierarchy (data -> information -> knowledge) is a common classification exercise on the exam."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0176
+  domain: process
+  topic: explicit vs tacit knowledge
+  question: "What's the difference between explicit and tacit knowledge, and why do lessons learned meetings specifically matter for one of them?"
+  answer: "Explicit (codified) knowledge can be captured directly using words, pictures, or numbers. Tacit knowledge — beliefs, experience, insights — is difficult to articulate and share. Lessons learned meetings exist mainly to surface tacit knowledge before it's lost, since it doesn't get written down on its own."
+  explanation: "Documentation captures explicit knowledge automatically; tacit knowledge needs a deliberate conversation to extract."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0177
+  domain: process
+  topic: lessons learned meeting vs register
+  question: "What's the difference between a lessons learned meeting and a lessons learned register?"
+  answer: "The meeting is the event used to identify and share knowledge gained during a project, phase, or iteration. The register is the document that actually records that knowledge for future reuse."
+  explanation: "One is the process/event, the other is the artifact it produces."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0178
+  domain: process
+  topic: OPA for past project performance
+  question: "A team recalls a similar past project that went over budget and behind schedule. Where should the PM look to find that past project's actual performance details, and why not EEF or the current issue log?"
+  answer: "Organizational Process Assets (OPA) — OPAs bundle the organization's processes/procedures with its corporate knowledge base, including past projects' scope/schedule/cost/quality baselines, stakeholder registers, and issue logs."
+  explanation: "EEF covers external conditions surrounding the company, not internal historical records; the current project's own issue log wouldn't contain a different, past project's data."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0179
+  domain: process
+  topic: information radiator
+  question: "What is an information radiator (aka visual control or Big Visible Chart), and what problem does it solve?"
+  answer: "A visible, physical display that provides instant information about the project without needing to ask or disturb the team."
+  explanation: "A posted Kanban board is one common example, but the concept is broader than any single tool — any big, visible, always-current chart counts."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0180
+  domain: process
+  topic: access control vs information security
+  question: "What's the difference between access control (authorization) and information security?"
+  answer: "Access control specifically regulates who can access and interact with documents, for security and confidentiality. Information security is the broader process of identifying, assessing, and managing information security risks generally."
+  explanation: "Access control is one specific technique/tool used within the broader information security process."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0181
+  domain: process
+  topic: version control
+  question: "What does version control actually do, beyond just naming files v1, v2, v3?"
+  answer: "It applies numerical identifiers to track changes to files or deliverables, letting team members manage and collaborate on different versions effectively without overwriting each other's work."
+  explanation: "The value is in enabling parallel collaboration and change tracking, not just labeling."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0182
+  domain: process
+  topic: naming convention
+  question: "Why does a naming convention matter for document/information management, even though it seems like a trivial detail?"
+  answer: "It's a set of rules and guidelines for creating significant and consistent names for files or variables — without it, information retrieval and document management both become harder as a project scales."
+  explanation: "This is a low-tech but frequently-tested piece of document-management hygiene."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0183
+  domain: process
+  topic: project librarian vs L&D manager
+  question: "What's the difference between a Project Librarian (Project Data Administrator) and a Learning and Development (L&D) Manager?"
+  answer: "A Project Librarian manages information and documents within a project. An L&D Manager designs and implements programs to enhance employees' knowledge, skills, and capabilities across the organization."
+  explanation: "One is project-level and document-focused; the other is organization-level and people-development-focused."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0184
+  domain: process
+  topic: status report vs quality report vs project management plan
+  question: "A sponsor asks broadly for an overview of work performance and where a high-risk, defect-prone project currently stands. Which document should the PM send, and why not a quality report or the project management plan?"
+  answer: "A status report — a work performance report covering the project's progress and status (can include EV data, trend lines/forecasts, reserve burndown, and defect/risk summaries)."
+  explanation: "The sponsor asked broadly for performance/standing, not a quality-specific deep-dive; the project management plan is a planning document, not a reporting one."
+  source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+
+- id: q-0185
+  domain: process
+  topic: inspect before pay or close
+  question: "A supplier delivers materials on the agreed date under a firm-fixed contract. What should the PM do before paying the supplier or closing the contract?"
+  answer: "Inspect the materials to ensure compliance with the requirements stipulated in the contract."
+  explanation: "Inspection always comes before payment/closure and before using the materials — passing inspection is the trigger for payment and contract closure, not delivery alone."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0186
+  domain: process
+  topic: Validate Scope vs internal testing
+  question: "A team internally tests a machine exhaustively, but the client calls asking whether it meets requirements. Is internal test confirmation enough to close the project?"
+  answer: "No — the PM must collaborate with the client to get their formal approval that the product complies with requirements. This is the Validate Scope process: the customer, not the team, gives formal sign-off."
+  explanation: "Internal verification alone can't substitute for the customer's own validation, even after exhaustive internal testing."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0187
+  domain: process
+  topic: technical debt to product backlog
+  question: "An agile team member discovers code that violates coding standards while working on a new feature. What's the correct next step, and why not fix it immediately or ignore it?"
+  answer: "Raise it with the Product Owner to add a new item to the product backlog for the technical debt, to be prioritized like any other work."
+  explanation: "Ignoring it is low ownership (not 'gold plating'); fixing it unplanned mid-sprint by adding it straight to the sprint backlog compromises the current iteration's committed work."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0188
+  domain: process
+  topic: updating the Quality Management Plan for new regulations
+  question: "A PM receives updated building codes and regulations from local authorities at project start. What should the PM update to ensure regulatory compliance?"
+  answer: "The Quality Management Plan — to include the updated quality standards and specifications mandated by the revised codes."
+  explanation: "This ensures deliverables align with the new requirements, rather than just adjusting the schedule, procurement plan, or communications plan around the change."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0189
+  domain: process
+  topic: acceptance sampling for destructive testing
+  question: "A PM needs 1000 identical filters, but a tested filter can't be reused once tested. How should the PM handle inspection given this constraint?"
+  answer: "Order more than 1000 filters, then perform acceptance sampling on the batch surplus."
+  explanation: "When 100% inspection is impossible (here, because testing destroys the item), sampling a portion of the batch/lot is the standard workaround — ordering extra makes that sampling possible without shorting the actual requirement."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0190
+  domain: process
+  topic: root-cause facilitation for a stalled deliverable
+  question: "A team member misses a deadline for a status report, explaining it feels pointless — inaccurate, too long, and unlikely to be read. What should the PM do?"
+  answer: "Review the report's requirements with the team member to redefine its purpose, addressing the root cause of the frustration."
+  explanation: "This beats forcing submission as-is, reassigning it, or escalating to a functional manager — none of which fix the underlying problem that the report itself may be poorly designed."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0191
+  domain: process
+  topic: inspection vs audit vs handover vs scope validation
+  question: "Before announcing project execution complete, a construction PM reviews deliverables and does a site walkthrough. Which of these is this: inspection, audit, handover, or scope validation?"
+  answer: "An inspection — reviewing deliverables and performing a site walkthrough if applicable."
+  explanation: "Audits check process compliance (not product condition); this scenario involves neither a formal customer sign-off (scope validation) nor a handover of deliverables to the client."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0192
+  domain: process
+  topic: appraisal cost calculation
+  question: "A cost-of-quality report lists: Training $10,000, Rework $10,000, Inspection $5,000, Scrap $3,000, Warranty charges $2,000. What is the appraisal cost, and how do you know?"
+  answer: "$5,000 — the Inspection line. Appraisal costs are the testing/inspecting/auditing/evaluating costs under Cost of Conformance."
+  explanation: "Training is a Prevention cost; Rework and Scrap are Internal Failure costs; Warranty charges is an External Failure cost — only Inspection maps to Appraisal."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0193
+  domain: process
+  topic: quality audit scope
+  question: "An external auditor is about to conduct a quality audit on a project. What should the PM expect the audit to examine — budget/schedule status, scope-baseline conformance, product defects, or process compliance?"
+  answer: "Process compliance — whether the project follows organizational and project policies, processes, and procedures."
+  explanation: "Budget/schedule status is a performance review; product defects are Control Quality's job; scope-baseline nonconformance is Scope Control's job — none of those are what a quality audit checks."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0194
+  domain: process
+  topic: historical information for an innovative project
+  question: "A PM is skeptical about a new, innovative project's business model, but has worked with similar organizations before. Should they still use historical information for resource planning?"
+  answer: "Yes — historical information can still provide insight when comparing to resources used on previous similar projects, even if it won't produce a perfectly accurate estimate on its own."
+  explanation: "Historical information supports analogous/parametric estimating, which is faster/cheaper than bottom-up but less accurate — useful insight, not the only valid input."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0195
+  domain: process
+  topic: Definition of Done and Quality Control together
+  question: "A prospect requires 10 firewalls delivered incrementally, with final acceptance granted only after a penetration test confirms all simulated attacks are detected and prevented. What two things is this scenario defining?"
+  answer: "Definition of Done (the checklist of criteria for the product to be considered ready for delivery) and Quality Control (the defect-identification process — here, via penetration testing)."
+  explanation: "Quality Assurance would instead focus on defect prevention, and technical requirements would cover product specs like WiFi support or storage — neither fits this acceptance-condition scenario."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0196
+  domain: process
+  topic: defect breakdown visualization
+  question: "A PM has defect data broken into five categories by percentage (UI issues, UX issues, bugs, missing features, other). What visualization tool fits this data?"
+  answer: "A histogram — a vertical bar chart showing how often each category occurs, letting each bar represent one category's share of the total."
+  explanation: "A scatter diagram would instead show correlation between two continuous variables, and a flowchart shows process steps — neither fits categorical frequency data like this."
+  source: sources/guides/2026-09-16-quality-information-management-questions.md
