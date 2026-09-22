@@ -1608,3 +1608,43 @@
   answer: "Environment — risks arising from the impact of a project on the environment or vice versa."
   explanation: "The Environment category is bidirectional: environmental conditions affecting the project, and the project's impact on the environment, both count."
   source: sources/guides/2026-09-17-causes-of-risks.md
+
+- id: q-0202
+  domain: business-environment
+  topic: Monte Carlo simulation
+  question: "How does a Monte Carlo simulation's output differ from a single-point estimate like 'the project will take 12 months'?"
+  answer: "It produces a probability distribution — e.g. a 70% chance of finishing within 11 months and a 90% chance within 14 months — instead of one fixed number."
+  explanation: "Monte Carlo runs thousands of what-if iterations, each drawing different values from the uncertain variables' probability distributions, to map the full range of possible outcomes."
+  source: sources/guides/2026-09-17-monte-carlo-simulations.md
+
+- id: q-0203
+  domain: business-environment
+  topic: Monte Carlo simulation
+  question: "What is the first step in setting up a Monte Carlo simulation for a project's schedule risk?"
+  answer: "Define the uncertain variables — the parts of the project (e.g. activity durations, costs) that could vary in outcome."
+  explanation: "Only after uncertain variables are identified can probability distributions be assigned to them and simulations run against those distributions."
+  source: sources/guides/2026-09-17-monte-carlo-simulations.md
+
+- id: q-0204
+  domain: business-environment
+  topic: Monte Carlo simulation
+  question: "A PM wants to know what level of contingency reserve is needed to have an 80% confidence of finishing within budget. What quantitative technique directly supports this decision?"
+  answer: "Monte Carlo simulation — its output probability curve shows the confidence level associated with any given budget or schedule target."
+  explanation: "This is a core benefit of Monte Carlo: it quantifies risk exposure in time and cost and supports data-driven contingency decisions at a chosen confidence level."
+  source: sources/guides/2026-09-17-monte-carlo-simulations.md
+
+- id: q-0205
+  domain: business-environment
+  topic: Monte Carlo simulation
+  question: "True or false: Monte Carlo simulation replaces the need to assign probability distributions to individual uncertain variables."
+  answer: "False — assigning probability distributions to each uncertain variable is a required step; the simulation then repeatedly samples from those distributions."
+  explanation: "Without per-variable distributions (e.g. foundation work: 8 days minimum, 10 most likely, 14 maximum), there's nothing for the simulation to sample from."
+  source: sources/guides/2026-09-17-monte-carlo-simulations.md
+
+- id: q-0206
+  domain: business-environment
+  topic: EMV vs. Monte Carlo
+  question: "How does Expected Monetary Value (EMV) differ from Monte Carlo simulation as a quantitative risk technique?"
+  answer: "EMV multiplies each risk's probability by its impact and sums across risks to produce one contingency-reserve figure; Monte Carlo instead simulates thousands of scenarios to produce a full probability distribution of outcomes."
+  explanation: "Both are quantitative techniques, but EMV yields a single aggregate number while Monte Carlo yields a range with associated confidence levels."
+  source: sources/guides/2026-09-17-risk-management-keywords.md

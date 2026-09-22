@@ -48,6 +48,25 @@ obvious threats:
 - **Proximity** — how much time remains before a risk could hit its objective(s).
 - **Connectivity** — whether the risk relates to other individual project risks.
 
+## Quantitative analysis techniques
+
+- **Expected Monetary Value (EMV):** probability × impact, summed across a risk's possible outcomes —
+  the standard way to size a **contingency reserve**. When a risk occurs, the reserve is drawn down by
+  the risk's actual *impact*, not its EMV; remaining reserve = sum of all risks' EMVs minus impacts
+  already spent.
+- **Monte Carlo simulation:** runs thousands of "what-if" iterations, each drawing different values from
+  the probability distributions assigned to uncertain variables (activity duration, cost, etc.), to
+  produce a **probability distribution** of overall outcomes rather than a single-point estimate (e.g.
+  "70% chance of finishing within 11 months, 90% chance within 14"). Steps: define uncertain variables →
+  assign probability distributions → run simulations → analyze the resulting probability curve/histogram
+  to size contingency for a target confidence level.
+- **Decision tree analysis:** supports choosing the best course of action among several alternatives by
+  mapping out decisions, chance events, and their payoffs.
+- **Sensitivity analysis:** determines which risks have the most potential impact on project outcomes —
+  often visualized with a **tornado diagram**, a bar chart ranking each risk's impact magnitude in
+  descending order.
+- **What-if analysis:** explores the potential outcomes of different courses of action.
+
 ## Individual vs. overall risk, and reserves
 
 - **Individual risk** touches one or more specific objectives; **overall project risk** touches the

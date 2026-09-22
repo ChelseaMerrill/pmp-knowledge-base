@@ -2348,3 +2348,26 @@
     Competitiveness, Contractual, Occupational, Environment, and Stakeholder-based.'
   domain: business-environment
   source: sources/guides/2026-09-17-causes-of-risks.md
+- term: Monte Carlo Simulation
+  definition: A quantitative risk-analysis technique that runs thousands of "what-if" iterations,
+    each drawing different values from the probability distributions of uncertain variables (e.g.
+    activity duration or cost), to produce a probability distribution of overall project outcomes
+    instead of a single-point estimate.
+  domain: business-environment
+  source: sources/guides/2026-09-17-monte-carlo-simulations.md
+- term: Expected Monetary Value (EMV)
+  definition: A quantitative risk-analysis method that multiplies each risk's probability by its
+    impact (cost or benefit), then sums across risks — used to size the contingency reserve.
+  domain: formula
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+- term: Decision Tree Analysis
+  definition: A quantitative technique that maps out decisions, chance events, and their payoffs to
+    support choosing the best course of action among several alternatives.
+  domain: business-environment
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+- term: Sensitivity Analysis / Tornado Diagram
+  definition: Sensitivity analysis determines which risks have the most potential impact on project
+    outcomes; a tornado diagram is the bar chart commonly used to visualize the results, ranking each
+    risk's impact magnitude in descending order.
+  domain: business-environment
+  source: sources/guides/2026-09-17-risk-management-keywords.md

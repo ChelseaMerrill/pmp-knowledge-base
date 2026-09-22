@@ -4,7 +4,7 @@ title: "Monte Carlo Simulations (Yassine Tounsi, PMP 35 Hours Master Course)"
 url: 
 date_ingested: 2026-09-17
 domain: business-environment
-status: raw
+status: processed
 ---
 
 <!--
