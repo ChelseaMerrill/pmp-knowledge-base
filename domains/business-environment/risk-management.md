@@ -47,6 +47,9 @@ obvious threats:
 - **Dormancy** — how long a risk's impact stays hidden after it occurs.
 - **Proximity** — how much time remains before a risk could hit its objective(s).
 - **Connectivity** — whether the risk relates to other individual project risks.
+- **Manageability** — how easily the risk owner can manage the risk's occurrence or impact; easy to
+  manage = high manageability.
+- **Risk perception** — how a given stakeholder views a risk, shaped by their own values and concerns.
 
 ## Quantitative analysis techniques
 
@@ -81,6 +84,19 @@ obvious threats:
   the limit of what's acceptable; a **risk-averse** party is unwilling to take on risk at all.
 - **Active acceptance** takes some preparatory action (e.g. setting aside contingency); **passive
   acceptance** just monitors and responds if/when the risk occurs.
+- **Risk attitudes:** risk-averse (avoids risk unless reward clearly outweighs it), risk-neutral
+  (analyzes objectively, then decides), risk-seeker/risk-taker (higher risk tolerance, tends to
+  underestimate severity and see risks as opportunities).
+- **Inherent risk** — the level of risk present before any project work has even begun.
+- **Risk exposure** — an aggregate measure of the potential impact of *all* risks on a project, not
+  just one.
+- **Residual risk** vs. **secondary risk** — residual risk is what's left over after a response is
+  applied; secondary risk is a *new* risk created as a direct result of implementing that response.
+- **Fallback plan (Plan B)** — used when a risk occurs and the primary response strategy proves
+  inadequate.
+- **Risk rating/ranking, Risk Matrix (Probability and Impact Matrix):** qualitative tools that score or
+  visualize risks by likelihood and impact (e.g. 1–5 scale, or Low/Medium/High) to determine which to
+  prioritize.
 
 ## Response strategies (see also the seeded glossary entry)
 

@@ -1648,3 +1648,51 @@
   answer: "EMV multiplies each risk's probability by its impact and sums across risks to produce one contingency-reserve figure; Monte Carlo instead simulates thousands of scenarios to produce a full probability distribution of outcomes."
   explanation: "Both are quantitative techniques, but EMV yields a single aggregate number while Monte Carlo yields a range with associated confidence levels."
   source: sources/guides/2026-09-17-risk-management-keywords.md
+
+- id: q-0207
+  domain: business-environment
+  topic: residual vs. secondary risk
+  question: "A team responds to a data-loss risk by adding an automated nightly backup process. That new backup process itself now introduces a risk of exposing sensitive data during transfer. What is this new risk called, and what is any risk still left over from the original data-loss risk called?"
+  answer: "The new risk introduced by the response is a secondary risk; whatever data-loss risk remains after the response is residual risk."
+  explanation: "Secondary risk arises directly from implementing a response; residual risk is what's left of the original risk after that same response is applied — they're easy to swap on the exam."
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+
+- id: q-0208
+  domain: business-environment
+  topic: risk attitudes
+  question: "A stakeholder consistently underestimates how severe risks could be and tends to view risky situations as opportunities rather than threats. What risk attitude does this describe?"
+  answer: "Risk-seeker (risk-taker) — a higher tolerance for risk paired with underestimating its severity."
+  explanation: "Contrast with risk-averse (avoids risk unless reward clearly outweighs it) and risk-neutral (analyzes objectively before deciding), which are the other two named risk attitudes."
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+
+- id: q-0209
+  domain: business-environment
+  topic: fallback plan
+  question: "A risk occurs and the team's primary planned response turns out to be inadequate to handle it. What should the team fall back on?"
+  answer: "The fallback plan (Plan B) — the backup response prepared specifically for when the primary response proves insufficient."
+  explanation: "A fallback plan is distinct from a workaround: a workaround is an unplanned response to an issue that wasn't anticipated at all, while a fallback plan is pre-planned."
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+
+- id: q-0210
+  domain: business-environment
+  topic: inherent risk vs. risk exposure
+  question: "What is the difference between 'inherent risk' and 'risk exposure' as used in risk management vocabulary?"
+  answer: "Inherent risk is the baseline level of risk present before any project work begins. Risk exposure is an aggregate measure of the potential impact of all risks across the entire project."
+  explanation: "Inherent risk is a starting-point concept (pre-work), while risk exposure is a running, project-wide total that changes as risks are identified, analyzed, and responded to."
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+
+- id: q-0211
+  domain: business-environment
+  topic: manageability and risk perception
+  question: "Two risks have identical probability and impact scores, but the risk owner finds one far easier to control the occurrence and effect of than the other. What risk parameter captures this difference?"
+  answer: "Manageability — the ease with which the risk owner can manage a risk's occurrence or impact. High ease of management = high manageability."
+  explanation: "Manageability is distinct from probability/impact — two risks can score identically on likelihood and severity while differing sharply in how controllable they are."
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+
+- id: q-0212
+  domain: business-environment
+  topic: risk rating and matrix
+  question: "What tool visualizes a project's overall risks according to their likelihood of occurrence and their impact on the project, to help prioritize them?"
+  answer: "A Risk Matrix / Probability and Impact Matrix (also called a Risk Assessment Matrix)."
+  explanation: "This is a qualitative risk analysis tool, distinct from quantitative tools like Monte Carlo simulation or EMV, which produce numeric estimates rather than a prioritization grid."
+  source: sources/guides/2026-09-17-risk-management-keywords.md

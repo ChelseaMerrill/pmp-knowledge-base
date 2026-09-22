@@ -2371,3 +2371,29 @@
     risk's impact magnitude in descending order.
   domain: business-environment
   source: sources/guides/2026-09-17-risk-management-keywords.md
+- term: Fallback Plan (Plan B)
+  definition: The backup response used when a risk occurs and the primary response strategy proves
+    inadequate.
+  domain: business-environment
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+- term: Residual Risk vs. Secondary Risk
+  definition: Residual risk is what remains after a risk response has been applied. Secondary risk is
+    a new risk created as a direct result of implementing that response.
+  domain: business-environment
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+- term: Risk Attitudes (Averse / Neutral / Seeker)
+  definition: 'Risk-averse: unwilling to take on risk unless the reward clearly outweighs it.
+    Risk-neutral: deals with risk objectively and decides based on analysis. Risk-seeker/risk-taker:
+    higher risk tolerance, tends to underestimate severity and see risks as opportunities.'
+  domain: business-environment
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+- term: Risk Rating / Risk Matrix (Probability and Impact Matrix)
+  definition: Qualitative risk-analysis tools that score or visualize risks by likelihood and impact
+    (e.g. a 1-5 scale, or Low/Medium/High) to determine which risks to prioritize.
+  domain: business-environment
+  source: sources/guides/2026-09-17-risk-management-keywords.md
+- term: Inherent Risk / Risk Exposure
+  definition: Inherent risk is the level of risk present before any project work has begun. Risk
+    exposure is an aggregate measure of the potential impact of all risks on a project, not just one.
+  domain: business-environment
+  source: sources/guides/2026-09-17-risk-management-keywords.md
