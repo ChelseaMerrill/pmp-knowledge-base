@@ -2397,3 +2397,8 @@
     exposure is an aggregate measure of the potential impact of all risks on a project, not just one.
   domain: business-environment
   source: sources/guides/2026-09-17-risk-management-keywords.md
+- term: Risk Score
+  definition: Risk Score = Probability x Impact — a calculated risk-level/priority figure often used
+    as a risk register column to rank risks for response planning.
+  domain: formula
+  source: sources/guides/2026-09-17-risk-register.md

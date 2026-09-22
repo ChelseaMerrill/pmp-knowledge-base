@@ -13,6 +13,23 @@ this note adds the process flow and the vocabulary those seeded terms don't cove
 - **Preventive action** addresses a risk before it occurs; **corrective action/workaround** addresses
   an issue after it's already happened. Risks arise from a **trigger condition**.
 
+## Risk register components
+
+Beyond the seeded definition (a document listing identified risks, owners, and planned responses), the
+register's typical columns group into four stages:
+
+- **Identification:** Risk ID, risk description (including root cause and what's impacted), risk
+  category.
+- **Analysis & assessment:** likelihood/probability, impact/severity, and risk level/priority —
+  commonly a calculated **Risk Score = Probability × Impact**.
+- **Response planning:** response strategy (Mitigate/Avoid/Transfer/Accept/etc.), action plan (and its
+  budget), risk owner.
+- **Monitoring & control:** trigger indicators, status (Open/Mitigated/Closed), due date, residual
+  risk, lessons learned.
+
+The register's benefits: a structured way to identify/assess/prioritize/manage risks, built-in
+accountability via assigned owners, and a communication tool for stakeholders.
+
 ## Causes of risk — 7 categories
 
 A structured brainstorming aid so risk identification covers all key areas instead of a narrow set of

@@ -1760,3 +1760,43 @@
   answer: "Add the risks to the risk register and keep monitoring them — passive acceptance is appropriate for low-impact risks."
   explanation: "Active acceptance (a detailed risk response or contingency plan) is reserved for risks that warrant proactive action; ignoring the risks entirely is never correct, even at low impact."
   source: sources/guides/2026-09-17-risk-management-questions.md
+
+- id: q-0221
+  domain: business-environment
+  topic: risk register components
+  question: "Which four groups of columns does a typical risk register organize its data into?"
+  answer: "Identification (Risk ID, description, category), analysis & assessment (likelihood, impact, risk level/score), response planning (strategy, action plan, owner), and monitoring & control (trigger indicators, status, due date, residual risk, lessons learned)."
+  explanation: "This structure mirrors the risk management process itself: identify, analyze, plan responses, then monitor and control."
+  source: sources/guides/2026-09-17-risk-register.md
+
+- id: q-0222
+  domain: business-environment
+  topic: risk register components
+  question: "A risk register lists a risk's likelihood as 'High' and impact as 'Severe,' and calculates a combined value from both. What is this combined value called, and how is it typically calculated?"
+  answer: "The Risk Score (or risk level/priority) — typically calculated as Probability x Impact."
+  explanation: "This score is what lets the team rank and prioritize which risks get response planning attention first."
+  source: sources/guides/2026-09-17-risk-register.md
+
+- id: q-0223
+  domain: business-environment
+  topic: risk register benefits
+  question: "Besides tracking risks throughout the project lifecycle, what are the risk register's other two key benefits?"
+  answer: "Accountability, through assigned risk owners, and serving as a communication tool for stakeholders."
+  explanation: "Beyond being a structured identify/assess/prioritize/manage tool, the register's owner column and stakeholder visibility are exam-relevant benefits in their own right."
+  source: sources/guides/2026-09-17-risk-register.md
+
+- id: q-0224
+  domain: business-environment
+  topic: trigger indicators vs. status
+  question: "A risk register entry lists 'warning signs the risk may occur' in one column and 'Open/Mitigated/Closed' in another. What are these two columns called?"
+  answer: "Trigger indicators and status, respectively — both part of the register's monitoring & control group."
+  explanation: "Trigger indicators are early-warning signs (this is what a trigger condition maps to in the register), while status tracks the risk's current lifecycle state."
+  source: sources/guides/2026-09-17-risk-register.md
+
+- id: q-0225
+  domain: business-environment
+  topic: residual risk in the register
+  question: "After a mitigation response is applied to a risk, what should the risk register record to capture what danger, if any, remains?"
+  answer: "Residual risk — the remaining risk after the response has been applied, recorded under monitoring & control."
+  explanation: "This is distinct from secondary risk, which would be a brand-new risk introduced by the response itself, not what's left of the original."
+  source: sources/guides/2026-09-17-risk-register.md
