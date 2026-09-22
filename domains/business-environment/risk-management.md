@@ -13,6 +13,20 @@ this note adds the process flow and the vocabulary those seeded terms don't cove
 - **Preventive action** addresses a risk before it occurs; **corrective action/workaround** addresses
   an issue after it's already happened. Risks arise from a **trigger condition**.
 
+## Causes of risk — 7 categories
+
+A structured brainstorming aid so risk identification covers all key areas instead of a narrow set of
+obvious threats:
+
+1. **Project-related** — lack of knowledge/processes, misunderstood requirements, inadequate planning.
+2. **Financial** — raw-material price increases, interest-rate fluctuations, cash-flow/funding problems.
+3. **Competitiveness** — resource scarcity or cost, lower opportunities, low ROI.
+4. **Contractual** — penalties, loss of the project.
+5. **Occupational** — injury, burnout, high turnover.
+6. **Environment** — floods, natural disasters, earthquakes (project's impact on environment, or
+   vice versa).
+7. **Stakeholder-based** — communication issues, unsupportive stakeholders.
+
 ## The risk management process
 
 1. Prepare the risk management plan.

@@ -2343,3 +2343,8 @@
     letting teams manage and collaborate on different versions without overwriting each other's work.
   domain: process
   source: sources/guides/2026-09-16-information-knowledge-management-keywords.md
+- term: Causes of Risk (7 Categories)
+  definition: 'A structured risk-identification checklist: Project-related, Financial,
+    Competitiveness, Contractual, Occupational, Environment, and Stakeholder-based.'
+  domain: business-environment
+  source: sources/guides/2026-09-17-causes-of-risks.md

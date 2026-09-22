@@ -1568,3 +1568,43 @@
   answer: "A histogram — a vertical bar chart showing how often each category occurs, letting each bar represent one category's share of the total."
   explanation: "A scatter diagram would instead show correlation between two continuous variables, and a flowchart shows process steps — neither fits categorical frequency data like this."
   source: sources/guides/2026-09-16-quality-information-management-questions.md
+
+- id: q-0197
+  domain: business-environment
+  topic: causes of risk categories
+  question: "A team is worried a new provider's training might be lower quality than well-known providers, and a stakeholder is unsupportive of the training initiative. Which two causes-of-risk categories do these two risks fall under, respectively?"
+  answer: "Competitiveness (lower-quality/cheaper provider affecting outcomes) and Stakeholder-based (an unsupportive stakeholder)."
+  explanation: "The 7 causes-of-risk categories are Project-related, Financial, Competitiveness, Contractual, Occupational, Environment, and Stakeholder-based — each gives a structured lens for brainstorming risks."
+  source: sources/guides/2026-09-17-causes-of-risks.md
+
+- id: q-0198
+  domain: business-environment
+  topic: causes of risk categories
+  question: "A project team worries about high employee turnover and burnout on a demanding project. Which causes-of-risk category does this fall under?"
+  answer: "Occupational — risks related to the health, safety, and well-being of workers."
+  explanation: "Occupational risk examples include injury, burnout, and high turnover, distinct from Project-related risks (planning/execution gaps) or Financial risks (funding/cost)."
+  source: sources/guides/2026-09-17-causes-of-risks.md
+
+- id: q-0199
+  domain: business-environment
+  topic: causes of risk categories
+  question: "What is the purpose of using the 7 causes-of-risk categories (Project-related, Financial, Competitiveness, Contractual, Occupational, Environment, Stakeholder-based) during risk identification?"
+  answer: "They structure brainstorming so the team systematically covers all key risk areas instead of focusing on a narrow, familiar set of threats."
+  explanation: "Categorization streamlines identification and ensures discussion coverage — it's a checklist technique, not a scoring or prioritization method."
+  source: sources/guides/2026-09-17-causes-of-risks.md
+
+- id: q-0200
+  domain: business-environment
+  topic: causes of risk categories
+  question: "A vendor contract includes financial penalties if the project misses its delivery date. Which causes-of-risk category best describes this exposure?"
+  answer: "Contractual — risks associated with legal agreements and contracts."
+  explanation: "Contractual risk examples include penalties and loss of the project; this is distinct from Financial risk, which concerns funding health rather than agreement terms."
+  source: sources/guides/2026-09-17-causes-of-risks.md
+
+- id: q-0201
+  domain: business-environment
+  topic: causes of risk categories
+  question: "Flooding near a construction site could delay the project, and the project's own runoff could affect a nearby wetland. Which causes-of-risk category covers both directions of this risk?"
+  answer: "Environment — risks arising from the impact of a project on the environment or vice versa."
+  explanation: "The Environment category is bidirectional: environmental conditions affecting the project, and the project's impact on the environment, both count."
+  source: sources/guides/2026-09-17-causes-of-risks.md
