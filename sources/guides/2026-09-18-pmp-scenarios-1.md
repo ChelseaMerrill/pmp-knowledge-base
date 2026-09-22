@@ -4,7 +4,7 @@ title: "PMP Scenarios, Part 1 (Yassine Tounsi, PMP 35 Hours Master Course)"
 url: 
 date_ingested: 2026-09-18
 domain: mixed
-status: raw
+status: processed
 ---
 
 <!--

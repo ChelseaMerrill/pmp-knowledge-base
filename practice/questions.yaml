@@ -1800,3 +1800,59 @@
   answer: "Residual risk — the remaining risk after the response has been applied, recorded under monitoring & control."
   explanation: "This is distinct from secondary risk, which would be a brand-new risk introduced by the response itself, not what's left of the original."
   source: sources/guides/2026-09-17-risk-register.md
+
+- id: q-0226
+  domain: process
+  topic: development approach selection
+  question: "A PM will manage a project with some clearly defined requirements and some unclear ones. What development approach should they choose, and what should they do about the unclear parts?"
+  answer: "An iterative, agile, or hybrid approach — not predictive or incremental — and meet with stakeholders to clarify the unclear requirements."
+  explanation: "Partial requirement clarity is the classic cue for an adaptive approach; predictive assumes requirements are fully known up front, which doesn't fit here."
+  source: sources/guides/2026-09-18-pmp-scenarios-1.md
+
+- id: q-0227
+  domain: process
+  topic: development approach selection
+  question: "A project has unclear scope but also must follow strict regulations and detailed documentation requirements. What development approach fits, and why?"
+  answer: "A hybrid approach — agile addresses the scope uncertainty, while predictive elements handle the regulatory compliance and documentation burden."
+  explanation: "Neither pure agile (doesn't guarantee the documentation rigor regulations need) nor pure predictive (doesn't handle the scope uncertainty well) fits alone."
+  source: sources/guides/2026-09-18-pmp-scenarios-1.md
+
+- id: q-0228
+  domain: people
+  topic: unclear roles and RACI
+  question: "A new team member complains about unclear roles and about receiving assignments from multiple stakeholders. Where should the PM look first, and where might they look in an agile project specifically?"
+  answer: "Review the RACI matrix (part of the Resource Management Plan) for accuracy first; in an agile project, also review the team charter, which can list team members and their roles."
+  explanation: "The RACI/RAM answers 'who does what,' distinct from a resource calendar (who's available when) — and the team charter is the agile-specific document covering ground rules and roles."
+  source: sources/guides/2026-09-18-pmp-scenarios-1.md
+
+- id: q-0229
+  domain: process
+  topic: estimation technique selection
+  question: "A PM isn't sure how to produce a high-level estimate for a project's cost or duration. What two techniques does this scenario point to?"
+  answer: "Analogous estimating (using data from a similar past project) and/or consulting an expert for their evaluation."
+  explanation: "Analogous estimating is fast but less accurate than bottom-up; it's the standard answer when a PM needs a quick, high-level number rather than a precise one."
+  source: sources/guides/2026-09-18-pmp-scenarios-1.md
+
+- id: q-0230
+  domain: process
+  topic: critical path method
+  question: "A PM is planning a detailed schedule of project activities and needs to determine which activities are critical to the project's minimum duration. What technique should they use?"
+  answer: "The Critical Path Method (CPM) — it determines the project schedule and identifies which activities are on the critical path."
+  explanation: "Activities on the critical path have zero float; any slip there slips the whole project's finish date."
+  source: sources/guides/2026-09-18-pmp-scenarios-1.md
+
+- id: q-0231
+  domain: process
+  topic: change request vs. product backlog
+  question: "During execution, a stakeholder submits a new requirement. How should the PM handle this in a predictive project versus an agile project?"
+  answer: "Predictive: issue a change request and track it in the change log. Agile: document the new requirement in the Product Backlog for later review/prioritization by the PO."
+  explanation: "Predictive routes new requirements through formal change control; agile absorbs them into backlog prioritization without a formal CR."
+  source: sources/guides/2026-09-18-pmp-scenarios-1.md
+
+- id: q-0232
+  domain: process
+  topic: burndown chart reading
+  question: "A sponsor wants to know how many user stories are done so far in the sprint, and whether the team is on track against plan. What chart answers this?"
+  answer: "A burndown chart — it tracks remaining sprint work and lets the team measure actual vs. planned progress during sprint execution."
+  explanation: "Burndown (remaining work, owned by the PM/Scrum Master) is the sprint-level view; burnup (scope completed, owned by the PO) tracks the release/project level instead."
+  source: sources/guides/2026-09-18-pmp-scenarios-1.md

@@ -100,3 +100,18 @@ actual root cause (competing priorities set by the functional managers who contr
   waterfall) and answer from that part's practice, not the other one.
 - **Tailoring** happens during planning (and can continue for improvement afterward) — choosing which
   processes/tools suit the project, guided by OPAs/PMO standards.
+
+### Choosing a development approach — the exam's decision cues
+
+- **Requirements partly clear, partly unclear:** iterative/agile/hybrid — not predictive or
+  incremental. Meet with stakeholders to clarify the unclear parts.
+- **Unclear scope + must follow regulations/detailed documentation:** hybrid — agile addresses the
+  scope uncertainty, predictive handles the regulatory/documentation burden.
+- **Frequent, ongoing change requests from the client after the project has started:** push to adopt
+  (or lean further into) agile to absorb continuous change; if the project must stay predictive, always
+  route changes through the formal Integrated Change Control Process rather than improvising.
+- **Client wants involvement at every step:** agile — it's built around continuous customer
+  involvement.
+- **Plan must be fully defined before execution starts (scope, schedule, budget):** waterfall.
+- **New, innovative product with unclear features:** iterative approach — identify key features the
+  customer needs first, and aim for a Minimum Viable Product (MVP) rather than the full scope at once.
