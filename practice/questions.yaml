@@ -1696,3 +1696,67 @@
   answer: "A Risk Matrix / Probability and Impact Matrix (also called a Risk Assessment Matrix)."
   explanation: "This is a qualitative risk analysis tool, distinct from quantitative tools like Monte Carlo simulation or EMV, which produce numeric estimates rather than a prioritization grid."
   source: sources/guides/2026-09-17-risk-management-keywords.md
+
+- id: q-0213
+  domain: business-environment
+  topic: risk response strategy selection
+  question: "A team wants Python training. The PM is hesitant about a new low-cost provider's quality, so one developer is enrolled first to test it before committing the rest of the team. What risk response strategy is this?"
+  answer: "Mitigate — reducing the probability/impact of the 'bad training quality' threat by testing with one developer before wider rollout."
+  explanation: "Compare: escalating (handing the decision to senior management), avoiding (choosing a known accredited provider instead), and accepting (going ahead anyway because the cost/impact is low) are the other three strategies matched in this scenario."
+  source: sources/guides/2026-09-17-risk-management-questions.md
+
+- id: q-0214
+  domain: process
+  topic: last responsible moment in agile risk
+  question: "An agile team isn't sure how to implement a user story because it depends on inputs from the current release still in progress. What should the team do next?"
+  answer: "Wait — delay the decision until they have enough information (the last responsible moment), rather than estimating or committing now."
+  explanation: "This follows the Lean principle of deciding as late as possible; final estimates should wait until the team has the information needed to make an educated decision, not be forced early."
+  source: sources/guides/2026-09-17-risk-management-questions.md
+
+- id: q-0215
+  domain: people
+  topic: risk ownership in agile
+  question: "In a risk-averse organization running an agile project with high uncertainty, how is risk management conducted? (Select two)"
+  answer: "The project team analyzes and addresses risks in all planning meetings with a qualitative (not quantitative) focus, and risks are monitored via information radiators, stand-ups, iteration reviews, and retrospectives."
+  explanation: "In agile, the project team owns risk management, not the PM alone — the PM facilitates. This contrasts with predictive projects, where the PM typically owns and updates the risk register directly."
+  source: sources/guides/2026-09-17-risk-management-questions.md
+
+- id: q-0216
+  domain: process
+  topic: alternatives analysis for volatility
+  question: "A PM needs a specialized, in-demand programming skillset that's hard to retain due to rapid language evolution. What's the best response?"
+  answer: "Perform alternatives analysis to explore options, and allocate a sufficient cost reserve to mitigate the high-turnover risk."
+  explanation: "This is a volatility risk (rapid, unpredictable change in available skillsets). Alternatives analysis plus a cost/schedule reserve is the standard response to volatility, rather than switching languages or over-committing team time to training."
+  source: sources/guides/2026-09-17-risk-management-questions.md
+
+- id: q-0217
+  domain: business-environment
+  topic: EMV and contingency reserve drawdown
+  question: "Three risks have EMVs of $1,000, $1,000, and $4,000 (total contingency reserve $6,000). During execution, the $5,000-impact risk with the $1,000 EMV occurs; the other two do not occur. How much contingency reserve is left?"
+  answer: "$1,000 — the reserve started at $6,000 (sum of all EMVs) and is drawn down by the risk's actual impact ($5,000) when it occurs, not by its EMV."
+  explanation: "A common trap is subtracting the EMV instead of the impact — the reserve is spent based on what actually happened, not the original probability-weighted estimate."
+  source: sources/guides/2026-09-17-risk-management-questions.md
+
+- id: q-0218
+  domain: business-environment
+  topic: risk audit vs. risk review
+  question: "Management insists on sending a team of experts to conduct a risk audit even though the PM already completed a risk review that found no shortcomings. Are these two activities redundant?"
+  answer: "No — a risk audit checks whether the risk response plan is being followed (looking backward at process compliance), while a risk review examines the effectiveness of the risk management plan itself, re-evaluating risk events, probability, and impact."
+  explanation: "They check different things: the audit is a compliance/process check (often by an external auditor), the review is an effectiveness check of the plan's content."
+  source: sources/guides/2026-09-17-risk-management-questions.md
+
+- id: q-0219
+  domain: business-environment
+  topic: risk response strategy matching
+  question: "For a construction project's adverse-weather risk, the team purchases weather insurance to protect against financial loss from delays. Which risk response strategy is this?"
+  answer: "Transfer — shifting the financial impact of the risk to a third party (the insurer)."
+  explanation: "Compare: mitigate (adding schedule buffers), escalate (seeking senior management approval for more budget), avoid (using weather-resistant construction methods), and accept (acknowledging the risk with no proactive action) are the other four strategies in this same scenario."
+  source: sources/guides/2026-09-17-risk-management-questions.md
+
+- id: q-0220
+  domain: business-environment
+  topic: passive vs. active risk acceptance
+  question: "Early in planning, a PM identifies some low-impact risks for a book fair project. What should they do next?"
+  answer: "Add the risks to the risk register and keep monitoring them — passive acceptance is appropriate for low-impact risks."
+  explanation: "Active acceptance (a detailed risk response or contingency plan) is reserved for risks that warrant proactive action; ignoring the risks entirely is never correct, even at low impact."
+  source: sources/guides/2026-09-17-risk-management-questions.md

@@ -4,7 +4,7 @@ title: "Risk Management PMP Questions (Yassine Tounsi, PMP 35 Hours Master Cours
 url: 
 date_ingested: 2026-09-17
 domain: mixed
-status: raw
+status: processed
 ---
 
 <!--
