@@ -1856,3 +1856,67 @@
   answer: "A burndown chart — it tracks remaining sprint work and lets the team measure actual vs. planned progress during sprint execution."
   explanation: "Burndown (remaining work, owned by the PM/Scrum Master) is the sprint-level view; burnup (scope completed, owned by the PO) tracks the release/project level instead."
   source: sources/guides/2026-09-18-pmp-scenarios-1.md
+
+- id: q-0233
+  domain: process
+  topic: Kanban focus
+  question: "A team is using the Kanban framework, and the sponsor asks how the team's performance should be shown. What should the PM focus on and show?"
+  answer: "Continuous workflow with limited Work In Progress (WIP) — and the Kanban board itself, for a visual display of the team's progress."
+  explanation: "Kanban is a pull-based, flow-based method distinct from Scrum's timeboxed sprints; the board doubles as an information radiator for exactly this kind of status question."
+  source: sources/guides/2026-09-18-pmp-scenarios-2.md
+
+- id: q-0234
+  domain: process
+  topic: supplier performance issues
+  question: "A supplier is struggling to meet quality requirements. What should the PM do, and what's the last resort?"
+  answer: "Provide the supplier with feedback to help them improve their performance; only as a last resort, find another supplier."
+  explanation: "Switching suppliers is costly and disruptive — the exam favors resolving the relationship first before escalating to replacement."
+  source: sources/guides/2026-09-18-pmp-scenarios-2.md
+
+- id: q-0235
+  domain: people
+  topic: losing a key team member
+  question: "A key team member leaves the project before it's finished. What three things should the PM do?"
+  answer: "Evaluate the impact on the project, ensure knowledge transfer is performed, and follow the resource management plan to find a replacement."
+  explanation: "Knowledge transfer is its own distinct ECO task — losing a team member risks losing tacit knowledge, not just headcount, so it needs explicit handling before/alongside finding a replacement."
+  source: sources/guides/2026-09-18-pmp-scenarios-2.md
+
+- id: q-0236
+  domain: business-environment
+  topic: workplace safety incident
+  question: "An accident in the work environment injures a team member. What should the PM do?"
+  answer: "Investigate the causes of the incident and develop a plan to avoid its recurrence, ensuring safety in the work environment going forward."
+  explanation: "This is an Occupational risk realized as an issue — the response is root-cause-driven prevention, not just documenting the incident."
+  source: sources/guides/2026-09-18-pmp-scenarios-2.md
+
+- id: q-0237
+  domain: people
+  topic: scaling Scrum teams
+  question: "A single Scrum team keeps growing, and communication and synchronization are getting harder. What should the PM do?"
+  answer: "Apply a Scrum of Scrums approach — divide the team into smaller teams and coordinate them across their Scrum Masters."
+  explanation: "This is the standard answer once a Scrum team outgrows its practical size (~9 members) — not abandoning Scrum for a predictive approach."
+  source: sources/guides/2026-09-18-pmp-scenarios-2.md
+
+- id: q-0238
+  domain: process
+  topic: choosing between two projects financially
+  question: "A PM is evaluating two potential projects and needs an objective way to decide which to execute. What should they calculate?"
+  answer: "Net Present Value (NPV), Internal Rate of Return (IRR), or Benefit-Cost Ratio (BCR) for both — the project scoring higher is generally the better choice."
+  explanation: "These are the core financial project-selection metrics; the exam expects a numbers-based comparison rather than a qualitative judgment call here."
+  source: sources/guides/2026-09-18-pmp-scenarios-2.md
+
+- id: q-0239
+  domain: people
+  topic: stakeholder dissatisfaction despite plan adherence
+  question: "The PM is following the project management plan exactly, but stakeholders still seem unhappy. What should the PM do?"
+  answer: "Meet the stakeholders, listen to their concerns, and perform a root cause analysis behind their dissatisfaction."
+  explanation: "Following the plan doesn't guarantee stakeholder satisfaction — the plan itself might not reflect what stakeholders actually need, so the fix starts with listening and root-causing, not defending the plan."
+  source: sources/guides/2026-09-18-pmp-scenarios-2.md
+
+- id: q-0240
+  domain: people
+  topic: stakeholder resistance
+  question: "The PM is facing resistance from key stakeholders. What three things should they do?"
+  answer: "Understand the reason behind the resistance, involve the key stakeholder, and adjust the stakeholder engagement plan and communication management plan accordingly."
+  explanation: "Resistance is a signal to update the engagement approach, not just push through — the response updates both the engagement plan and the comms plan, since the two work together."
+  source: sources/guides/2026-09-18-pmp-scenarios-2.md
