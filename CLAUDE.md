@@ -22,15 +22,20 @@ rather than guessing at its content.
 - Add any new vocabulary to `glossary/terms.yaml` (schema below), tagging `source` with the path to
   the source file.
 - Generate 5–10 quiz questions from the material into `practice/questions.yaml` (schema below), each
-  tagged with `domain`, `topic`, and `source`.
+  tagged with `domain`, `topic`, and `source`. Every question is multiple choice: give it four
+  `choices` (one correct, three plausible distractors of similar length and form) and a `correct`
+  letter, varying which letter is correct.
 - Update the source file's frontmatter to `status: processed`.
 - Commit with a clear message, e.g. `Process: <source title>`.
 
 **3. Quiz.** When asked to "quiz me" (optionally scoped to a domain or topic):
 - Draw a mix of existing questions from `practice/questions.yaml` and fresh ones written on the spot
   from the `domains/` notes — don't limit yourself to the existing bank.
-- Ask one question at a time. Accept free-text answers, not just multiple choice, and grade for
-  correctness against the concept, not exact wording.
+- Ask one question at a time, as multiple choice with options A–D (use the bank's `choices`; write
+  four options for any question you make up on the spot). She answers with a letter.
+- She may also take quizzes in the PMP Command Deck dashboard and paste the results back. When she
+  does, append those lines to `practice/attempts.log` and log the misses in `practice/mistakes.md`
+  as usual.
 - After every answer, append one line to `practice/attempts.log`
   (`date,question_id,domain,topic,correct`). Use `adhoc` as the question_id for a question you wrote
   on the spot rather than pulling from `questions.yaml`.
@@ -85,7 +90,13 @@ status: raw | processed
   domain: people | process | business-environment
   topic: 
   question: 
-  answer: 
+  answer:             # the correct answer in full
+  choices:            # exactly four options, in display order
+    - 
+    - 
+    - 
+    - 
+  correct: B          # letter of the right choice (A–D)
   explanation: 
   source: sources/....md   # or "seed"
 ```

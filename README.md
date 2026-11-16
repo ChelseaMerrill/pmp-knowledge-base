@@ -11,7 +11,8 @@ or `sources/guides/` (templates in each folder's README) — paste the transcrip
 Then ask Claude: *"process my new sources."*
 
 **Study.** Ask Claude: *"quiz me"* or *"quiz me on risk management"* or *"quiz me on stuff I've been
-missing."* Answers can be free text — you don't need to guess at multiple choice.
+missing."* Every question is multiple choice (A–D). Or build a quiz of 10–100 questions in the
+dashboard's Quizzes & Reports tab and paste the results back to Claude so they get logged.
 
 **Check progress.** Ask Claude: *"give me a weak-areas report."* It reads your quiz history and writes
 a dated report to `reports/`, ranking your weakest topics with links back to the notes and sources
